@@ -1,0 +1,8 @@
+{
+  "escenario_P_target_aug": { "threshold_mxn": 18000, "urgent_mxn": 14400 },
+  "escenario_1_mx_to_mad_oneway": { "threshold_mxn": 6500, "urgent_mxn": 5200 },
+  "escenario_2_mad_to_bkk_oneway": { "threshold_eur": 220, "urgent_eur": 176 },
+  "escenario_3_mad_to_mx_oneway": { "threshold_mxn": 6800, "urgent_mxn": 5440 },
+  "escenario_4_mx_mad_roundtrip": { "threshold_mxn": 13000, "urgent_mxn": 10400 },
+  "escenario_5_mx_bkk_roundtrip_combined": { "threshold_mxn": 17000, "urgent_mxn": 13600 }
+}
