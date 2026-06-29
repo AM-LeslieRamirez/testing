@@ -383,5 +383,112 @@
     "fuente": "Trip.com desde MXN7855-8067 Aeromexico/Iberia OW MEX-MAD agosto 2026",
     "verificado": false,
     "link": "https://mx.trip.com/flights/mexico-city-to-madrid/airfares-mex-mad/"
+  },
+  {
+    "timestamp": "2026-06-29T08:06:20Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly",
+      "Iberojet",
+      "Air Europa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5800,
+    "precio_eur": null,
+    "fuente": "Skyscanner CUN-MAD desde $313 USD; World2Fly CUN-MAD desde MXN 5,652 (KAYAK ES); Air Europa 4x/sem directo",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx/rutas/cun/mad/cancun-a-madrid-barajas.html"
+  },
+  {
+    "timestamp": "2026-06-29T08:06:20Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6935,
+    "precio_eur": null,
+    "fuente": "KAYAK MEX-AMS desde $365 USD; KLM/Aeromexico nonstop MEX-AMS",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Mexico-City-Benito-Juarez-MEX/Amsterdam-Schiphol-AMS"
+  },
+  {
+    "timestamp": "2026-06-29T08:06:20Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 7239,
+    "precio_eur": null,
+    "fuente": "Travelocity BA MEX-LHR desde $381 USD; BA directo MEX-LHR",
+    "verificado": false,
+    "link": "https://www.travelocity.com/lp/flight-routes/british-airways-from-mexico-city-intl-to-heathrow/ba/mex/lhr"
+  },
+  {
+    "timestamp": "2026-06-29T08:06:20Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12991,
+    "precio_eur": null,
+    "fuente": "BestDay.com.mx QRO-MAD RT desde MXN 12,991; Iberojet 3x/sem directo QRO-MAD",
+    "verificado": false,
+    "link": "https://www.bestday.com.mx/vuelos/qro/mad/vuelos-a-madrid-desde-queretaro"
+  },
+  {
+    "timestamp": "2026-06-29T08:06:20Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12500,
+    "precio_eur": null,
+    "fuente": "KAYAK World2Fly CUN-MAD RT EUR 288; ref jun/jul MXN 11,872; estimado agosto",
+    "verificado": false,
+    "link": "https://www.kayak.es/vuelos/World2Fly-Madrid-Barajas-MAD/Cancun-CUN.b.2W.ksp"
   }
 ]
