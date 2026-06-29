@@ -3,13 +3,112 @@
   "days_included": [
     "2026-06-29"
   ],
-  "note": "Solo 1 dia de datos disponible (primer run del sistema)",
+  "note": "Solo 1 dia de datos disponible (sistema en arranque)",
   "averages_7d": {
     "E5_combo_rt_via_MAD": {
-      "avg_mxn": 26463.6,
-      "min_mxn": 19436,
-      "max_mxn": 29458,
-      "n": 8
+      "avg_mxn": 26568.3,
+      "min_mxn": 25406,
+      "max_mxn": 27476,
+      "n": 6
+    },
+    "E5_combo_rt_via_AMS": {
+      "avg_mxn": 27318.0,
+      "min_mxn": 27318,
+      "max_mxn": 27318,
+      "n": 1
+    },
+    "E5_combo_rt_via_CDG": {
+      "avg_mxn": 25125.0,
+      "min_mxn": 25125,
+      "max_mxn": 25125,
+      "n": 1
+    },
+    "E5_combo_rt_via_LHR": {
+      "avg_mxn": 27830.0,
+      "min_mxn": 27830,
+      "max_mxn": 27830,
+      "n": 1
+    },
+    "E5_combo_ida_via_MAD": {
+      "avg_mxn": 12812.3,
+      "min_mxn": 11924,
+      "max_mxn": 13738,
+      "n": 6
+    },
+    "E5_combo_ida_via_AMS": {
+      "avg_mxn": 15464.0,
+      "min_mxn": 12023,
+      "max_mxn": 18905,
+      "n": 2
+    },
+    "E5_combo_ida_via_CDG": {
+      "avg_mxn": 13039.5,
+      "min_mxn": 11559,
+      "max_mxn": 14520,
+      "n": 2
+    },
+    "E5_combo_ida_via_LHR": {
+      "avg_mxn": 14771.0,
+      "min_mxn": 11889,
+      "max_mxn": 17653,
+      "n": 2
+    },
+    "E5_combo_ida_via_FRA": {
+      "avg_mxn": 20841.0,
+      "min_mxn": 20841,
+      "max_mxn": 20841,
+      "n": 1
+    },
+    "E1_ida_dest_MAD": {
+      "avg_mxn": 7290.8,
+      "min_mxn": 5800,
+      "max_mxn": 8949,
+      "n": 4
+    },
+    "E1_ida_dest_AMS": {
+      "avg_mxn": 6935.0,
+      "min_mxn": 6935,
+      "max_mxn": 6935,
+      "n": 1
+    },
+    "E1_ida_dest_CDG": {
+      "avg_mxn": 6952.5,
+      "min_mxn": 5472,
+      "max_mxn": 8433,
+      "n": 2
+    },
+    "E1_ida_dest_LHR": {
+      "avg_mxn": 6308.0,
+      "min_mxn": 5377,
+      "max_mxn": 7239,
+      "n": 2
+    },
+    "E2_vuelta": {
+      "avg_mxn": 8502.5,
+      "min_mxn": 8132,
+      "max_mxn": 8873,
+      "n": 2,
+      "note": "FRA outlier $31,597 excluido"
+    },
+    "E3_rt_dest_MAD": {
+      "avg_mxn": 14110.2,
+      "min_mxn": 12500,
+      "max_mxn": 17100,
+      "n": 5
+    },
+    "E3_rt_dest_CDG": {
+      "avg_mxn": 12369.0,
+      "min_mxn": 12369,
+      "max_mxn": 12369,
+      "n": 1
+    },
+    "E4_tramo_bkk": {
+      "avg_eur": 339.6,
+      "min_eur": 319,
+      "max_eur": 367,
+      "avg_mxn": 6283.0,
+      "min_mxn": 5902,
+      "n": 5
     }
   }
 }
