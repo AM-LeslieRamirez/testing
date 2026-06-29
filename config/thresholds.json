@@ -1,8 +1,42 @@
 {
-  "escenario_P_target_aug": { "threshold_mxn": 18000, "urgent_mxn": 14400 },
-  "escenario_1_mx_to_mad_oneway": { "threshold_mxn": 6500, "urgent_mxn": 5200 },
-  "escenario_2_mad_to_bkk_oneway": { "threshold_eur": 220, "urgent_eur": 176 },
-  "escenario_3_mad_to_mx_oneway": { "threshold_mxn": 6800, "urgent_mxn": 5440 },
-  "escenario_4_mx_mad_roundtrip": { "threshold_mxn": 13000, "urgent_mxn": 10400 },
-  "escenario_5_mx_bkk_roundtrip_combined": { "threshold_mxn": 17000, "urgent_mxn": 13600 }
+  "E1_ida_mx_a_europa": {
+    "MAD": { "threshold_mxn": 6500, "urgent_mxn": 5200 },
+    "CDG": { "threshold_mxn": 7500, "urgent_mxn": 6000 },
+    "AMS": { "threshold_mxn": 7500, "urgent_mxn": 6000 },
+    "FRA": { "threshold_mxn": 7500, "urgent_mxn": 6000 },
+    "LHR": { "threshold_mxn": 7500, "urgent_mxn": 6000 },
+    "FCO": { "threshold_mxn": 7500, "urgent_mxn": 6000 }
+  },
+  "E2_vuelta_europa_a_mx": {
+    "threshold_mxn": 7000,
+    "urgent_mxn": 5600
+  },
+  "E3_redondo_mx_europa": {
+    "MAD": { "threshold_mxn": 13000, "urgent_mxn": 10400 },
+    "OTROS_EU": { "threshold_mxn": 15000, "urgent_mxn": 12000 }
+  },
+  "E4_tramo_europa_bkk": {
+    "threshold_eur": 250,
+    "urgent_eur": 200,
+    "threshold_mxn_aprox": 4625,
+    "urgent_mxn_aprox": 3700
+  },
+  "E5_combo_completo_mx_bkk": {
+    "ida_threshold_mxn": 13000,
+    "ida_urgent_mxn": 10400,
+    "rt_threshold_mxn": 28000,
+    "rt_urgent_mxn": 22400
+  },
+  "notas": {
+    "version": "v4",
+    "actualizado": "2026-06-29",
+    "fechas_objetivo": {
+      "ida": "2026-08-05 (±4 días, ventana 1-9 ago)",
+      "vuelta": "2026-08-22 (±4 días, ventana 18-26 ago)",
+      "estancia_ideal_dias": 17
+    },
+    "aeropuertos_origen_mx": ["MEX", "NLU", "CUN", "QRO"],
+    "destinos_europa_validos": ["MAD", "CDG", "AMS", "FRA", "LHR", "FCO"],
+    "regla_dura": "PROHIBIDO escalas en EE.UU. (visa/ESTA). Solo directos o escalas LATAM/Europa/Asia/Mid-East."
+  }
 }
