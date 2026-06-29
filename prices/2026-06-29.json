@@ -698,5 +698,283 @@
     "fuente": "Rutina-B MEX-AMS 6935MXN + Kiwi AMS-BKK EUR275 + Kayak BKK-CDG USD364 + Aeromexico/Kayak CDG-MEX USD441",
     "verificado": false,
     "link": "https://www.kiwi.com/us/cheap-flights/amsterdam-netherlands/bangkok-thailand/"
+  },
+  {
+    "timestamp": "2026-06-29T16:25:00Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "CDG",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5472,
+    "precio_eur": null,
+    "fuente": "Expedia general low ($288 USD x19; agosto bajo demanda; VERIFICAR fechas ago)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/cdg/cancun-to-paris"
+  },
+  {
+    "timestamp": "2026-06-29T16:25:00Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-22",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6347,
+    "precio_eur": null,
+    "fuente": "KAYAK.com.mx MXN$6,347 (agosto 22 dia mas barato QRO-MAD; Iberojet unica directa)",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Santiago-de-Queretaro-QRO/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-06-29T16:25:00Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberia"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8949,
+    "precio_eur": null,
+    "fuente": "KAYAK/Expedia ($471 USD x19; agosto 12 precio mas bajo encontrado para MEX-MAD)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/mex/mad/mexico-city-to-madrid"
+  },
+  {
+    "timestamp": "2026-06-29T16:25:00Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberia",
+      "Aeromexico"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8873,
+    "precio_eur": null,
+    "fuente": "KAYAK ($467 USD x19; precio minimo historico MAD->MEX; agosto similar)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Madrid-Barajas-MAD/Mexico-City-Benito-Juarez-MEX"
+  },
+  {
+    "timestamp": "2026-06-29T16:25:00Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways",
+      "Aeromexico"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8132,
+    "precio_eur": null,
+    "fuente": "Skyscanner ($428 USD x19; precio minimo LHR->MEX; agosto similar)",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/lhr/mex/london-heathrow-to-mexico-city-juarez-international.html"
+  },
+  {
+    "timestamp": "2026-06-29T16:25:00Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "MEX",
+    "destino_eu": "FRA",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-07",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 31597,
+    "precio_eur": null,
+    "fuente": "Google Flights (Lufthansa FRA->MEX $1,663 USD x19; agosto 7; muy alto)",
+    "verificado": false,
+    "link": "https://www.google.com/travel/flights/flights-from-frankfurt-am-main-to-mexico-city.html"
+  },
+  {
+    "timestamp": "2026-06-29T16:25:00Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-15",
+    "fecha_vuelta": "2026-08-29",
+    "dias_estancia": 14,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12538,
+    "precio_eur": null,
+    "fuente": "Iberojet/KAYAK (RT MXN$12,538 agosto 2026 confirmado; mejor precio que entrada previa)",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-queretaro-to-madrid"
+  },
+  {
+    "timestamp": "2026-06-29T16:25:00Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-09",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 13,
+    "aerolineas": [
+      "Aeromexico"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 17100,
+    "precio_eur": null,
+    "fuente": "KAYAK/Expedia (RT $900 USD x19; Aeromexico ago 9-22; sobre umbral)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/mex/mad/mexico-city-to-madrid"
+  },
+  {
+    "timestamp": "2026-06-29T16:25:00Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5902,
+    "precio_eur": 319,
+    "fuente": "momondo/Iberojet (EUR319 en 2026; directo jue/dom; umbral EUR250 NO alcanzado)",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
+  },
+  {
+    "timestamp": "2026-06-29T16:25:00Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6124,
+    "precio_eur": 331,
+    "fuente": "KAYAK/Expedia ($360 USD ago19 dia barato; x0.92=EUR331; KLM directo AMS-BKK)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/ams/bkk/amsterdam-to-bangkok"
+  },
+  {
+    "timestamp": "2026-06-29T16:25:00Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6087,
+    "precio_eur": 329,
+    "fuente": "momondo/KAYAK ($358 USD x0.92=EUR329; precio general CDG-BKK 2026; AF directo)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cdg/bkk/paris-to-bangkok"
+  },
+  {
+    "timestamp": "2026-06-29T16:25:00Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways",
+      "Thai Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6512,
+    "precio_eur": 352,
+    "fuente": "KAYAK ($383 USD x0.92=EUR352; precio general LHR-BKK; BA o Thai directo)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/lhr/bkk/london-to-bangkok"
+  },
+  {
+    "timestamp": "2026-06-29T16:25:00Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Lufthansa",
+      "Thai Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6790,
+    "precio_eur": 367,
+    "fuente": "KAYAK/Expedia ($399 USD x0.92=EUR367; precio general FRA-BKK; LH o TG con escala)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/fra/bkk/frankfurt-to-bangkok"
   }
 ]
