@@ -490,5 +490,213 @@
     "fuente": "KAYAK World2Fly CUN-MAD RT EUR 288; ref jun/jul MXN 11,872; estimado agosto",
     "verificado": false,
     "link": "https://www.kayak.es/vuelos/World2Fly-Madrid-Barajas-MAD/Cancun-CUN.b.2W.ksp"
+  },
+  {
+    "timestamp": "2026-06-29T14:03:36Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "World2Fly",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 11924,
+    "precio_desglose_mxn": {
+      "MX_EU": 6707,
+      "EU_BKK": 5217,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Skyscanner/Kayak CUN-MAD ~USD353 + Kiwi/Iberojet MAD-BKK ~EUR282",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/cun/mad/cancun-to-madrid.html"
+  },
+  {
+    "timestamp": "2026-06-29T14:03:36Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM",
+      "KLM"
+    ],
+    "escalas": [
+      "AMS"
+    ],
+    "precio_total_mxn": 12023,
+    "precio_desglose_mxn": {
+      "MX_EU": 6935,
+      "EU_BKK": 5088,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Rutina-B baseline MEX-AMS 6935MXN + Kiwi/Kayak AMS-BKK EUR275",
+    "verificado": false,
+    "link": "https://www.kiwi.com/us/cheap-flights/amsterdam-netherlands/bangkok-thailand/"
+  },
+  {
+    "timestamp": "2026-06-29T14:03:36Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 12114,
+    "precio_desglose_mxn": {
+      "MX_EU": 6897,
+      "EU_BKK": 5217,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Skyscanner/Expedia QRO-MAD Iberojet ~USD363 + Kiwi/Skyscanner MAD-BKK EUR282",
+    "verificado": false,
+    "link": "https://www.espanol.skyscanner.com/rutas/qro/mad/queretaro-a-madrid-barajas.html"
+  },
+  {
+    "timestamp": "2026-06-29T14:03:36Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 13387,
+    "precio_desglose_mxn": {
+      "MX_EU": 8170,
+      "EU_BKK": 5217,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Google Flights MEX-MAD Aeromexico RT/2 ~USD430 + Kiwi/Skyscanner MAD-BKK EUR282",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Mexico-City-Benito-Juarez-MEX/Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-06-29T14:03:36Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly",
+      "Iberojet",
+      "Iberojet",
+      "Air Europa"
+    ],
+    "escalas": [
+      "MAD",
+      "MAD"
+    ],
+    "precio_total_mxn": 26354,
+    "precio_desglose_mxn": {
+      "MX_EU": 6707,
+      "EU_BKK": 5217,
+      "BKK_EU": 7400,
+      "EU_MX": 7030
+    },
+    "fuente": "Skyscanner CUN-MAD USD353 + Iberojet MAD-BKK EUR282 + Iberojet BKK-MAD est EUR400 + Air Europa MAD-CUN USD370",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/cun/mad/cancun-to-madrid.html"
+  },
+  {
+    "timestamp": "2026-06-29T14:03:36Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet",
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD",
+      "MAD"
+    ],
+    "precio_total_mxn": 26411,
+    "precio_desglose_mxn": {
+      "MX_EU": 6897,
+      "EU_BKK": 5217,
+      "BKK_EU": 7400,
+      "EU_MX": 6897
+    },
+    "fuente": "Skyscanner QRO-MAD Iberojet USD363 + Iberojet MAD-BKK EUR282 + BKK-MAD est EUR400 + MAD-QRO Iberojet USD363",
+    "verificado": false,
+    "link": "https://www.espanol.skyscanner.com/rutas/qro/mad/queretaro-a-madrid-barajas.html"
+  },
+  {
+    "timestamp": "2026-06-29T14:03:36Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "KLM",
+      "KLM",
+      "Air France",
+      "Aeromexico"
+    ],
+    "escalas": [
+      "AMS",
+      "CDG"
+    ],
+    "precio_total_mxn": 27318,
+    "precio_desglose_mxn": {
+      "MX_EU": 6935,
+      "EU_BKK": 5088,
+      "BKK_EU": 6916,
+      "EU_MX": 8379
+    },
+    "fuente": "Rutina-B MEX-AMS 6935MXN + Kiwi AMS-BKK EUR275 + Kayak BKK-CDG USD364 + Aeromexico/Kayak CDG-MEX USD441",
+    "verificado": false,
+    "link": "https://www.kiwi.com/us/cheap-flights/amsterdam-netherlands/bangkok-thailand/"
   }
 ]
