@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "date": "2026-06-29",
+    "total_entries": 8,
+    "min_combo_rt_mxn": 19436,
+    "min_combo_ida_mxn": null,
+    "urgent_count": 1,
+    "deals_under_threshold": 5
+  }
+]

@@ -1,4 +1,15 @@
 {
-  "last_updated": null,
-  "averages_7d": {}
+  "last_updated": "2026-06-29",
+  "days_included": [
+    "2026-06-29"
+  ],
+  "note": "Solo 1 dia de datos disponible (primer run del sistema)",
+  "averages_7d": {
+    "E5_combo_rt_via_MAD": {
+      "avg_mxn": 26463.6,
+      "min_mxn": 19436,
+      "max_mxn": 29458,
+      "n": 8
+    }
+  }
 }
