@@ -976,5 +976,248 @@
     "fuente": "KAYAK/Expedia ($399 USD x0.92=EUR367; precio general FRA-BKK; LH o TG con escala)",
     "verificado": false,
     "link": "https://www.expedia.com/lp/flights/fra/bkk/frankfurt-to-bangkok"
+  },
+  {
+    "timestamp": "2026-06-29T20:02:33Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "CDG",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8433,
+    "fuente": "Google Flights",
+    "verificado": false,
+    "link": "https://www.google.com/travel/flights/flights-from-mexico-city-to-paris.html"
+  },
+  {
+    "timestamp": "2026-06-29T20:02:33Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "LHR",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5377,
+    "fuente": "Expedia",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/lhr/cancun-to-london"
+  },
+  {
+    "timestamp": "2026-06-29T20:02:33Z",
+    "rutina": "A",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "CUN",
+    "destino_eu": "CDG",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12369,
+    "fuente": "Expedia + Skyscanner",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/cdg/cancun-to-paris"
+  },
+  {
+    "timestamp": "2026-06-29T20:02:33Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air France",
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 14520,
+    "precio_desglose_mxn": {
+      "MX_EU": 8433,
+      "EU_BKK": 6087,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Google Flights + registros E4",
+    "verificado": false,
+    "link": "https://www.google.com/travel/flights/flights-from-mexico-city-to-paris.html"
+  },
+  {
+    "timestamp": "2026-06-29T20:02:33Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air France",
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 11559,
+    "precio_desglose_mxn": {
+      "MX_EU": 5472,
+      "EU_BKK": 6087,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Expedia + registros E4",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/cdg/cancun-to-paris"
+  },
+  {
+    "timestamp": "2026-06-29T20:02:33Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "British Airways",
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 11889,
+    "precio_desglose_mxn": {
+      "MX_EU": 5377,
+      "EU_BKK": 6512,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Expedia + registros E4",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/lhr/cancun-to-london"
+  },
+  {
+    "timestamp": "2026-06-29T20:02:33Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "British Airways",
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 17653,
+    "precio_desglose_mxn": {
+      "MX_EU": 11141,
+      "EU_BKK": 6512,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Expedia (BA) + registros E4",
+    "verificado": false,
+    "link": "https://www.expedia.mx/lp/flight-routes/british-airways-from-mexico-city-intl-to-heathrow/ba/mex/lhr"
+  },
+  {
+    "timestamp": "2026-06-29T20:02:33Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Lufthansa",
+      "Lufthansa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 20841,
+    "precio_desglose_mxn": {
+      "MX_EU": 14051,
+      "EU_BKK": 6790,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "eDreams + registros E4",
+    "verificado": false,
+    "link": "https://www.edreams.com.mx/aerolinea/LH/lufthansa/MEX/ciudad-de-mexico/FRA/frankfurt/"
+  },
+  {
+    "timestamp": "2026-06-29T20:02:33Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air France",
+      "Air France",
+      "Air France",
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 25125,
+    "precio_desglose_mxn": {
+      "MX_EU": 5472,
+      "EU_BKK": 6087,
+      "BKK_EU": 6669,
+      "EU_MX": 6897
+    },
+    "fuente": "Expedia + Skyscanner + search data",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/cdg/cancun-to-paris"
+  },
+  {
+    "timestamp": "2026-06-29T20:02:33Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 18,
+    "aerolineas": [
+      "British Airways",
+      "British Airways",
+      "British Airways",
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 27830,
+    "precio_desglose_mxn": {
+      "MX_EU": 5377,
+      "EU_BKK": 6512,
+      "BKK_EU": 6916,
+      "EU_MX": 9025
+    },
+    "fuente": "Expedia + search data",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/lhr/cancun-to-london"
   }
 ]
