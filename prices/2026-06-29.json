@@ -126,5 +126,262 @@
     "fuente": "eDreams.com.mx / Skyscanner / iberojet.com",
     "verificado": false,
     "link": "https://www.edreams.com.mx/aerolinea/IB/iberia/MEX/ciudad-de-mexico/MAD/madrid/"
+  },
+  {
+    "timestamp": "2026-06-29T08:03:37Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 13738,
+    "precio_desglose_mxn": {
+      "MX_EU": 7855,
+      "EU_BKK": 5883
+    },
+    "fuente": "Trip.com MXN7855 OW Aeromexico MEX-MAD ago; Iberojet.com EUR318 OW MAD-BKK",
+    "verificado": false,
+    "link": "https://mx.trip.com/flights/mexico-city-to-madrid/airfares-mex-mad/"
+  },
+  {
+    "timestamp": "2026-06-29T08:03:37Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 13008,
+    "precio_desglose_mxn": {
+      "MX_EU": 7125,
+      "EU_BKK": 5883
+    },
+    "fuente": "Skyscanner $375 USD OW Iberojet QRO-MAD ago15; Iberojet.com EUR318 OW MAD-BKK",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Santiago-de-Queretaro-QRO/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-06-29T08:03:37Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 12703,
+    "precio_desglose_mxn": {
+      "MX_EU": 6820,
+      "EU_BKK": 5883
+    },
+    "fuente": "Skyscanner GBP283 OW Iberojet CUN-MAD ago31 ref; Iberojet EUR318 OW MAD-BKK",
+    "verificado": false,
+    "link": "https://www.skyscanner.net/routes/cun/mad/cancun-to-madrid.html"
+  },
+  {
+    "timestamp": "2026-06-29T08:03:37Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberia",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 26689,
+    "precio_desglose_mxn": {
+      "MX_EU": 7711,
+      "EU_BKK": 5634,
+      "BKK_EU": 5633,
+      "EU_MX": 7711
+    },
+    "fuente": "eDreams RT Iberia MEX-MAD MXN15422; Iberojet RT MAD-BKK EUR609=MXN11267",
+    "verificado": false,
+    "link": "https://www.edreams.com.mx/aerolinea/IB/iberia/MEX/ciudad-de-mexico/MAD/madrid/"
+  },
+  {
+    "timestamp": "2026-06-29T08:03:37Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-08",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 14,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 27074,
+    "precio_desglose_mxn": {
+      "MX_EU": 7904,
+      "EU_BKK": 5634,
+      "BKK_EU": 5633,
+      "EU_MX": 7903
+    },
+    "fuente": "KAYAK RT Iberojet QRO-MAD MXN15807 ago8/22; Iberojet RT MAD-BKK EUR609",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-queretaro-to-madrid"
+  },
+  {
+    "timestamp": "2026-06-29T08:03:37Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 25406,
+    "precio_desglose_mxn": {
+      "MX_EU": 6820,
+      "EU_BKK": 5883,
+      "BKK_EU": 5883,
+      "EU_MX": 6820
+    },
+    "fuente": "Skyscanner GBP283 OW Iberojet CUN-MAD (ref); Iberojet EUR318 OW MAD-BKK",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
+  },
+  {
+    "timestamp": "2026-06-29T08:03:37Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 27476,
+    "precio_desglose_mxn": {
+      "MX_EU": 7855,
+      "EU_BKK": 5883,
+      "BKK_EU": 5883,
+      "EU_MX": 7855
+    },
+    "fuente": "Trip.com OW MXN7855 Aeromexico MEX-MAD; Iberojet OW EUR318 MAD-BKK cada sentido",
+    "verificado": false,
+    "link": "https://mx.trip.com/flights/mexico-city-to-madrid/airfares-mex-mad/"
+  },
+  {
+    "timestamp": "2026-06-29T08:03:37Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-10",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM",
+      "KLM"
+    ],
+    "escalas": [
+      "AMS"
+    ],
+    "precio_total_mxn": 18905,
+    "precio_desglose_mxn": {
+      "MX_EU": 12084,
+      "EU_BKK": 6821
+    },
+    "fuente": "Expedia $636 USD OW KLM MEX-AMS ago10; KAYAK $359 USD OW AMS-BKK",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/mex/ams/mexico-city-to-amsterdam"
+  },
+  {
+    "timestamp": "2026-06-29T08:03:37Z",
+    "rutina": "A",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberia"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 15422,
+    "fuente": "eDreams.com.mx RT Iberia MEX-MAD MXN15422 ago",
+    "verificado": false,
+    "link": "https://www.edreams.com.mx/aerolinea/IB/iberia/MEX/ciudad-de-mexico/MAD/madrid/"
+  },
+  {
+    "timestamp": "2026-06-29T08:03:37Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8067,
+    "fuente": "Trip.com desde MXN7855-8067 Aeromexico/Iberia OW MEX-MAD agosto 2026",
+    "verificado": false,
+    "link": "https://mx.trip.com/flights/mexico-city-to-madrid/airfares-mex-mad/"
   }
 ]
