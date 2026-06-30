@@ -3310,5 +3310,91 @@
     "fuente": "KAYAK AMS-BKK desde $393 USD (~€358) agosto 2026",
     "verificado": false,
     "link": "https://www.kayak.com/flight-routes/Amsterdam-Schiphol-AMS/Bangkok-Suvarnabhumi-other-airports-BKK"
+  },
+  {
+    "timestamp": "2026-06-30T20:09:40Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 21170,
+    "precio_desglose_mxn": {
+      "MX_EU": 5947,
+      "EU_BKK": 4408,
+      "BKK_EU": 4792,
+      "EU_MX": 6023
+    },
+    "fuente": "Skyscanner CUN-MAD 13x19 + Skyscanner MAD-BKK 32x19 + Iberojet E9846 BKK-MAD 259EURx18.5 + KAYAK MAD-CUN 17x19",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-bangkok-to-madrid"
+  },
+  {
+    "timestamp": "2026-06-30T20:09:40Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 12012,
+    "precio_desglose_mxn": {
+      "MX_EU": 7220,
+      "EU_BKK": 4792,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Aeromexico NLU-MAD est 80x19 (similar MEX Aug) + Iberojet MAD-BKK 259EURx18.5 (tarifa publicada ruta)",
+    "verificado": false,
+    "link": "https://www.aeromexico.com/en_us/flights-from-felipe-angeles-(mexico-city)"
+  },
+  {
+    "timestamp": "2026-06-30T20:09:40Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 24020,
+    "precio_desglose_mxn": {
+      "MX_EU": 7220,
+      "EU_BKK": 4408,
+      "BKK_EU": 4792,
+      "EU_MX": 7600
+    },
+    "fuente": "Aeromexico NLU-MAD est 80x19 + Skyscanner MAD-BKK 32x19 + Iberojet BKK-MAD 259EURx18.5 + Aeromexico MAD-NLU est 00x19",
+    "verificado": false,
+    "link": "https://www.aeromexico.com/en_us/flights-from-felipe-angeles-(mexico-city)"
   }
 ]
