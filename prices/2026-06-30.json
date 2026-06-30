@@ -1810,5 +1810,222 @@
     "fuente": "Expedia Iberia MEX-MAD $355 + Skyscanner MAD-BKK $232 + Iberojet BKK-MAD 259EUR + KAYAK MAD-MEX $467",
     "verificado": false,
     "link": "https://www.expedia.com/lp/flights/mex/mad/mexico-city-to-madrid"
+  },
+  {
+    "timestamp": "2026-06-30T08:15:00Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": "2026-08-10",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM",
+      "Aeromexico"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5054,
+    "precio_eur": null,
+    "fuente": "Expedia MEX-AMS $266 USD x19; mejor fecha lun 10-ago (mes más barato: agosto)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/mex/ams/mexico-city-to-amsterdam"
+  },
+  {
+    "timestamp": "2026-06-30T08:15:00Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM",
+      "Aeromexico"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6935,
+    "precio_eur": null,
+    "fuente": "KAYAK MEX-AMS $365 USD x19; rango amplio agosto 2026",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Mexico-City-Benito-Juarez-MEX/Amsterdam-Schiphol-AMS"
+  },
+  {
+    "timestamp": "2026-06-30T08:15:00Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": "2026-08-22",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6612,
+    "precio_eur": null,
+    "fuente": "KAYAK AMS-MEX $348 USD x19; agosto 2026",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Amsterdam-Schiphol-AMS/Mexico-City-Benito-Juarez-MEX"
+  },
+  {
+    "timestamp": "2026-06-30T08:15:00Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5589,
+    "precio_eur": null,
+    "fuente": "KAYAK.com.mx Iberojet CUN-MAD MXN 5,589 directo sin escala USA",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Iberojet-Cancun-CUN/Madrid-Barajas-MAD.b.E9.ksp"
+  },
+  {
+    "timestamp": "2026-06-30T08:15:00Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5733,
+    "precio_eur": null,
+    "fuente": "KAYAK.com.mx World2Fly CUN-MAD MXN 5,733 directo sin escala USA",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/World2Fly-Madrid-Barajas-MAD/Cancun-CUN.b.2W.ksp"
+  },
+  {
+    "timestamp": "2026-06-30T08:15:00Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 7239,
+    "precio_eur": null,
+    "fuente": "Travelocity BA MEX-LHR $381 USD x19; sin escala USA (vuelo directo)",
+    "verificado": false,
+    "link": "https://www.travelocity.com/lp/flight-routes/british-airways-from-mexico-city-intl-to-heathrow/ba/mex/lhr"
+  },
+  {
+    "timestamp": "2026-06-30T08:15:00Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 6897,
+    "precio_eur": null,
+    "fuente": "Skyscanner QRO-MAD $363 USD x19 via MEX (sin escala USA)",
+    "verificado": false,
+    "link": "https://www.espanol.skyscanner.com/rutas/qro/mad/queretaro-a-madrid-barajas.html"
+  },
+  {
+    "timestamp": "2026-06-30T08:15:00Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": "2026-08-06",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 16519,
+    "precio_eur": null,
+    "fuente": "KLM RT MEX-AMS MXN 16,519 (6-ago / 21-ago); directo",
+    "verificado": false,
+    "link": "https://www.klm.com.mx/es-mx/vuelos-desde-ciudad-de-mexico-a-amsterdam"
+  },
+  {
+    "timestamp": "2026-06-30T08:15:00Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5883,
+    "precio_eur": 318,
+    "fuente": "Iberojet MAD-BKK €318 one-way (jue/dom); Skyscanner mín histórico $232/€215",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
+  },
+  {
+    "timestamp": "2026-06-30T08:15:00Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "ITA Airways",
+      "Thai Airways"
+    ],
+    "escalas": [
+      "BKK"
+    ],
+    "precio_total_mxn": null,
+    "precio_eur": null,
+    "fuente": "Sin precio directo FCO-BKK encontrado en ventana ago 2026; ruta sin vuelo directo",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/flights-to/bkk/cheap-flights-to-bangkok.html"
   }
 ]
