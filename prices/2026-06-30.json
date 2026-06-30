@@ -1611,5 +1611,204 @@
     "verificado": false,
     "link": "https://www.britishairways.com/content/flights/thailand/bangkok",
     "nota": "madrugada_es | BA LHR-BKK sobre threshold EUR250 | $403 USD agosto"
+  },
+  {
+    "timestamp": "2026-06-30T08:09:45Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-08",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6897,
+    "fuente": "Skyscanner Iberojet QRO-MAD directo min $363 USD ref (agosto cheapest month)",
+    "verificado": false,
+    "link": "https://www.espanol.skyscanner.com/rutas/qro/mad/queretaro-a-madrid-barajas.html"
+  },
+  {
+    "timestamp": "2026-06-30T08:09:45Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberia",
+      "Aeromexico"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 7319,
+    "fuente": "Trip.com MEX-MAD desde MXN 7319 (agosto 2026 temporada baja)",
+    "verificado": false,
+    "link": "https://mx.trip.com/flights/mexico-city-to-madrid/airfares-mex-mad/"
+  },
+  {
+    "timestamp": "2026-06-30T08:09:45Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberia",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 11153,
+    "precio_desglose_mxn": {
+      "MX_EU": 6745,
+      "EU_BKK": 4408,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Expedia Iberia MEX-MAD $355 USD + Skyscanner Iberojet MAD-BKK $232 USD (ref min historico)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flight-routes/iberia-from-mexico-city-intl-to-adolfo-suarez-madrid-barajas/ib/mex/mad"
+  },
+  {
+    "timestamp": "2026-06-30T08:09:45Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-08",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 11305,
+    "precio_desglose_mxn": {
+      "MX_EU": 6897,
+      "EU_BKK": 4408,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Skyscanner Iberojet QRO-MAD $363 USD (agosto cheapest) + Skyscanner Iberojet MAD-BKK $232 USD (ref min)",
+    "verificado": false,
+    "link": "https://www.espanol.skyscanner.com/rutas/qro/mad/queretaro-a-madrid-barajas.html"
+  },
+  {
+    "timestamp": "2026-06-30T08:09:45Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-08",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 13281,
+    "precio_desglose_mxn": {
+      "MX_EU": 6897,
+      "EU_BKK": 6384,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Skyscanner Iberojet QRO-MAD $363 USD + KAYAK Iberojet MAD-BKK $336 USD (agosto estimado conservador)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Madrid-Barajas-MAD/Bangkok-Suvarnabhumi-BKK"
+  },
+  {
+    "timestamp": "2026-06-30T08:09:45Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "British Airways",
+      "Thai Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 13680,
+    "precio_desglose_mxn": {
+      "MX_EU": 7239,
+      "EU_BKK": 6441,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Travelocity BA MEX-LHR $381 USD (ref min) + Skyscanner LHR-BKK $339 USD (ref)",
+    "verificado": false,
+    "link": "https://www.travelocity.com/lp/flight-routes/british-airways-from-mexico-city-intl-to-heathrow/ba/mex/lhr"
+  },
+  {
+    "timestamp": "2026-06-30T08:09:45Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-08",
+    "fecha_vuelta": "2026-08-23",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet",
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 23221,
+    "precio_desglose_mxn": {
+      "MX_EU": 6897,
+      "EU_BKK": 4408,
+      "BKK_EU": 4791,
+      "EU_MX": 7125
+    },
+    "fuente": "Skyscanner QRO-MAD $363 + Skyscanner MAD-BKK $232 + Iberojet BKK-MAD 259EUR + Iberojet MAD-QRO $375 est",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-queretaro-to-madrid"
+  },
+  {
+    "timestamp": "2026-06-30T08:09:45Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberia",
+      "Iberojet",
+      "Iberojet",
+      "Iberia"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 24817,
+    "precio_desglose_mxn": {
+      "MX_EU": 6745,
+      "EU_BKK": 4408,
+      "BKK_EU": 4791,
+      "EU_MX": 8873
+    },
+    "fuente": "Expedia Iberia MEX-MAD $355 + Skyscanner MAD-BKK $232 + Iberojet BKK-MAD 259EUR + KAYAK MAD-MEX $467",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/mex/mad/mexico-city-to-madrid"
   }
 ]
