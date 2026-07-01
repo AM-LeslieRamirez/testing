@@ -557,5 +557,137 @@
     "fuente": "Estimado pico agosto FCO-BKK via Emirates DXB",
     "verificado": false,
     "link": "https://www.flightconnections.com/flights-to-bangkok-bkk"
+  },
+  {
+    "timestamp": "2026-07-01T02:02:26Z",
+    "rutina": "C",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5917,
+    "precio_eur": null,
+    "fuente": "KAYAK.com.mx Iberojet QRO-MAD directo desde MXN 5,917",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Santiago-de-Queretaro-QRO/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD",
+    "nota": "madrugada_es | NUEVO vs B: Iberojet DIRECTO QRO-MAD. B solo tenia Aeromexico QRO-MAD via MEX a 7381. Embargo SALE15 jul-ago 2026 confirmado."
+  },
+  {
+    "timestamp": "2026-07-01T02:02:26Z",
+    "rutina": "C",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6900,
+    "precio_eur": null,
+    "fuente": "TravelViajes.com.mx Iberojet QRO-MAD directo desde MXN 6,900",
+    "verificado": false,
+    "link": "https://travelviajes.com.mx/vuelos/queretaro/madrid",
+    "nota": "madrugada_es | Iberojet directo QRO-MAD, sobre umbral 6500 MXN. KAYAK muestra desde 5917."
+  },
+  {
+    "timestamp": "2026-07-01T02:02:26Z",
+    "rutina": "C",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12538,
+    "precio_eur": null,
+    "fuente": "Iberojet QRO-MAD RT precio minimo agosto 2026 desde MXN 12,538 (Iberojet.com)",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-queretaro-to-madrid",
+    "nota": "madrugada_es | NUEVO E3 QRO-MAD Iberojet. Precio min ago-2026 general. Specific aug-8/22 = 15807 MXN. Fechas aug-5/22 sin confirmar. Iberojet vuela mie/sab desde QRO."
+  },
+  {
+    "timestamp": "2026-07-01T02:02:26Z",
+    "rutina": "C",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air Europa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6420,
+    "precio_eur": 347,
+    "fuente": "eDreams ES Air Europa MAD-MEX desde 347 EUR x18.5 = 6420 MXN",
+    "verificado": false,
+    "link": "https://www.edreams.es/ofertas/vuelos/aerolinea/UX/air-europa/MAD/madrid/MEX/ciudad-de-mexico/",
+    "nota": "madrugada_es | NUEVO E2: Air Europa MAD-MEX. B no tenia Air Europa en E2. 347 EUR precio general eDreams ES, no confirmado especificamente ago-22."
+  },
+  {
+    "timestamp": "2026-07-01T02:02:26Z",
+    "rutina": "C",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8797,
+    "precio_eur": null,
+    "fuente": "Google Flights KLM MEX-AMS RT $926 USD ago-7/23 / 2 x 19 MXN",
+    "verificado": false,
+    "link": "https://www.google.com/travel/flights/flights-from-mexico-city-to-amsterdam.html",
+    "nota": "madrugada_es | KLM MEX-AMS NUEVO E1. Sobre umbral 7500 MXN. RT mas bajo $926 ago-7/23. One-way estimado $463 x19 = 8797 MXN."
+  },
+  {
+    "timestamp": "2026-07-01T02:02:26Z",
+    "rutina": "C",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5883,
+    "precio_eur": 318,
+    "fuente": "Iberojet MAD-BKK one-way desde 318 EUR x18.5 (precio min general, vuelo jue/dom)",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok",
+    "nota": "madrugada_es | Iberojet MAD-BKK DIRECTO (jue/dom). B tenia Emirates via DXB 308 EUR. Iberojet 318 EUR sobre umbral E4 250 EUR. Agosto pico ~350-400 EUR estimado."
   }
 ]
