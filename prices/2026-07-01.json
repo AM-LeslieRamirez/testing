@@ -1204,5 +1204,477 @@
     "fuente": "Momondo QRO-MAD desde MXN 6276 (vía MEX, Aeromexico)",
     "verificado": false,
     "link": "https://www.momondo.mx/vuelos/queretaro/madrid"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5491,
+    "precio_eur": null,
+    "fuente": "Omio MX / KAYAK ES - World2Fly CUN→MAD general floor $289 USD x19 (nonstop, Mon/Fri/Sat)",
+    "verificado": false,
+    "link": "https://www.omio.com.mx/vuelos/cancun/madrid"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6300,
+    "precio_eur": null,
+    "fuente": "Omio MX - CUN→MAD Air Europa/Iberojet nonstop desde MXN 6,300 (umbral MAD 6,500)",
+    "verificado": false,
+    "link": "https://www.omio.com.mx/vuelos/cancun/madrid"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5917,
+    "precio_eur": null,
+    "fuente": "KAYAK.com.mx - QRO→MAD Iberojet directo (nueva ruta dic 2025, 2x/semana ago) desde MXN 5,917",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Santiago-de-Queretaro-QRO/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberia"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 7319,
+    "precio_eur": null,
+    "fuente": "Trip.com MX - MEX→MAD agosto cheapest month desde MXN 7,319 (sobre umbral MAD 6,500)",
+    "verificado": false,
+    "link": "https://mx.trip.com/flights/mexico-city-to-madrid/airfares-mex-mad/"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": "2026-08-10",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM",
+      "Aeromexico"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12084,
+    "precio_eur": null,
+    "fuente": "KAYAK - MEX→AMS cheapest Aug 10 $636 USD x19 (sobre umbral AMS 7,500)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Mexico-City-Benito-Juarez-MEX/Amsterdam-Schiphol-AMS"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "LHR",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 9956,
+    "precio_eur": null,
+    "fuente": "Travelocity - BA CUN→LHR nonstop desde $524 USD x19 (sobre umbral LHR 7,500)",
+    "verificado": false,
+    "link": "https://www.travelocity.com/lp/flight-routes/british-airways-from-cancun-intl-to-heathrow/ba/cun/lhr"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "CDG",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air France",
+      "KLM"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 8186,
+    "precio_eur": null,
+    "fuente": "KAYAK.com.mx - QRO→CDG via MEX desde MXN 8,186 (sobre umbral CDG 7,500)",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Santiago-de-Queretaro-QRO/Paris-Charles-de-Gaulle-CDG"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8067,
+    "precio_eur": null,
+    "fuente": "Trip.com - MAD→MEX Aeromexico nonstop desde MXN 8,067 (sobre umbral E2 7,000)",
+    "verificado": false,
+    "link": "https://www.aeromexico.com/en_us/flights-from-madrid-to-mexico-city"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air Europa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6420,
+    "precio_eur": 347,
+    "fuente": "Air Europa - MAD→MEX floor EUR 347 x18.5 = MXN 6,420 (FLOOR temporada baja; agosto estimado MXN 11,100+)",
+    "verificado": false,
+    "link": "https://www.aireuropa.com/en-us/flight-deals-from-madrid-to-mexico-city"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5328,
+    "precio_eur": 288,
+    "fuente": "KAYAK ES - World2Fly MAD→CUN floor EUR 288 x18.5; agosto estimado EUR 375-592 (~MXN 6,938-10,952)",
+    "verificado": false,
+    "link": "https://www.kayak.es/vuelos/World2Fly-Madrid-Barajas-MAD/Cancun-CUN.b.2W.ksp"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 10527,
+    "precio_eur": 569,
+    "fuente": "Omio - KLM AMS→MEX nonstop desde EUR 569 x18.5 (sobre umbral E2 7,000)",
+    "verificado": false,
+    "link": "https://www.omio.com/flights/amsterdam/mexico-city-z0nfz"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "MEX",
+    "destino_eu": "CDG",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8029,
+    "precio_eur": 434,
+    "fuente": "Omio - Air France CDG→MEX nonstop desde EUR 434 x18.5 floor (sobre umbral E2 7,000)",
+    "verificado": false,
+    "link": "https://www.omio.com/flights/paris-charles-de-gaulle-airport/mexico-city-jrkpq"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "MEX",
+    "destino_eu": "FRA",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 13431,
+    "precio_eur": 726,
+    "fuente": "Omio - Lufthansa FRA→MEX nonstop (unico carrier) desde EUR 726 x18.5 (sobre umbral E2 7,000)",
+    "verificado": false,
+    "link": "https://www.omio.com/flights/frankfurt-am-main/mexico-city-epglx"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12744,
+    "precio_eur": null,
+    "fuente": "Expedia UK - BA LHR→MEX nonstop desde GBP 531 x24 = MXN 12,744 (sobre umbral E2 7,000)",
+    "verificado": false,
+    "link": "https://www.expedia.co.uk/lp/flight-routes/british-airways-from-heathrow-to-mexico-city-intl/ba/lhr/mex"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "MEX",
+    "destino_eu": "FCO",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 10564,
+    "precio_eur": null,
+    "fuente": "Expedia - Aeromexico FCO→MEX nonstop desde $556 USD x19 (sobre umbral E2 7,000; agosto pico $700-1000+)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/fco/mex/rome-to-mexico-city"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-09",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 13,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberia"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 15422,
+    "precio_eur": null,
+    "fuente": "KAYAK/Expedia - MEX<->MAD RT agosto desde MXN 15,422 Aeromexico/Iberia nonstop (sobre umbral MAD 13,000)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Mexico-City-Benito-Juarez-MEX/Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Turkish Airlines",
+      "Qatar Airways"
+    ],
+    "escalas": [
+      "IST o DOH"
+    ],
+    "precio_total_mxn": 4218,
+    "precio_eur": 228,
+    "fuente": "Skyscanner - FCO→BKK desde $248 USD (~EUR 228 x18.5=MXN 4,218). DENTRO DE PRESUPUESTO <=EUR 250. VERIFICAR fechas agosto.",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/fco/bkkt/rome-fiumicino-to-bangkok.html"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-21",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5883,
+    "precio_eur": 318,
+    "fuente": "Skyscanner - MAD→BKK Iberojet directo jue/dom ~EUR 318 promedio; citado tan bajo como ~$232/EUR 214 en algunas fechas (potencial URGENT si EUR <=200)",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/mad/bkkt/madrid-to-bangkok.html"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6087,
+    "precio_eur": 329,
+    "fuente": "Omio - KLM AMS→BKK nonstop desde EUR 329 x18.5 (sobre umbral E4 EUR 250)",
+    "verificado": false,
+    "link": "https://www.omio.com/flights/amsterdam/bangkok-ckfiz"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6586,
+    "precio_eur": 356,
+    "fuente": "KAYAK - CDG→BKK Air France desde $387 USD (~EUR 356; sobre umbral E4 EUR 250)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Paris-Charles-de-Gaulle-CDG/Bangkok-Suvarnabhumi-other-airports-BKK"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6845,
+    "precio_eur": 370,
+    "fuente": "Expedia - FRA→BKK multi-carrier desde $403 USD (~EUR 370; sobre umbral E4 EUR 250)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/fra/bkk/frankfurt-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-01T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6568,
+    "precio_eur": 355,
+    "fuente": "Expedia - LHR→BKK multi-carrier desde $386 USD (~EUR 355; sobre umbral E4 EUR 250)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/lhr/bkk/london-to-bangkok"
   }
 ]
