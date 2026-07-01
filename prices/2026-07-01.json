@@ -902,5 +902,307 @@
     "fuente": "Expedia CUN-MAD desde $199 USD",
     "verificado": false,
     "link": "https://www.expedia.com/lp/flights/cun/mad/cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-01T08:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Condor",
+      "Lufthansa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 13642,
+    "precio_desglose_mxn": {
+      "MX_EU": 6175,
+      "EU_BKK": 7467
+    },
+    "fuente": "Expedia CUN-FRA desde $325 USD (Condor directo) + Momondo FRA-BKK desde $393 USD",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/fra/cancun-to-frankfurt"
+  },
+  {
+    "timestamp": "2026-07-01T08:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Neos",
+      "Turkish Airlines"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12920,
+    "precio_desglose_mxn": {
+      "MX_EU": 6118,
+      "EU_BKK": 6802
+    },
+    "fuente": "Skyscanner CUN-FCO desde $322 USD (Neos directo) + KAYAK FCO-BKK desde $358 USD",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/cun/fco/cancun-to-rome-fiumicino.html"
+  },
+  {
+    "timestamp": "2026-07-01T08:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "British Airways"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 13585,
+    "precio_desglose_mxn": {
+      "MX_EU": 6308,
+      "EU_BKK": 7277
+    },
+    "fuente": "Expedia CUN-LHR desde $332 USD + KAYAK LHR-BKK desde $383 USD",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/lhr/cancun-to-london"
+  },
+  {
+    "timestamp": "2026-07-01T08:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 10684,
+    "precio_desglose_mxn": {
+      "MX_EU": 6276,
+      "EU_BKK": 4408
+    },
+    "fuente": "Momondo QRO-MAD desde MXN 6276 (vía MEX, Aeromexico) + Iberojet MAD-BKK desde $232 USD",
+    "verificado": false,
+    "link": "https://www.momondo.mx/vuelos/queretaro/madrid"
+  },
+  {
+    "timestamp": "2026-07-01T08:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 18563,
+    "precio_desglose_mxn": {
+      "MX_EU": 11096,
+      "EU_BKK": 7467
+    },
+    "fuente": "Google Flights MEX-FRA $584 USD (5-ago-2026) + Momondo FRA-BKK desde $393 USD",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx/rutas/mex/fra/ciudad-de-mexico-a-frankfurt.html"
+  },
+  {
+    "timestamp": "2026-07-01T08:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "ITA Airways",
+      "Turkish Airlines"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 15048,
+    "precio_desglose_mxn": {
+      "MX_EU": 8246,
+      "EU_BKK": 6802
+    },
+    "fuente": "KAYAK MEX-FCO desde $434 USD + KAYAK FCO-BKK desde $358 USD",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Mexico-City-Benito-Juarez-MEX/Rome-Fiumicino-FCO"
+  },
+  {
+    "timestamp": "2026-07-01T08:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "British Airways",
+      "EVA Air"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 17974,
+    "precio_desglose_mxn": {
+      "MX_EU": 10697,
+      "EU_BKK": 7277
+    },
+    "fuente": "Momondo MEX-LHR desde $563 USD + KAYAK LHR-BKK desde $383 USD",
+    "verificado": false,
+    "link": "https://www.momondo.com/flights/mexico-city/london"
+  },
+  {
+    "timestamp": "2026-07-01T08:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-24",
+    "dias_estancia": 19,
+    "aerolineas": [
+      "Condor",
+      "Lufthansa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 23255,
+    "precio_desglose_mxn": {
+      "MX_EU": 6175,
+      "EU_BKK": 7467,
+      "BKK_EU": 3952,
+      "EU_MX": 5661
+    },
+    "fuente": "Expedia CUN-FRA $325 USD + Momondo FRA-BKK $393 USD + Expedia BKK-FRA $208 USD + eDreams FRA-CUN 306 EUR",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/fra/cancun-to-frankfurt"
+  },
+  {
+    "timestamp": "2026-07-01T08:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-24",
+    "dias_estancia": 19,
+    "aerolineas": [
+      "Neos",
+      "Turkish Airlines"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 25061,
+    "precio_desglose_mxn": {
+      "MX_EU": 6118,
+      "EU_BKK": 6802,
+      "BKK_EU": 5415,
+      "EU_MX": 6726
+    },
+    "fuente": "Skyscanner CUN-FCO $322 USD + KAYAK FCO-BKK $358 USD + Expedia BKK-FCO $285 USD + KAYAK FCO-CUN $354 USD",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/cun/fco/cancun-to-rome-fiumicino.html"
+  },
+  {
+    "timestamp": "2026-07-01T08:12:00Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "FRA",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Condor"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6175,
+    "fuente": "Expedia CUN-FRA desde $325 USD (Condor directo)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/fra/cancun-to-frankfurt"
+  },
+  {
+    "timestamp": "2026-07-01T08:12:00Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "FCO",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Neos"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6118,
+    "fuente": "Skyscanner CUN-FCO desde $322 USD (Neos directo)",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/cun/fco/cancun-to-rome-fiumicino.html"
+  },
+  {
+    "timestamp": "2026-07-01T08:12:00Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "LHR",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "British Airways"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 6308,
+    "fuente": "Expedia CUN-LHR desde $332 USD",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/lhr/cancun-to-london"
+  },
+  {
+    "timestamp": "2026-07-01T08:12:00Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 6276,
+    "fuente": "Momondo QRO-MAD desde MXN 6276 (vía MEX, Aeromexico)",
+    "verificado": false,
+    "link": "https://www.momondo.mx/vuelos/queretaro/madrid"
   }
 ]
