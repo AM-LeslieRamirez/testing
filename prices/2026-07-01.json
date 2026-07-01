@@ -1927,5 +1927,218 @@
     "fuente": "E1 MEX-CDG + E4 CDG-BKK + E2 CDG-MEX",
     "verificado": false,
     "link": "https://www.airfrance.com.mx/"
+  },
+  {
+    "timestamp": "2026-07-01T16:02:42Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "CDG",
+    "destino_final": null,
+    "fecha_ida": "2026-08-06",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 11875,
+    "precio_eur": null,
+    "fuente": "Skyscanner - Aeromexico MEX-CDG directo Aug 6 a 625 USD",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx/rutas/mex/cdg/ciudad-de-mexico-a-paris-charles-de-gaulle.html"
+  },
+  {
+    "timestamp": "2026-07-01T16:02:42Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FCO",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 15732,
+    "precio_eur": null,
+    "fuente": "Skyscanner - Aeromexico MEX-FCO directo economy desde 828 USD ago 2026",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/mex/fco/mexico-city-juarez-international-to-rome-fiumicino.html"
+  },
+  {
+    "timestamp": "2026-07-01T16:02:42Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": "2026-08-10",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12084,
+    "precio_eur": null,
+    "fuente": "KLM.com.mx - MEX-AMS one-way 636 USD Aug 10 / MXN 8121 min reciente",
+    "verificado": false,
+    "link": "https://www.klm.com.mx/es-mx/vuelos-desde-ciudad-de-mexico-a-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-01T16:02:42Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "FRA",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Condor"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 9261,
+    "precio_eur": null,
+    "fuente": "Trip.com - CUN-FRA Condor directo desde MXN 9261 agosto 2026",
+    "verificado": false,
+    "link": "https://mx.trip.com/flights/cancun-to-frankfurt/airfares-cun-fra/"
+  },
+  {
+    "timestamp": "2026-07-01T16:02:42Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-06",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8969,
+    "precio_eur": null,
+    "fuente": "Iberojet.com - QRO-MAD directo miercoles one-way MXN 8969 agosto",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-queretaro-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-01T16:02:42Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "CUN",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 11305,
+    "precio_eur": null,
+    "fuente": "Expedia - AMS-CUN desde 595 USD agosto 2026 x19",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/ams/cun/amsterdam-to-cancun"
+  },
+  {
+    "timestamp": "2026-07-01T16:02:42Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "CUN",
+    "destino_eu": "FRA",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Condor"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8398,
+    "precio_eur": null,
+    "fuente": "Expedia - FRA-CUN Condor directo desde 442 USD x19 = MXN 8398",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/fra/cun/frankfurt-to-cancun"
+  },
+  {
+    "timestamp": "2026-07-01T16:02:42Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "MEX",
+    "destino_eu": "CDG",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 23237,
+    "precio_eur": null,
+    "fuente": "Aeromexico/Air France MEX-CDG RT agosto desde 1223 USD x19",
+    "verificado": false,
+    "link": "https://wwws.airfrance.com.mx/es-mx/vuelos-desde-ciudad-de-m%C3%A9xico-a-par%C3%ADs"
+  },
+  {
+    "timestamp": "2026-07-01T16:02:42Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 22971,
+    "precio_eur": null,
+    "fuente": "KLM.com.mx MEX-AMS RT desde 1209 USD ago 21 x19",
+    "verificado": false,
+    "link": "https://www.klm.com.mx/en-mx/flights-from-mexico-city-to-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-01T16:02:42Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-06",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 16,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 15807,
+    "precio_eur": null,
+    "fuente": "KAYAK - QRO-MAD RT Iberojet directo ago 8 vuelta sab 22: MXN 15807",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Santiago-de-Queretaro-QRO/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD"
   }
 ]
