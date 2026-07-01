@@ -1676,5 +1676,256 @@
     "fuente": "Expedia - LHR→BKK multi-carrier desde $386 USD (~EUR 355; sobre umbral E4 EUR 250)",
     "verificado": false,
     "link": "https://www.expedia.com/lp/flights/lhr/bkk/london-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-01T14:10:32Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "ITA Airways"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 11913,
+    "precio_desglose_mxn": {
+      "MX_EU": 7695,
+      "EU_BKK": 4218,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "skyscanner.com (QRO-FCO $405 USD) + E4 FCO-BKK",
+    "verificado": false,
+    "link": "https://www.espanol.skyscanner.com/rutas/qro/fco/queretaro-a-roma-fiumicino.html"
+  },
+  {
+    "timestamp": "2026-07-01T14:10:32Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air France",
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 14205,
+    "precio_desglose_mxn": {
+      "MX_EU": 7619,
+      "EU_BKK": 6586,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "kayak.com ($401 CUN-CDG) + E4 CDG-BKK",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Cancun-CUN/Paris-Charles-de-Gaulle-CDG"
+  },
+  {
+    "timestamp": "2026-07-01T14:10:32Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM",
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 14637,
+    "precio_desglose_mxn": {
+      "MX_EU": 8550,
+      "EU_BKK": 6087,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "expedia.com ($450 CUN-AMS ago2026) + E4 AMS-BKK",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/ams/cancun-to-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-01T14:10:32Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 14293,
+    "precio_desglose_mxn": {
+      "MX_EU": 8595,
+      "EU_BKK": 5698,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "aeromexico.com E1 (NLU-MAD) + iberojet.com E4 (MAD-BKK)",
+    "verificado": false,
+    "link": "https://www.aeromexico.com/en_us/aifa-airport"
+  },
+  {
+    "timestamp": "2026-07-01T14:10:32Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Air France"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 14772,
+    "precio_desglose_mxn": {
+      "MX_EU": 8186,
+      "EU_BKK": 6586,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "kayak.com.mx E1 (QRO-CDG) + E4 CDG-BKK",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Santiago-de-Queretaro-QRO/Paris-PAR"
+  },
+  {
+    "timestamp": "2026-07-01T14:10:32Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "KLM"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 15587,
+    "precio_desglose_mxn": {
+      "MX_EU": 9500,
+      "EU_BKK": 6087,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "aeromexico.com (QRO-AMS estimado) + E4 AMS-BKK",
+    "verificado": false,
+    "link": "https://www.aeromexico.com/en_us/flights-from-queretaro-to-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-01T14:10:32Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air France",
+      "Air France",
+      "Air France",
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 27171,
+    "precio_desglose_mxn": {
+      "MX_EU": 7619,
+      "EU_BKK": 6586,
+      "BKK_EU": 6650,
+      "EU_MX": 6316
+    },
+    "fuente": "kayak.com + kayak.com.mx (CDG-CUN MXN6316) + E4 CDG-BKK",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Paris-PAR/Cancun-CUN"
+  },
+  {
+    "timestamp": "2026-07-01T14:10:32Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet",
+      "Iberojet",
+      "Aeromexico"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 26463,
+    "precio_desglose_mxn": {
+      "MX_EU": 5917,
+      "EU_BKK": 5698,
+      "BKK_EU": 7448,
+      "EU_MX": 7400
+    },
+    "fuente": "kayak.com.mx E1 (QRO-MAD) + iberojet.com E4 + expedia.com (BKK-MAD $392)",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Santiago-de-Queretaro-QRO/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-01T14:10:32Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air France",
+      "Air France",
+      "Air France",
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 29644,
+    "precio_desglose_mxn": {
+      "MX_EU": 8379,
+      "EU_BKK": 6586,
+      "BKK_EU": 6650,
+      "EU_MX": 8029
+    },
+    "fuente": "E1 MEX-CDG + E4 CDG-BKK + E2 CDG-MEX",
+    "verificado": false,
+    "link": "https://www.airfrance.com.mx/"
   }
 ]
