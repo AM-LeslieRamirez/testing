@@ -2140,5 +2140,664 @@
     "fuente": "KAYAK - QRO-MAD RT Iberojet directo ago 8 vuelta sab 22: MXN 15807",
     "verificado": false,
     "link": "https://www.kayak.com.mx/vuelos/Santiago-de-Queretaro-QRO/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Air France"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 16086,
+    "precio_desglose_mxn": {
+      "MX_EU": 9500,
+      "EU_BKK": 6586
+    },
+    "fuente": "Estimado NLU-CDG via MEX hub (~$500 USD, ref MEX-CDG $441 USD KAYAK) + KAYAK CDG-BKK $387 USD (386 EUR x18.5)",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 15287,
+    "precio_desglose_mxn": {
+      "MX_EU": 9200,
+      "EU_BKK": 6087
+    },
+    "fuente": "Estimado NLU-AMS via MEX hub (~$484 USD, KLM ref MEX-AMS $463 USD) + KLM AMS-BKK EUR 329 x18.5",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Lufthansa"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 17245,
+    "precio_desglose_mxn": {
+      "MX_EU": 10400,
+      "EU_BKK": 6845
+    },
+    "fuente": "Estimado NLU-FRA via MEX hub (~$547 USD, ref MEX-FRA $511 USD) + KAYAK FRA-BKK $399 USD ~ 380 EUR x18.5",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 18568,
+    "precio_desglose_mxn": {
+      "MX_EU": 12000,
+      "EU_BKK": 6568
+    },
+    "fuente": "Estimado NLU-LHR via MEX hub (~$632 USD, ref MEX-LHR $587 USD BA) + Expedia LHR-BKK $386 USD ~ 355 EUR x18.5",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Turkish Airlines"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 20418,
+    "precio_desglose_mxn": {
+      "MX_EU": 16200,
+      "EU_BKK": 4218
+    },
+    "fuente": "Estimado NLU-FCO via MEX hub (~$853 USD, ref MEX-FCO $828 USD) + Skyscanner FCO-BKK $248 USD via IST",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Lufthansa"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 17045,
+    "precio_desglose_mxn": {
+      "MX_EU": 10200,
+      "EU_BKK": 6845
+    },
+    "fuente": "Estimado QRO-FRA via MEX hub (~$537 USD, ref MEX-FRA $511 USD) + KAYAK FRA-BKK $399 USD ~ 380 EUR x18.5",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "British Airways"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 15137,
+    "precio_desglose_mxn": {
+      "MX_EU": 8569,
+      "EU_BKK": 6568
+    },
+    "fuente": "Expedia/Skyscanner QRO-LHR desde $451 USD x19 + Expedia LHR-BKK $386 USD ~ 355 EUR x18.5",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 31225,
+    "precio_desglose_mxn": {
+      "MX_EU": 8797,
+      "EU_BKK": 6087,
+      "BKK_EU": 5814,
+      "EU_MX": 10527
+    },
+    "fuente": "Google Flights KLM MEX-AMS min 8797 MXN + KLM AMS-BKK EUR 329 x18.5 + Expedia BKK-AMS $306 USD x19 + KLM AMS-MEX EUR 569 x18.5",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Lufthansa",
+      "Thai Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 33938,
+    "precio_desglose_mxn": {
+      "MX_EU": 9710,
+      "EU_BKK": 6845,
+      "BKK_EU": 3952,
+      "EU_MX": 13431
+    },
+    "fuente": "Trip.com estimado ida de RT 19421 MXN Lufthansa MEX-FRA + KAYAK FRA-BKK $399 USD ~ 380 EUR x18.5 + Expedia BKK-FRA $208 USD x19 + Omio Lufthansa FRA-MEX EUR 726 x18.5",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 34163,
+    "precio_desglose_mxn": {
+      "MX_EU": 11141,
+      "EU_BKK": 6568,
+      "BKK_EU": 6137,
+      "EU_MX": 10317
+    },
+    "fuente": "Expedia MX MXN 11141 BA MEX-LHR + Expedia LHR-BKK $386 USD ~ 355 EUR x18.5 + Expedia BKK-LHR $323 USD x19 + Expedia LHR-MEX $543 USD x19",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Turkish Airlines"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 35929,
+    "precio_desglose_mxn": {
+      "MX_EU": 15732,
+      "EU_BKK": 4218,
+      "BKK_EU": 5415,
+      "EU_MX": 10564
+    },
+    "fuente": "Skyscanner Aeromexico MEX-FCO $828 USD x19 + Skyscanner FCO-BKK $248 USD via IST + Expedia BKK-FCO $285 USD x19 + Expedia Aeromexico FCO-MEX $556 USD x19",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet",
+      "Emirates",
+      "Air Europa"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 24838,
+    "precio_desglose_mxn": {
+      "MX_EU": 8595,
+      "EU_BKK": 4408,
+      "BKK_EU": 5415,
+      "EU_MX": 6420
+    },
+    "fuente": "Aeromexico NLU-MAD referencial (via MEX hub) + Iberojet MAD-BKK $232 USD x19 + KAYAK BKK-MAD $285 USD x19 + Estimado MAD-NLU via MEX hub EUR 347 x18.5",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Air France"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 30765,
+    "precio_desglose_mxn": {
+      "MX_EU": 9500,
+      "EU_BKK": 6586,
+      "BKK_EU": 6650,
+      "EU_MX": 8029
+    },
+    "fuente": "Estimado NLU-CDG via MEX hub (~$500 USD, ref MEX-CDG $441 USD KAYAK) + KAYAK CDG-BKK $387 USD (386 EUR x18.5) + KAYAK/Expedia BKK-CDG $364 USD ~ 350 EUR + Estimado CDG-NLU via MEX hub EUR 434 x18.5",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 31628,
+    "precio_desglose_mxn": {
+      "MX_EU": 9200,
+      "EU_BKK": 6087,
+      "BKK_EU": 5814,
+      "EU_MX": 10527
+    },
+    "fuente": "Estimado NLU-AMS via MEX hub (~$484 USD, KLM ref MEX-AMS $463 USD) + KLM AMS-BKK EUR 329 x18.5 + Expedia BKK-AMS $306 USD x19 + Estimado AMS-NLU via MEX hub EUR 569 x18.5",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Lufthansa",
+      "Thai Airways"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 34628,
+    "precio_desglose_mxn": {
+      "MX_EU": 10400,
+      "EU_BKK": 6845,
+      "BKK_EU": 3952,
+      "EU_MX": 13431
+    },
+    "fuente": "Estimado NLU-FRA via MEX hub (~$547 USD, ref MEX-FRA $511 USD) + KAYAK FRA-BKK $399 USD ~ 380 EUR x18.5 + Expedia BKK-FRA $208 USD x19 + Estimado FRA-NLU via MEX hub EUR 726 x18.5",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 35022,
+    "precio_desglose_mxn": {
+      "MX_EU": 12000,
+      "EU_BKK": 6568,
+      "BKK_EU": 6137,
+      "EU_MX": 10317
+    },
+    "fuente": "Estimado NLU-LHR via MEX hub (~$632 USD, ref MEX-LHR $587 USD BA) + Expedia LHR-BKK $386 USD ~ 355 EUR x18.5 + Expedia BKK-LHR $323 USD x19 + Estimado LHR-NLU via MEX hub $543 USD x19",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Turkish Airlines"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 36397,
+    "precio_desglose_mxn": {
+      "MX_EU": 16200,
+      "EU_BKK": 4218,
+      "BKK_EU": 5415,
+      "EU_MX": 10564
+    },
+    "fuente": "Estimado NLU-FCO via MEX hub (~$853 USD, ref MEX-FCO $828 USD) + Skyscanner FCO-BKK $248 USD via IST + Expedia BKK-FCO $285 USD x19 + Estimado FCO-NLU via MEX hub $556 USD x19",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 31756,
+    "precio_desglose_mxn": {
+      "MX_EU": 8550,
+      "EU_BKK": 6087,
+      "BKK_EU": 5814,
+      "EU_MX": 11305
+    },
+    "fuente": "Expedia CUN-AMS ~$450 USD x19 + KLM AMS-BKK EUR 329 x18.5 + Expedia BKK-AMS $306 USD x19 + Expedia AMS-CUN $595 USD x19",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 26613,
+    "precio_desglose_mxn": {
+      "MX_EU": 6308,
+      "EU_BKK": 6568,
+      "BKK_EU": 6137,
+      "EU_MX": 7600
+    },
+    "fuente": "Expedia CUN-LHR desde $332 USD + Expedia LHR-BKK $386 USD ~ 355 EUR x18.5 + Expedia BKK-LHR $323 USD x19 + Estimado LHR-CUN ~$400 USD x19 (pico agosto)",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air France",
+      "KLM"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 29451,
+    "precio_desglose_mxn": {
+      "MX_EU": 8186,
+      "EU_BKK": 6586,
+      "BKK_EU": 6650,
+      "EU_MX": 8029
+    },
+    "fuente": "KAYAK.com.mx QRO-CDG via MEX MXN 8186 + KAYAK CDG-BKK $387 USD (386 EUR x18.5) + KAYAK/Expedia BKK-CDG $364 USD ~ 350 EUR + Estimado CDG-QRO via MEX hub EUR 434 x18.5",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 31928,
+    "precio_desglose_mxn": {
+      "MX_EU": 9500,
+      "EU_BKK": 6087,
+      "BKK_EU": 5814,
+      "EU_MX": 10527
+    },
+    "fuente": "Estimado QRO-AMS via MEX hub (~$500 USD, ref MEX-AMS $463 USD) + KLM AMS-BKK EUR 329 x18.5 + Expedia BKK-AMS $306 USD x19 + Estimado AMS-QRO via MEX hub EUR 569 x18.5",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Lufthansa",
+      "Thai Airways"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 34428,
+    "precio_desglose_mxn": {
+      "MX_EU": 10200,
+      "EU_BKK": 6845,
+      "BKK_EU": 3952,
+      "EU_MX": 13431
+    },
+    "fuente": "Estimado QRO-FRA via MEX hub (~$537 USD, ref MEX-FRA $511 USD) + KAYAK FRA-BKK $399 USD ~ 380 EUR x18.5 + Expedia BKK-FRA $208 USD x19 + Estimado FRA-QRO via MEX hub EUR 726 x18.5",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "British Airways"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 31591,
+    "precio_desglose_mxn": {
+      "MX_EU": 8569,
+      "EU_BKK": 6568,
+      "BKK_EU": 6137,
+      "EU_MX": 10317
+    },
+    "fuente": "Expedia/Skyscanner QRO-LHR desde $451 USD x19 + Expedia LHR-BKK $386 USD ~ 355 EUR x18.5 + Expedia BKK-LHR $323 USD x19 + Estimado LHR-QRO via MEX hub $543 USD x19",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
+  },
+  {
+    "timestamp": "2026-07-01T20:02:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "ITA Airways",
+      "Turkish Airlines"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 27892,
+    "precio_desglose_mxn": {
+      "MX_EU": 7695,
+      "EU_BKK": 4218,
+      "BKK_EU": 5415,
+      "EU_MX": 10564
+    },
+    "fuente": "Skyscanner QRO-FCO $405 USD x19 + Skyscanner FCO-BKK $248 USD via IST + Expedia BKK-FCO $285 USD x19 + Estimado FCO-QRO via MEX hub $556 USD x19",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx"
   }
 ]
