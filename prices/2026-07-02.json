@@ -473,5 +473,249 @@
     "fuente": "Skyscanner MEX-MAD $284 + Skyscanner MAD-MEX $397 = $681 USD total",
     "verificado": false,
     "link": "https://www.skyscanner.com.mx/rutas/mex/mad/ciudad-de-mexico-a-madrid-barajas.html"
+  },
+  {
+    "timestamp": "2026-07-02T03:20:01Z",
+    "rutina": "C",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5917,
+    "precio_eur": null,
+    "fuente": "KAYAK.com.mx (madrugada ES)",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Santiago-de-Queretaro-QRO/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD",
+    "nota": "madrugada_es"
+  },
+  {
+    "timestamp": "2026-07-02T03:20:01Z",
+    "rutina": "C",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12538,
+    "precio_eur": null,
+    "fuente": "TravelViajes.com.mx / Skyscanner (madrugada ES)",
+    "verificado": false,
+    "link": "https://travelviajes.com.mx/vuelos/queretaro/madrid/iberojet-airlines",
+    "nota": "madrugada_es"
+  },
+  {
+    "timestamp": "2026-07-02T03:20:01Z",
+    "rutina": "C",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberia"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8297,
+    "precio_eur": null,
+    "fuente": "eDreams.com.mx via WebSearch (madrugada ES)",
+    "verificado": false,
+    "link": "https://www.edreams.com.mx/aerolinea/IB/iberia/MEX/ciudad-de-mexico/MAD/madrid/",
+    "nota": "madrugada_es"
+  },
+  {
+    "timestamp": "2026-07-02T03:20:01Z",
+    "rutina": "C",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air Europa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8240,
+    "precio_eur": null,
+    "fuente": "Skyscanner.com.mx via WebSearch (madrugada ES)",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx/rutas/mex/mad/ciudad-de-mexico-a-madrid-barajas.html",
+    "nota": "madrugada_es"
+  },
+  {
+    "timestamp": "2026-07-02T03:20:01Z",
+    "rutina": "C",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FRA",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 19283,
+    "precio_eur": null,
+    "fuente": "Lufthansa.com / Travelocity via WebSearch (madrugada ES)",
+    "verificado": false,
+    "link": "https://www.lufthansa.com/lhg/de/en/o-d/cy-cy/mexico-city-frankfurt",
+    "nota": "madrugada_es"
+  },
+  {
+    "timestamp": "2026-07-02T03:20:01Z",
+    "rutina": "C",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 7620,
+    "precio_eur": null,
+    "fuente": "Travelocity.com ($381 USD) via WebSearch (madrugada ES)",
+    "verificado": false,
+    "link": "https://www.travelocity.com/lp/flight-routes/british-airways-from-mexico-city-intl-to-heathrow/ba/mex/lhr",
+    "nota": "madrugada_es"
+  },
+  {
+    "timestamp": "2026-07-02T03:20:01Z",
+    "rutina": "C",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FCO",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "ITA Airways"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 14433,
+    "precio_eur": null,
+    "fuente": "eDreams.com.mx via WebSearch (madrugada ES)",
+    "verificado": false,
+    "link": "https://www.edreams.com.mx/aerolinea/AZ/ita-airways/MEX/ciudad-de-mexico/ROM/roma/",
+    "nota": "madrugada_es"
+  },
+  {
+    "timestamp": "2026-07-02T03:20:01Z",
+    "rutina": "C",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 7740,
+    "precio_eur": 387,
+    "fuente": "KAYAK.com via WebSearch (madrugada ES) — por encima umbral €250",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Paris-Charles-de-Gaulle-CDG/Bangkok-Suvarnabhumi-other-airports-BKK",
+    "nota": "madrugada_es"
+  },
+  {
+    "timestamp": "2026-07-02T03:20:01Z",
+    "rutina": "C",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6860,
+    "precio_eur": 323,
+    "fuente": "Skyscanner.com ($343 USD) via WebSearch (madrugada ES) — por encima umbral €250",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/ams/bkkt/amsterdam-schiphol-to-bangkok.html",
+    "nota": "madrugada_es"
+  },
+  {
+    "timestamp": "2026-07-02T03:20:01Z",
+    "rutina": "C",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8060,
+    "precio_eur": 403,
+    "fuente": "Expedia.com ($403 USD) via WebSearch (madrugada ES) — por encima umbral €250",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/fra/bkk/frankfurt-to-bangkok",
+    "nota": "madrugada_es"
+  },
+  {
+    "timestamp": "2026-07-02T03:20:01Z",
+    "rutina": "C",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 14325,
+    "precio_eur": 670,
+    "fuente": "BritainTravelDeals.com (£573) via WebSearch (madrugada ES) — por encima umbral €250",
+    "verificado": false,
+    "link": "https://www.britaintraveldeals.com/non-stop-british-airways-flights-to-bangkok-210626/",
+    "nota": "madrugada_es"
   }
 ]
