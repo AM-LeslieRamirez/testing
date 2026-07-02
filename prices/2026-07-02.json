@@ -1435,5 +1435,436 @@
     "fuente": "ITA/Nomad Lawyer (est EUR 550 high season)",
     "verificado": false,
     "link": "https://www.ita-airways.com/lhg/it/en/o-d/cy-cy/rome-bangkok"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "FCO",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Condor",
+      "Lufthansa"
+    ],
+    "escalas": [
+      "FRA"
+    ],
+    "precio_total_mxn": 6726,
+    "precio_eur": null,
+    "fuente": "Skyscanner/KAYAK min $354 CUN-FCO (ruta, incluye agosto)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Cancun-CUN/Rome-Fiumicino-FCO"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8436,
+    "precio_eur": null,
+    "fuente": "Expedia min $444 CUN-AMS Amsterdam",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/ams/cancun-to-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "CDG",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air France",
+      "Condor"
+    ],
+    "escalas": [
+      "FRA"
+    ],
+    "precio_total_mxn": 8550,
+    "precio_eur": null,
+    "fuente": "Estimado $450 CUN-CDG agosto (ruta min $288 Expedia off-peak)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/cdg/cancun-to-paris"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 9500,
+    "precio_eur": null,
+    "fuente": "Estimado NLU→MEX domestic (~1500) + MEX→MAD Aeromexico. NLU sin servicio directo a EU.",
+    "verificado": false,
+    "link": "https://www.aeromexico.com/en_us/flights-from-mexico-city-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "CDG",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 11500,
+    "precio_eur": null,
+    "fuente": "Estimado NLU→MEX domestic (~1500) + MEX→CDG Air France ~10000. NLU sin vuelos directos EU.",
+    "verificado": false,
+    "link": "https://wwws.airfrance.com.mx/es-mx/vuelos-desde-ciudad-de-mexico-a-paris"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": "2026-08-06",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 9621,
+    "precio_eur": null,
+    "fuente": "Estimado NLU→MEX (~1500) + MEX→AMS KLM (8121). NLU sin vuelos directos EU.",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/mex/ams/mexico-city-to-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "CDG",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Air France"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 9025,
+    "precio_eur": null,
+    "fuente": "Estimado QRO-CDG ~$475 similar a QRO-MAD $460 Expedia + premium CDG",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/qro/mad/queretaro-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico",
+      "KLM"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 13017,
+    "precio_eur": null,
+    "fuente": "eDreams MXN 13017 QRO→AMS",
+    "verificado": false,
+    "link": "https://www.edreams.com.mx/vuelos/queretaro-amsterdam/QRO/AMS/"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "LHR",
+    "destino_final": null,
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico",
+      "British Airways"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 10827,
+    "precio_eur": null,
+    "fuente": "eDreams MXN 10827 QRO→LHR Londres",
+    "verificado": false,
+    "link": "https://www.edreams.com.mx/vuelos/queretaro-londres/QRO/LON/"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air Europa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5735,
+    "precio_eur": null,
+    "fuente": "Air Europa MAD→CUN desde €310 one-way (precio últimos 3 días consultados)",
+    "verificado": false,
+    "link": "https://www.aireuropa.com/en-us/flight-deals-from-madrid-to-cancun"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-20",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet",
+      "World2Fly"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6023,
+    "precio_eur": null,
+    "fuente": "KAYAK MAD→CUN desde $317 (Iberojet/World2Fly vuelo directo MAD-CUN)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Madrid-Barajas-MAD/Cancun-CUN"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "CUN",
+    "destino_eu": "FCO",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Neos",
+      "Lufthansa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 7391,
+    "precio_eur": null,
+    "fuente": "KAYAK FCO(Roma)→CUN desde $389",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Rome-ROM/Cancun-CUN"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "MEX",
+    "destino_eu": "FCO",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico",
+      "ITA Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 9196,
+    "precio_eur": null,
+    "fuente": "Expedia FCO→MEX desde $484",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/fco/mex/rome-to-mexico-city"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "MEX",
+    "destino_eu": "CDG",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12730,
+    "precio_eur": null,
+    "fuente": "Expedia CDG→MEX desde $670",
+    "verificado": false,
+    "link": "https://expedia.com/es/lp/vuelos/cdg/mex/paris-a-ciudad-de-mexico"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-20",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 8379,
+    "precio_eur": null,
+    "fuente": "Expedia MAD→QRO desde $441",
+    "verificado": false,
+    "link": "https://www.expedia.com/es/lp/vuelos/mad/qro/aeropuerto-de-madrid-adolfo-suarez-madrid-barajas-a-aeropuerto-internacional-de-queretaro"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "CUN",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 11305,
+    "precio_eur": null,
+    "fuente": "Expedia AMS→CUN desde $595",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/ams/cun/amsterdam-to-cancun"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "CUN",
+    "destino_eu": "CDG",
+    "destino_final": null,
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 18,
+    "aerolineas": [
+      "Condor",
+      "Air France"
+    ],
+    "escalas": [
+      "FRA"
+    ],
+    "precio_total_mxn": 12236,
+    "precio_eur": null,
+    "fuente": "CUN↔CDG redondo desde $644 por persona (Condor/Air France)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/cdg/cancun-to-paris"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "CUN",
+    "destino_eu": "FCO",
+    "destino_final": null,
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 18,
+    "aerolineas": [
+      "Neos",
+      "Lufthansa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12597,
+    "precio_eur": null,
+    "fuente": "CUN↔FCO(Roma) redondo desde $663 por persona (Neos directo)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/fco/cancun-to-rome"
+  },
+  {
+    "timestamp": "2026-07-02T08:02:30Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 13801,
+    "precio_eur": null,
+    "fuente": "Aeromexico QRO↔MAD RT desde 746€ = 13801 MXN (dep 5-ago ret 22-ago aprox)",
+    "verificado": false,
+    "link": "https://www.aeromexico.com/en_us/flights-from-queretaro-to-madrid"
   }
 ]
