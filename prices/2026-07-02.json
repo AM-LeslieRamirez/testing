@@ -1,0 +1,477 @@
+[
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo CUN-MAD",
+      "directo MAD-BKK"
+    ],
+    "precio_total_mxn": 8189,
+    "precio_desglose_mxn": {
+      "MX_EU": 3781,
+      "EU_BKK": 4408
+    },
+    "fuente": "Expedia CUN-MAD min $199 USD + Skyscanner MAD-BKK min $232 USD",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/mad/cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo MEX-MAD",
+      "directo MAD-BKK"
+    ],
+    "precio_total_mxn": 9804,
+    "precio_desglose_mxn": {
+      "MX_EU": 5396,
+      "EU_BKK": 4408
+    },
+    "fuente": "Skyscanner MEX-MAD min $284 USD + Skyscanner MAD-BKK min $232 USD",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx/rutas/mex/mad/ciudad-de-mexico-a-madrid-barajas.html"
+  },
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [
+      "escala MEX",
+      "directo MAD-BKK"
+    ],
+    "precio_total_mxn": 10684,
+    "precio_desglose_mxn": {
+      "MX_EU": 6276,
+      "EU_BKK": 4408
+    },
+    "fuente": "Aeromexico QRO-MAD via MEX ~$330 USD + Skyscanner MAD-BKK min $232 USD",
+    "verificado": false,
+    "link": "https://www.aeromexico.com/en_us/flights-from-queretaro"
+  },
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo NLU-MAD",
+      "directo MAD-BKK"
+    ],
+    "precio_total_mxn": 10488,
+    "precio_desglose_mxn": {
+      "MX_EU": 6080,
+      "EU_BKK": 4408
+    },
+    "fuente": "Aeromexico NLU-MAD est $320 USD (Google Flights MXN 15422 RT Aug/Sep, ida ~50%) + Skyscanner MAD-BKK $232 USD",
+    "verificado": false,
+    "link": "https://www.aeromexico.com/en_us/flights-from-felipe-angeles-(mexico-city)"
+  },
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [
+      "directo MEX-CDG",
+      "directo CDG-BKK"
+    ],
+    "precio_total_mxn": 12407,
+    "precio_desglose_mxn": {
+      "MX_EU": 5054,
+      "EU_BKK": 7353
+    },
+    "fuente": "Expedia MEX-CDG min $266 USD (Air France directa Aug 5) + KAYAK CDG-BKK min $387 USD",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/mex/cdg/mexico-city-to-paris"
+  },
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo CUN-MAD",
+      "directo MAD-BKK dom"
+    ],
+    "precio_total_mxn": 8189,
+    "precio_desglose_mxn": {
+      "MX_EU": 3781,
+      "EU_BKK": 4408
+    },
+    "fuente": "Expedia CUN-MAD desde $199 USD + Skyscanner MAD-BKK $232 USD (Iberojet dom 9-ago)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/mad/cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-06",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [
+      "directo MEX-AMS",
+      "directo AMS-BKK"
+    ],
+    "precio_total_mxn": 14777,
+    "precio_desglose_mxn": {
+      "MX_EU": 8260,
+      "EU_BKK": 6517
+    },
+    "fuente": "KLM.com.mx RT Aug 6-21 MXN 16519 (ida est MXN 8260) + Skyscanner AMS-BKK $343 USD",
+    "verificado": false,
+    "link": "https://www.klm.com.mx/es-mx/vuelos-desde-ciudad-de-mexico-a-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Condor",
+      "Thai Airways"
+    ],
+    "escalas": [
+      "directo CUN-FRA",
+      "directo FRA-BKK"
+    ],
+    "precio_total_mxn": 13442,
+    "precio_desglose_mxn": {
+      "MX_EU": 5975,
+      "EU_BKK": 7467
+    },
+    "fuente": "Trip.com MX CUN-FRA desde MXN 5975 (Condor directo) + KAYAK FRA-BKK min $393 USD",
+    "verificado": false,
+    "link": "https://mx.trip.com/flights/cancun-to-frankfurt/airfares-cun-fra/"
+  },
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "British Airways"
+    ],
+    "escalas": [
+      "escala EU CUN-LHR",
+      "directo LHR-BKK"
+    ],
+    "precio_total_mxn": 13585,
+    "precio_desglose_mxn": {
+      "MX_EU": 6308,
+      "EU_BKK": 7277
+    },
+    "fuente": "Expedia CUN-LHR desde $332 USD + KAYAK LHR-BKK min $383 USD",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/London-Heathrow-LHR/Bangkok-Suvarnabhumi-other-airports-BKK"
+  },
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo CUN-MAD",
+      "directo MAD-BKK",
+      "directo BKK-MAD",
+      "directo MAD-CUN"
+    ],
+    "precio_total_mxn": 19627,
+    "precio_desglose_mxn": {
+      "MX_EU": 3781,
+      "EU_BKK": 4408,
+      "BKK_EU": 5415,
+      "EU_MX": 6023
+    },
+    "fuente": "Expedia CUN-MAD $199 + Skyscanner MAD-BKK $232 + KAYAK BKK-MAD $285 + KAYAK MAD-CUN $317",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/mad/cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet",
+      "Aeromexico"
+    ],
+    "escalas": [
+      "directo CUN-MAD",
+      "directo MAD-BKK",
+      "directo BKK-MAD",
+      "directo MAD-MEX"
+    ],
+    "precio_total_mxn": 21147,
+    "precio_desglose_mxn": {
+      "MX_EU": 3781,
+      "EU_BKK": 4408,
+      "BKK_EU": 5415,
+      "EU_MX": 7543
+    },
+    "fuente": "Expedia CUN-MAD $199 + Skyscanner MAD-BKK $232 + KAYAK BKK-MAD $285 + Skyscanner MAD-MEX $397",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/mad/cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet",
+      "Air Europa"
+    ],
+    "escalas": [
+      "directo MEX-MAD",
+      "directo MAD-BKK",
+      "directo BKK-MAD",
+      "directo MAD-CUN"
+    ],
+    "precio_total_mxn": 21242,
+    "precio_desglose_mxn": {
+      "MX_EU": 5396,
+      "EU_BKK": 4408,
+      "BKK_EU": 5415,
+      "EU_MX": 6023
+    },
+    "fuente": "Skyscanner MEX-MAD $284 + Skyscanner MAD-BKK $232 + KAYAK BKK-MAD $285 + KAYAK MAD-CUN $317",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx/rutas/mex/mad/ciudad-de-mexico-a-madrid-barajas.html"
+  },
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo MEX-MAD",
+      "directo MAD-BKK",
+      "directo BKK-MAD",
+      "directo MAD-MEX"
+    ],
+    "precio_total_mxn": 22762,
+    "precio_desglose_mxn": {
+      "MX_EU": 5396,
+      "EU_BKK": 4408,
+      "BKK_EU": 5415,
+      "EU_MX": 7543
+    },
+    "fuente": "Skyscanner MEX-MAD $284 + Skyscanner MAD-BKK $232 + KAYAK BKK-MAD $285 + Skyscanner MAD-MEX $397",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx/rutas/mex/mad/ciudad-de-mexico-a-madrid-barajas.html"
+  },
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa"
+    ],
+    "escalas": [
+      "directo CUN-MAD"
+    ],
+    "precio_total_mxn": 3781,
+    "fuente": "Expedia CUN-MAD min $199 USD (Air Europa directo)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/mad/cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico"
+    ],
+    "escalas": [
+      "directo MEX-MAD"
+    ],
+    "precio_total_mxn": 5396,
+    "fuente": "Skyscanner MEX-MAD min $284 USD (Aeromexico directo)",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx/rutas/mex/mad/ciudad-de-mexico-a-madrid-barajas.html"
+  },
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "CDG",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [
+      "directo MEX-CDG"
+    ],
+    "precio_total_mxn": 5054,
+    "fuente": "Expedia MEX-CDG min $266 USD (Air France directa, Aug 5 cheapest one-way)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/mex/cdg/mexico-city-to-paris"
+  },
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air Europa"
+    ],
+    "escalas": [
+      "directo CUN-MAD",
+      "directo MAD-CUN"
+    ],
+    "precio_total_mxn": 9804,
+    "fuente": "Expedia CUN-MAD $199 USD + KAYAK MAD-CUN $317 USD = $516 total",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Madrid-Barajas-MAD/Cancun-CUN"
+  },
+  {
+    "timestamp": "2026-07-02T03:08:22Z",
+    "rutina": "A",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico"
+    ],
+    "escalas": [
+      "directo MEX-MAD",
+      "directo MAD-MEX"
+    ],
+    "precio_total_mxn": 12939,
+    "fuente": "Skyscanner MEX-MAD $284 + Skyscanner MAD-MEX $397 = $681 USD total",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx/rutas/mex/mad/ciudad-de-mexico-a-madrid-barajas.html"
+  }
+]
