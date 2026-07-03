@@ -2969,5 +2969,569 @@
     "fuente": "Aeromexico RT MEX↔AMS ago 6-19 2026 desde 16467 MXN",
     "verificado": false,
     "link": "https://www.aeromexico.com/en_us/flights-to-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [
+      "CDG"
+    ],
+    "precio_total_mxn": 14553,
+    "precio_desglose_mxn": {
+      "MX_EU": 7200,
+      "EU_BKK": 7353,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "WebSearch KAYAK/Expedia",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Cancun-CUN/Paris-Charles-de-Gaulle-CDG"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "ITA Airways"
+    ],
+    "escalas": [
+      "FCO"
+    ],
+    "precio_total_mxn": 13300,
+    "precio_desglose_mxn": {
+      "MX_EU": 6460,
+      "EU_BKK": 6840,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "WebSearch Expedia/KAYAK CUN-FCO $340+FCO-BKK $360",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/fco/cancun-to-rome"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [
+      "CDG"
+    ],
+    "precio_total_mxn": 14953,
+    "precio_desglose_mxn": {
+      "MX_EU": 7600,
+      "EU_BKK": 7353,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "WebSearch KAYAK/airfrance.com",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Mexico-City-Benito-Juarez-MEX/Paris-Charles-de-Gaulle-CDG"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "ITA Airways"
+    ],
+    "escalas": [
+      "FCO"
+    ],
+    "precio_total_mxn": 15165,
+    "precio_desglose_mxn": {
+      "MX_EU": 8325,
+      "EU_BKK": 6840,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "WebSearch Expedia/KAYAK MEX-FCO $438+FCO-BKK $360",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/fco/bkk/rome-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [
+      "LHR"
+    ],
+    "precio_total_mxn": 15827,
+    "precio_desglose_mxn": {
+      "MX_EU": 8550,
+      "EU_BKK": 7277,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "WebSearch KAYAK/Expedia MEX-LHR $450+LHR-BKK $383",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/London-Heathrow-LHR/Bangkok-Suvarnabhumi-other-airports-BKK"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [
+      "FRA"
+    ],
+    "precio_total_mxn": 16210,
+    "precio_desglose_mxn": {
+      "MX_EU": 8550,
+      "EU_BKK": 7660,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "WebSearch KAYAK/Expedia MEX-FRA $450+FRA-BKK $403",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Mexico-City-Benito-Juarez-MEX/Frankfurt-FRA"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "KLM"
+    ],
+    "escalas": [
+      "MEX",
+      "AMS"
+    ],
+    "precio_total_mxn": 14221,
+    "precio_desglose_mxn": {
+      "MX_EU": 7400,
+      "EU_BKK": 6821,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "WebSearch KAYAK QRO-AMS Aeromexico $390+KLM AMS-BKK $359",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Amsterdam-Schiphol-AMS/Bangkok-Suvarnabhumi-other-airports-BKK"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Air France"
+    ],
+    "escalas": [
+      "MEX",
+      "CDG"
+    ],
+    "precio_total_mxn": 15753,
+    "precio_desglose_mxn": {
+      "MX_EU": 8400,
+      "EU_BKK": 7353,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "WebSearch KAYAK QRO-CDG $442+CDG-BKK $387",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Santiago-de-Queretaro-QRO/Paris-Charles-de-Gaulle-CDG"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "British Airways"
+    ],
+    "escalas": [
+      "MEX",
+      "LHR"
+    ],
+    "precio_total_mxn": 16627,
+    "precio_desglose_mxn": {
+      "MX_EU": 9350,
+      "EU_BKK": 7277,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "WebSearch KAYAK QRO-LHR $492+LHR-BKK $383",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/London-Heathrow-LHR/Bangkok-Suvarnabhumi-other-airports-BKK"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "ITA Airways"
+    ],
+    "escalas": [
+      "MEX",
+      "FCO"
+    ],
+    "precio_total_mxn": 15965,
+    "precio_desglose_mxn": {
+      "MX_EU": 9125,
+      "EU_BKK": 6840,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "WebSearch KAYAK QRO-FCO $480+FCO-BKK $360",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/fco/bkk/rome-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [
+      "AMS"
+    ],
+    "precio_total_mxn": 26153,
+    "precio_desglose_mxn": {
+      "MX_EU": 6612,
+      "EU_BKK": 6821,
+      "BKK_EU": 7220,
+      "EU_MX": 5500
+    },
+    "fuente": "WebSearch KAYAK/Expedia KLM MEX-AMS+AMS-BKK+BKK-AMS+AMS-MEX",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/bkk/ams/bangkok-to-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [
+      "LHR"
+    ],
+    "precio_total_mxn": 28547,
+    "precio_desglose_mxn": {
+      "MX_EU": 8550,
+      "EU_BKK": 7277,
+      "BKK_EU": 7220,
+      "EU_MX": 5500
+    },
+    "fuente": "WebSearch KAYAK/Expedia BA MEX-LHR+LHR-BKK+BKK-LHR+LHR-MEX",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/bkk/lhr/bangkok-to-london"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [
+      "CDG"
+    ],
+    "precio_total_mxn": 26969,
+    "precio_desglose_mxn": {
+      "MX_EU": 7200,
+      "EU_BKK": 7353,
+      "BKK_EU": 6916,
+      "EU_MX": 5500
+    },
+    "fuente": "WebSearch KAYAK/Expedia AF CUN-CDG+CDG-BKK+BKK-CDG+CDG-CUN",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/bkk/cdg/bangkok-to-paris"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet",
+      "ITA Airways"
+    ],
+    "escalas": [
+      "FCO"
+    ],
+    "precio_total_mxn": 25460,
+    "precio_desglose_mxn": {
+      "MX_EU": 6460,
+      "EU_BKK": 6840,
+      "BKK_EU": 5700,
+      "EU_MX": 6460
+    },
+    "fuente": "WebSearch Expedia/KAYAK CUN-FCO+FCO-BKK+BKK-FCO+FCO-CUN charter",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/bkk/fco/bangkok-to-rome"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 25731,
+    "precio_desglose_mxn": {
+      "MX_EU": 6650,
+      "EU_BKK": 5883,
+      "BKK_EU": 7448,
+      "EU_MX": 5750
+    },
+    "fuente": "WebSearch Skyscanner/Iberojet QRO-MAD $350+Iberojet MAD-BKK+BKK-MAD+MAD-QRO",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "KLM"
+    ],
+    "escalas": [
+      "MEX",
+      "AMS"
+    ],
+    "precio_total_mxn": 27641,
+    "precio_desglose_mxn": {
+      "MX_EU": 7400,
+      "EU_BKK": 6821,
+      "BKK_EU": 7220,
+      "EU_MX": 6200
+    },
+    "fuente": "WebSearch KAYAK/Expedia QRO-AMS+AMS-BKK+BKK-AMS+AMS-QRO",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Bangkok-Suvarnabhumi-other-airports-BKK/Amsterdam-Schiphol-AMS"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [
+      "CDG"
+    ],
+    "precio_total_mxn": 27569,
+    "precio_desglose_mxn": {
+      "MX_EU": 7600,
+      "EU_BKK": 7353,
+      "BKK_EU": 6916,
+      "EU_MX": 5700
+    },
+    "fuente": "WebSearch KAYAK/airfrance.com MEX-CDG+CDG-BKK+BKK-CDG+CDG-MEX",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/bkk/cdg/bangkok-to-paris"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [
+      "FRA"
+    ],
+    "precio_total_mxn": 27350,
+    "precio_desglose_mxn": {
+      "MX_EU": 7540,
+      "EU_BKK": 7660,
+      "BKK_EU": 6650,
+      "EU_MX": 5500
+    },
+    "fuente": "WebSearch KAYAK/Expedia Lufthansa CUN-FRA+FRA-BKK+BKK-FRA+FRA-CUN",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/fra/bkk/frankfurt-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [
+      "FRA"
+    ],
+    "precio_total_mxn": 28560,
+    "precio_desglose_mxn": {
+      "MX_EU": 8550,
+      "EU_BKK": 7660,
+      "BKK_EU": 6650,
+      "EU_MX": 5700
+    },
+    "fuente": "WebSearch KAYAK/Expedia Lufthansa MEX-FRA+FRA-BKK+BKK-FRA+FRA-MEX",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/fra/bkk/frankfurt-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-03T20:02:06Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "ITA Airways"
+    ],
+    "escalas": [
+      "FCO"
+    ],
+    "precio_total_mxn": 26945,
+    "precio_desglose_mxn": {
+      "MX_EU": 8325,
+      "EU_BKK": 6840,
+      "BKK_EU": 5700,
+      "EU_MX": 6080
+    },
+    "fuente": "WebSearch Expedia/KAYAK MEX-FCO+FCO-BKK+BKK-FCO+FCO-MEX ITA",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/bkk/fco/bangkok-to-rome"
   }
 ]
