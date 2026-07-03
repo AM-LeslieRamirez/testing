@@ -1198,5 +1198,249 @@
     "verificado": false,
     "link": "https://www.edreams.com/offers/flights/airline/LH/lufthansa/FRA/frankfurt/BKK/bangkok/",
     "nota": "madrugada_es"
+  },
+  {
+    "timestamp": "2026-07-03T08:02:17Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "AMS",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM",
+      "TUI Fly"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5662,
+    "fuente": "Skyscanner CUN-AMS desde $298 USD (piso ruta general)",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx/rutas/cun/ams/cancun-a-amsterdam-schiphol.html"
+  },
+  {
+    "timestamp": "2026-07-03T08:02:17Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "FCO",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Neos"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5890,
+    "fuente": "Expedia CUN-FCO Neos desde $310 USD directo (bajo urgente 6000)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/fco/cancun-to-rome"
+  },
+  {
+    "timestamp": "2026-07-03T08:02:17Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "LHR",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Virgin Atlantic"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6441,
+    "fuente": "Virgin Atlantic CUN-LHR desde $339 USD directo ~11h (VS93)",
+    "verificado": false,
+    "link": "https://flights.virginatlantic.com/en/flights-from-cancun-to-london"
+  },
+  {
+    "timestamp": "2026-07-03T08:02:17Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6612,
+    "fuente": "Kayak MEX-AMS KLM desde $348 USD directo (piso ruta general)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Cancun-CUN/Amsterdam-Schiphol-AMS"
+  },
+  {
+    "timestamp": "2026-07-03T08:02:17Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-06",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "Etihad/Qatar"
+    ],
+    "escalas": [
+      "AUH o DOH (escala permitida)"
+    ],
+    "precio_total_mxn": 8998,
+    "precio_desglose_mxn": {
+      "MX_EU": 3781,
+      "EU_BKK": 5217,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Expedia CUN-MAD Air Europa $199 | Kiwi MAD-BKK via Etihad/Qatar desde €282 (piso ruta)",
+    "verificado": false,
+    "link": "https://www.kiwi.com/en/cheap-flights/madrid-spain/bangkok-thailand/"
+  },
+  {
+    "timestamp": "2026-07-03T08:02:17Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM/TUI Fly",
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12483,
+    "precio_desglose_mxn": {
+      "MX_EU": 5662,
+      "EU_BKK": 6821,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Skyscanner CUN-AMS $298 + Expedia AMS-BKK $359 (pisos ruta general)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/ams/bkk/amsterdam-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-03T08:02:17Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Virgin Atlantic",
+      "EVA Air/Thai/Qatar"
+    ],
+    "escalas": [
+      "LHR hub (conexión)"
+    ],
+    "precio_total_mxn": 13718,
+    "precio_desglose_mxn": {
+      "MX_EU": 6441,
+      "EU_BKK": 7277,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Virgin Atlantic CUN-LHR $339 + Kayak LHR-BKK $383 (nota: BA vuela desde LGW no LHR en verano 2026)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/London-Heathrow-LHR/Bangkok-Suvarnabhumi-other-airports-BKK"
+  },
+  {
+    "timestamp": "2026-07-03T08:02:17Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM",
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 14079,
+    "precio_desglose_mxn": {
+      "MX_EU": 6612,
+      "EU_BKK": 7467,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Kayak MEX-AMS $348 + Kayak AMS-BKK $393 (pisos ruta general)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Amsterdam-Schiphol-AMS/Bangkok-Suvarnabhumi-other-airports-BKK"
+  },
+  {
+    "timestamp": "2026-07-03T08:02:17Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "KLM/TUI Fly",
+      "KLM",
+      "Qatar/market",
+      "World2Fly"
+    ],
+    "escalas": [
+      "retorno via MAD"
+    ],
+    "precio_total_mxn": 25031,
+    "precio_desglose_mxn": {
+      "MX_EU": 5662,
+      "EU_BKK": 6821,
+      "BKK_EU": 7220,
+      "EU_MX": 5328
+    },
+    "fuente": "CUN-AMS $298 Skyscanner | AMS-BKK $359 Expedia | BKK-MAD $380 est. market | World2Fly MAD-CUN €288",
+    "verificado": false,
+    "link": "https://www.google.com/travel/flights"
+  },
+  {
+    "timestamp": "2026-07-03T08:02:17Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Virgin Atlantic",
+      "EVA Air/Thai",
+      "Qatar/market",
+      "World2Fly"
+    ],
+    "escalas": [
+      "LHR hub",
+      "retorno via MAD"
+    ],
+    "precio_total_mxn": 26266,
+    "precio_desglose_mxn": {
+      "MX_EU": 6441,
+      "EU_BKK": 7277,
+      "BKK_EU": 7220,
+      "EU_MX": 5328
+    },
+    "fuente": "Virgin Atlantic CUN-LHR $339 | Kayak LHR-BKK $383 | BKK-MAD $380 est. | World2Fly MAD-CUN €288",
+    "verificado": false,
+    "link": "https://www.google.com/travel/flights"
   }
 ]
