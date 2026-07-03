@@ -2130,5 +2130,283 @@
     "fuente": "vuelosbaratos.es snippet — Iberojet MAD-BKK directo jue/dom; desde EUR668 agosto",
     "verificado": false,
     "link": "https://www.vuelosbaratos.es/OfertasVuelos/MAD/BKK/agosto-2026/"
+  },
+  {
+    "timestamp": "2026-07-03T14:02:20Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 12129,
+    "precio_desglose_mxn": {
+      "MX_EU": 5589,
+      "EU_BKK": 6540,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "KAYAK.com.mx + Airpaz (Iberojet CUN-MAD 5589 MXN + MAD-BKK USD344=6540 MXN)",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Iberojet-Cancun-CUN/Madrid-Barajas-MAD.b.E9.ksp"
+  },
+  {
+    "timestamp": "2026-07-03T14:02:20Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 15490,
+    "precio_desglose_mxn": {
+      "MX_EU": 8950,
+      "EU_BKK": 6540,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Google Flights (MEX-MAD aug12 $471=8950 MXN) + Airpaz (MAD-BKK USD344=6540 MXN)",
+    "verificado": false,
+    "link": "https://www.google.com/travel/flights/flights-from-mexico-city-to-madrid.html"
+  },
+  {
+    "timestamp": "2026-07-03T14:02:20Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM",
+      "KLM"
+    ],
+    "escalas": [
+      "AMS"
+    ],
+    "precio_total_mxn": 16970,
+    "precio_desglose_mxn": {
+      "MX_EU": 9500,
+      "EU_BKK": 7470,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "KLM.com.mx (RT $926 ago, OW est $500=9500 MXN) + KAYAK (AMS-BKK $393=7470 MXN)",
+    "verificado": false,
+    "link": "https://www.klm.com.mx/en-mx/flights-from-mexico-city-to-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-03T14:02:20Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air France",
+      "Air France"
+    ],
+    "escalas": [
+      "CDG"
+    ],
+    "precio_total_mxn": 16040,
+    "precio_desglose_mxn": {
+      "MX_EU": 7600,
+      "EU_BKK": 8440,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Expedia (MEX-CDG est $400=7600 MXN) + Expedia (CDG-BKK desde $444=8440 MXN)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/mex/cdg/mexico-city-to-paris"
+  },
+  {
+    "timestamp": "2026-07-03T14:02:20Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "British Airways",
+      "British Airways"
+    ],
+    "escalas": [
+      "LHR"
+    ],
+    "precio_total_mxn": 15830,
+    "precio_desglose_mxn": {
+      "MX_EU": 8550,
+      "EU_BKK": 7280,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "BA.com (MEX-LHR est $450=8550 MXN) + KAYAK (LHR-BKK desde $383=7280 MXN)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/London-Heathrow-LHR/Bangkok-Suvarnabhumi-other-airports-BKK"
+  },
+  {
+    "timestamp": "2026-07-03T14:02:20Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Lufthansa",
+      "Lufthansa"
+    ],
+    "escalas": [
+      "FRA"
+    ],
+    "precio_total_mxn": 16210,
+    "precio_desglose_mxn": {
+      "MX_EU": 8550,
+      "EU_BKK": 7660,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Lufthansa.com (MEX-FRA est $450=8550 MXN) + KAYAK (FRA-BKK desde $403=7660 MXN)",
+    "verificado": false,
+    "link": "https://www.lufthansa.com/lhg/th/en/o-d/cy-cy/frankfurt-bangkok"
+  },
+  {
+    "timestamp": "2026-07-03T14:02:20Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Lufthansa",
+      "Lufthansa"
+    ],
+    "escalas": [
+      "FRA"
+    ],
+    "precio_total_mxn": 15200,
+    "precio_desglose_mxn": {
+      "MX_EU": 7540,
+      "EU_BKK": 7660,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "KAYAK (CUN-FRA desde $397=7540 MXN) + KAYAK (FRA-BKK desde $403=7660 MXN)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Cancun-CUN/Frankfurt-am-Main-FRA"
+  },
+  {
+    "timestamp": "2026-07-03T14:02:20Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-25",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet",
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD",
+      "MAD"
+    ],
+    "precio_total_mxn": 24994,
+    "precio_desglose_mxn": {
+      "MX_EU": 5589,
+      "EU_BKK": 6540,
+      "BKK_EU": 5550,
+      "EU_MX": 7315
+    },
+    "fuente": "KAYAK.com.mx+Airpaz+Iberojet (CUN-MAD 5589+MAD-BKK 6540+BKK-MAD 300EUR=5550+MAD-CUN $385=7315)",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-03T14:02:20Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": "2026-08-25",
+    "dias_estancia": 16,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet",
+      "Iberojet",
+      "Aeromexico"
+    ],
+    "escalas": [
+      "MAD",
+      "MAD"
+    ],
+    "precio_total_mxn": 29860,
+    "precio_desglose_mxn": {
+      "MX_EU": 8950,
+      "EU_BKK": 6540,
+      "BKK_EU": 5550,
+      "EU_MX": 8820
+    },
+    "fuente": "Google Flights+Airpaz (MEX-MAD $471=8950 + MAD-BKK $344=6540 + BKK-MAD 300EUR=5550 + MAD-MEX $464=8820)",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-bangkok-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-03T14:02:20Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5589,
+    "fuente": "KAYAK.com.mx (Iberojet CUN-MAD desde 5589 MXN)",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Iberojet-Cancun-CUN/Madrid-Barajas-MAD.b.E9.ksp"
   }
 ]
