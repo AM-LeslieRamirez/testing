@@ -753,5 +753,230 @@
     "fuente": "ITA Airways FCO→BKK desde €550 (alta temporada)",
     "verificado": false,
     "link": "https://www.ita-airways.com/lhg/it/en/o-d/cy-cy/rome-bangkok"
+  },
+  {
+    "timestamp": "2026-07-03T02:02:33Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 9664,
+    "precio_desglose_mxn": {
+      "MX_EU": 3781,
+      "EU_BKK": 5883,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Expedia CUN-MAD Air Europa $199 directo | Iberojet MAD-BKK jue/dom €318",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/mad/cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-03T02:02:33Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "World2Fly",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12058,
+    "precio_desglose_mxn": {
+      "MX_EU": 6175,
+      "EU_BKK": 5883,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "KAYAK CUN-MAD $325 USD directo | Iberojet MAD-BKK jue/dom €318",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Cancun-CUN/Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-03T02:02:33Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MEX (conexión)"
+    ],
+    "precio_total_mxn": 12533,
+    "precio_desglose_mxn": {
+      "MX_EU": 6650,
+      "EU_BKK": 5883,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Kayak QRO-MAD estimado vía MEX MXN 6650 | Iberojet MAD-BKK €318",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Cancun-CUN/Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-03T02:02:33Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 13202,
+    "precio_desglose_mxn": {
+      "MX_EU": 7319,
+      "EU_BKK": 5883,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Trip.com MEX-MAD MXN 7319 | Iberojet MAD-BKK €318",
+    "verificado": false,
+    "link": "https://us.trip.com/flights/madrid-to-bangkok/airfares-mad-bkk/"
+  },
+  {
+    "timestamp": "2026-07-03T02:02:33Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet",
+      "Thai Airways",
+      "World2Fly"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 22311,
+    "precio_desglose_mxn": {
+      "MX_EU": 3781,
+      "EU_BKK": 5883,
+      "BKK_EU": 7448,
+      "EU_MX": 5199
+    },
+    "fuente": "Expedia CUN-MAD $199 | Iberojet MAD-BKK €318 | Expedia BKK-MAD $392 est. | World2Fly MAD-CUN €281",
+    "verificado": false,
+    "link": "https://www.google.com/travel/flights"
+  },
+  {
+    "timestamp": "2026-07-03T02:02:33Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air Europa",
+      "World2Fly",
+      "Iberojet",
+      "Thai Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 24705,
+    "precio_desglose_mxn": {
+      "MX_EU": 6175,
+      "EU_BKK": 5883,
+      "BKK_EU": 7448,
+      "EU_MX": 5199
+    },
+    "fuente": "KAYAK CUN-MAD $325 | Iberojet MAD-BKK €318 | Expedia BKK-MAD $392 est. | World2Fly MAD-CUN €281",
+    "verificado": false,
+    "link": "https://www.google.com/travel/flights"
+  },
+  {
+    "timestamp": "2026-07-03T02:02:33Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet",
+      "Thai Airways",
+      "World2Fly"
+    ],
+    "escalas": [
+      "MEX (conexión)"
+    ],
+    "precio_total_mxn": 25180,
+    "precio_desglose_mxn": {
+      "MX_EU": 6650,
+      "EU_BKK": 5883,
+      "BKK_EU": 7448,
+      "EU_MX": 5199
+    },
+    "fuente": "Kayak QRO-MAD vía MEX MXN 6650 | Iberojet MAD-BKK €318 | Expedia BKK-MAD $392 est. | World2Fly MAD-CUN €281",
+    "verificado": false,
+    "link": "https://www.google.com/travel/flights"
+  },
+  {
+    "timestamp": "2026-07-03T02:02:33Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet",
+      "Thai Airways",
+      "Iberia"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 27366,
+    "precio_desglose_mxn": {
+      "MX_EU": 7319,
+      "EU_BKK": 5883,
+      "BKK_EU": 7448,
+      "EU_MX": 6716
+    },
+    "fuente": "Trip.com MEX-MAD MXN 7319 | Iberojet MAD-BKK €318 | Expedia BKK-MAD $392 est. | Iberia MAD-MEX €363",
+    "verificado": false,
+    "link": "https://www.google.com/travel/flights"
   }
 ]
