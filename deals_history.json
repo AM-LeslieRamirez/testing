@@ -22,5 +22,13 @@
     "min_combo_ida_mxn": 8106,
     "urgent_count": 23,
     "n_deals": 53
+  },
+  {
+    "date": "2026-07-03",
+    "total_entries": 151,
+    "min_combo_rt_mxn": 22311,
+    "min_combo_ida_mxn": 8998,
+    "urgent_count": 10,
+    "n_deals": 53
   }
 ]
