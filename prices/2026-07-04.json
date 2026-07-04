@@ -4296,5 +4296,500 @@
     "fuente": "Expedia/Skyscanner LHR→BKK BA desde £376-402; agosto ~£440 pico",
     "verificado": false,
     "link": "https://www.skyscanner.net/routes/lhr/bkkt/london-heathrow-to-bangkok.html"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Neos Air",
+      "ITA Airways",
+      "Etihad"
+    ],
+    "escalas": [
+      "MEX",
+      "AUH"
+    ],
+    "precio_total_mxn": 14686,
+    "precio_desglose_mxn": {
+      "MX_EU": 7471,
+      "EU_BKK": 7215
+    },
+    "fuente": "KAYAK.com.mx CUN→ROM desde 7,471 MXN",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "ITA Airways",
+      "Etihad"
+    ],
+    "escalas": [
+      "AUH"
+    ],
+    "precio_total_mxn": 15461,
+    "precio_desglose_mxn": {
+      "MX_EU": 8246,
+      "EU_BKK": 7215
+    },
+    "fuente": "KAYAK $434 USD MEX→FCO agosto 2026",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "ITA Airways",
+      "Etihad"
+    ],
+    "escalas": [
+      "AUH"
+    ],
+    "precio_total_mxn": 15715,
+    "precio_desglose_mxn": {
+      "MX_EU": 8500,
+      "EU_BKK": 7215
+    },
+    "fuente": "Estimado NLU→FCO similar MEX→FCO Aeromexico ~8,246-8,500 MXN",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "ITA Airways",
+      "ITA Airways",
+      "Etihad"
+    ],
+    "escalas": [
+      "MEX",
+      "AUH"
+    ],
+    "precio_total_mxn": 18028,
+    "precio_desglose_mxn": {
+      "MX_EU": 10813,
+      "EU_BKK": 7215
+    },
+    "fuente": "Skyscanner QRO→FCO desde 10,813 MXN",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Neos Air",
+      "ITA Airways",
+      "Etihad",
+      "(return via FCO)"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 31097,
+    "precio_desglose_mxn": {
+      "MX_EU": 7471,
+      "EU_BKK": 7215,
+      "BKK_EU": 7215,
+      "EU_MX": 9196
+    },
+    "fuente": "Estimado COMBO_RT FCO; KAYAK.com.mx CUN→ROM desde 7,471 MXN",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "ITA Airways",
+      "Etihad",
+      "(return via FCO)"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 32803,
+    "precio_desglose_mxn": {
+      "MX_EU": 8246,
+      "EU_BKK": 7215,
+      "BKK_EU": 7215,
+      "EU_MX": 10127
+    },
+    "fuente": "Estimado COMBO_RT FCO; KAYAK $434 USD MEX→FCO agosto 2026",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM",
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 18924,
+    "precio_desglose_mxn": {
+      "MX_EU": 12084,
+      "EU_BKK": 6840
+    },
+    "fuente": "Google Flights NLU/MEX→AMS OW agosto 2026 desde $636",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air France",
+      "Aeromexico",
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 16653,
+    "precio_desglose_mxn": {
+      "MX_EU": 9300,
+      "EU_BKK": 7353
+    },
+    "fuente": "Estimado NLU→CDG similar MEX→CDG ~9,063 MXN +ajuste",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Lufthansa",
+      "Aeromexico",
+      "Lufthansa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 16481,
+    "precio_desglose_mxn": {
+      "MX_EU": 8900,
+      "EU_BKK": 7581
+    },
+    "fuente": "Estimado NLU→FRA similar MEX→FRA 8,683 + ajuste",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "British Airways",
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 18107,
+    "precio_desglose_mxn": {
+      "MX_EU": 9963,
+      "EU_BKK": 8144
+    },
+    "fuente": "Derivado COMBO MEX→LHR→BKK 18,107 - LHR→BKK 8,144 = 9,963 MXN",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "ITA Airways",
+      "Etihad"
+    ],
+    "escalas": [
+      "AUH"
+    ],
+    "precio_total_mxn": 15715,
+    "precio_desglose_mxn": {
+      "MX_EU": 8500,
+      "EU_BKK": 7215
+    },
+    "fuente": "Estimado NLU→FCO similar MEX→FCO Aeromexico ~8,246-8,500 MXN",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM",
+      "Aeromexico",
+      "KLM"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 19857,
+    "precio_desglose_mxn": {
+      "MX_EU": 13017,
+      "EU_BKK": 6840
+    },
+    "fuente": "eDreams QRO→AMS desde 13,017 MXN",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air France",
+      "Aeromexico",
+      "Air France"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 20853,
+    "precio_desglose_mxn": {
+      "MX_EU": 13500,
+      "EU_BKK": 7353
+    },
+    "fuente": "Estimado QRO→CDG similar QRO→AMS ~13,017-13,500 MXN",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Lufthansa",
+      "Aeromexico",
+      "Lufthansa"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 21081,
+    "precio_desglose_mxn": {
+      "MX_EU": 13500,
+      "EU_BKK": 7581
+    },
+    "fuente": "Estimado QRO→FRA similar QRO→AMS ~13,017-13,500 MXN",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "British Airways",
+      "British Airways"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 20266,
+    "precio_desglose_mxn": {
+      "MX_EU": 12122,
+      "EU_BKK": 8144
+    },
+    "fuente": "Aeromexico QRO→LHR desde $638 USD = 12,122 MXN",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet",
+      "Iberojet",
+      "Iberia"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 30291,
+    "precio_desglose_mxn": {
+      "MX_EU": 9025,
+      "EU_BKK": 5883,
+      "BKK_EU": 5883,
+      "EU_MX": 9500
+    },
+    "fuente": "Derivado: NLU→MAD de COMBO_IDA 14908; MAD↔BKK Iberojet; MAD→NLU Iberia E2",
+    "verificado": false,
+    "link": "https://www.aeromexico.com + https://www.iberojet.com"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "FCO",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Neos Air"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 7471,
+    "fuente": "KAYAK.com.mx CUN→ROM desde 7,471 MXN",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Cancun-CUN/Roma-ROM"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "LHR",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 12122,
+    "fuente": "Aeromexico QRO→LHR desde $638 USD = 12,122 MXN",
+    "verificado": false,
+    "link": "https://www.aeromexico.com"
+  },
+  {
+    "timestamp": "2026-07-04T20:25:00Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "AMS",
+    "fecha_ida": "2026-08-10",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12084,
+    "fuente": "Google Flights NLU/MEX→AMS OW agosto desde $636",
+    "verificado": false,
+    "link": "https://www.google.com/travel/flights"
   }
 ]
