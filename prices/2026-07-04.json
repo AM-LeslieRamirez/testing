@@ -3393,5 +3393,237 @@
     "fuente": "KAYAK.com.mx World2Fly MEX-MAD OW MXN 5,023; RT est. ~11,590 pico agosto",
     "verificado": false,
     "link": "https://www.kayak.com.mx/vuelos/World2Fly-Mexico-MX0/Madrid-Barajas-MAD.b.2W.ksp"
+  },
+  {
+    "timestamp": "2026-07-04T14:15:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air France",
+      "Air France"
+    ],
+    "escalas": [
+      "CDG"
+    ],
+    "precio_total_mxn": 14250,
+    "precio_desglose_mxn": {
+      "MX_EU": 7220,
+      "EU_BKK": 7030
+    },
+    "fuente": "AirFrance.com.mx+Expedia estimado ago2026 ($380USD+EUR380)",
+    "verificado": false,
+    "link": "https://wwws.airfrance.com.mx/es-mx/vuelos-desde-cancun-a-paris"
+  },
+  {
+    "timestamp": "2026-07-04T14:15:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Condor",
+      "Lufthansa"
+    ],
+    "escalas": [
+      "FRA"
+    ],
+    "precio_total_mxn": 16150,
+    "precio_desglose_mxn": {
+      "MX_EU": 9120,
+      "EU_BKK": 7030
+    },
+    "fuente": "Trip.com+Kayak estimado ago2026 ($480USD+EUR380)",
+    "verificado": false,
+    "link": "https://us.trip.com/flights/cancun-to-frankfurt/airfares-cun-fra/"
+  },
+  {
+    "timestamp": "2026-07-04T14:15:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "British Airways",
+      "British Airways"
+    ],
+    "escalas": [
+      "LHR"
+    ],
+    "precio_total_mxn": 17290,
+    "precio_desglose_mxn": {
+      "MX_EU": 9880,
+      "EU_BKK": 7410
+    },
+    "fuente": "Expedia+Momondo estimado ago2026 ($520USD+$390USD)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/lhr/cancun-to-london"
+  },
+  {
+    "timestamp": "2026-07-04T14:15:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 14908,
+    "precio_desglose_mxn": {
+      "MX_EU": 9025,
+      "EU_BKK": 5883
+    },
+    "fuente": "Aeromexico.com+Iberojet estimado ago2026 ($475USD+EUR318)",
+    "verificado": false,
+    "link": "https://www.aeromexico.com/en_us/flights-from-felipe-angeles-(mexico-city)"
+  },
+  {
+    "timestamp": "2026-07-04T14:15:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "British Airways",
+      "British Airways"
+    ],
+    "escalas": [
+      "LHR"
+    ],
+    "precio_total_mxn": 18107,
+    "precio_desglose_mxn": {
+      "MX_EU": 10697,
+      "EU_BKK": 7410
+    },
+    "fuente": "Expedia+Skyscanner estimado ago2026 ($563USD+$390USD)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/mex/lhr/mexico-city-to-london"
+  },
+  {
+    "timestamp": "2026-07-04T14:15:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "KLM",
+      "KLM",
+      "KLM",
+      "KLM"
+    ],
+    "escalas": [
+      "AMS"
+    ],
+    "precio_total_mxn": 27683,
+    "precio_desglose_mxn": {
+      "MX_EU": 5017,
+      "EU_BKK": 7466,
+      "BKK_EU": 6650,
+      "EU_MX": 8550
+    },
+    "fuente": "KLM.com+Expedia estimado ago2026 (CUN-AMS$264+AMS-BKK$393+BKK-AMS$350+AMS-CUN$450)",
+    "verificado": false,
+    "link": "https://www.klm.com.mx/en-mx/flights-from-cancun-to-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-04T14:15:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air France",
+      "Air France",
+      "Air France",
+      "Air France"
+    ],
+    "escalas": [
+      "CDG"
+    ],
+    "precio_total_mxn": 28500,
+    "precio_desglose_mxn": {
+      "MX_EU": 7220,
+      "EU_BKK": 7030,
+      "BKK_EU": 7030,
+      "EU_MX": 7220
+    },
+    "fuente": "AirFrance+Expedia estimado ago2026 ($380USD+EUR380+EUR370+$380USD)",
+    "verificado": false,
+    "link": "https://wwws.airfrance.com.mx/es-mx/vuelos-desde-cancun-a-paris"
+  },
+  {
+    "timestamp": "2026-07-04T14:15:00Z",
+    "rutina": "A",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "CUN",
+    "destino_eu": "CDG",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air France",
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 14022,
+    "fuente": "AirFrance.com.mx I/V estimado ago2026 ($380USD x2)",
+    "verificado": false,
+    "link": "https://wwws.airfrance.com.mx/es-mx/vuelos-desde-cancun-a-paris"
+  },
+  {
+    "timestamp": "2026-07-04T14:15:00Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 9025,
+    "fuente": "Aeromexico.com estimado ago2026 ($475USD incluyendo NLU-MEX)",
+    "verificado": false,
+    "link": "https://www.aeromexico.com/en_us/flights-from-felipe-angeles-(mexico-city)"
   }
 ]
