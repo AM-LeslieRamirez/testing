@@ -3625,5 +3625,676 @@
     "fuente": "Aeromexico.com estimado ago2026 ($475USD incluyendo NLU-MEX)",
     "verificado": false,
     "link": "https://www.aeromexico.com/en_us/flights-from-felipe-angeles-(mexico-city)"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "FCO",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberia",
+      "ITA Airways"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 9120,
+    "precio_eur": null,
+    "fuente": "Estimado: NLU→MEX doméstico + MEX→MAD→FCO Iberia/ITA; pico agosto",
+    "verificado": false,
+    "link": "https://www.iberia.com/us/cheap-flights/Mexico-City-Rome/"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air France",
+      "KLM"
+    ],
+    "escalas": [
+      "CDG"
+    ],
+    "precio_total_mxn": 7215,
+    "precio_eur": null,
+    "fuente": "Expedia: CUN→CDG→AMS Air France/KLM desde $266 base; estimado agosto pico",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/mex/ams/mexico-city-to-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FRA",
+    "destino_final": null,
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 7410,
+    "precio_eur": null,
+    "fuente": "WebSearch Lufthansa MEX→FRA; base $390 USD pico agosto × 19",
+    "verificado": false,
+    "link": "https://www.lufthansa.com/mx/es/flights-from-mexico-city-to-frankfurt"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 9158,
+    "precio_eur": null,
+    "fuente": "Expedia LHR→MEX from $482 × 19; BA directo MEX-LHR",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/lhr/mex/london-to-mexico-city"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "CUN",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 10070,
+    "precio_eur": null,
+    "fuente": "Expedia AMS→CUN desde $530 USD × 19; agosto pico",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/ams/bkk/amsterdam-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "NLU",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberia"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 9500,
+    "precio_eur": null,
+    "fuente": "Estimado: MAD→MEX Iberia ($538) + MEX→NLU doméstico",
+    "verificado": false,
+    "link": "https://www.iberia.com/us/cheap-flights/Madrid-Mexico-City/"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "NLU",
+    "destino_eu": "CDG",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 12920,
+    "precio_eur": null,
+    "fuente": "Estimado: CDG→MEX Air France ($670) + doméstico NLU",
+    "verificado": false,
+    "link": "https://expedia.com/es/lp/vuelos/cdg/mex/paris-a-ciudad-de-mexico"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "NLU",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 11400,
+    "precio_eur": null,
+    "fuente": "Estimado: AMS→MEX KLM (~$530×19) + doméstico NLU",
+    "verificado": false,
+    "link": "https://www.klm.com.mx/en-mx/flights-from-mexico-city-to-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "NLU",
+    "destino_eu": "FRA",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 12160,
+    "precio_eur": null,
+    "fuente": "Estimado: FRA→MEX Lufthansa (~$580×19) + doméstico NLU",
+    "verificado": false,
+    "link": "https://www.lufthansa.com/mx/es/flights-from-mexico-city-to-frankfurt"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "NLU",
+    "destino_eu": "LHR",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 11210,
+    "precio_eur": null,
+    "fuente": "Estimado: LHR→MEX BA ($482×19=9158) + conexión NLU",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/lhr/mex/london-to-mexico-city"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "NLU",
+    "destino_eu": "FCO",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "ITA Airways",
+      "Iberia"
+    ],
+    "escalas": [
+      "MAD",
+      "MEX"
+    ],
+    "precio_total_mxn": 12730,
+    "precio_eur": null,
+    "fuente": "Estimado: FCO→MAD→MEX→NLU; similar a CDG→MEX rango",
+    "verificado": false,
+    "link": "https://www.iberia.com/us/cheap-flights/Rome-Mexico-City/"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "QRO",
+    "destino_eu": "CDG",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 13110,
+    "precio_eur": null,
+    "fuente": "Estimado: CDG→MEX AF ($670×19) + QRO feed; pico agosto",
+    "verificado": false,
+    "link": "https://expedia.com/es/lp/vuelos/cdg/mex/paris-a-ciudad-de-mexico"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "QRO",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 11590,
+    "precio_eur": null,
+    "fuente": "Estimado: AMS→MEX KLM ~$530 + QRO conexión",
+    "verificado": false,
+    "link": "https://www.klm.com.mx/en-mx/flights-from-mexico-city-to-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "QRO",
+    "destino_eu": "FRA",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 12350,
+    "precio_eur": null,
+    "fuente": "Estimado: FRA→MEX Lufthansa ~$580 + QRO conexión",
+    "verificado": false,
+    "link": "https://www.lufthansa.com/mx/es/flights-from-mexico-city-to-frankfurt"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "QRO",
+    "destino_eu": "LHR",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 11400,
+    "precio_eur": null,
+    "fuente": "Estimado: LHR→MEX BA $482 + QRO conexión",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/lhr/mex/london-to-mexico-city"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "QRO",
+    "destino_eu": "FCO",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "ITA Airways",
+      "Iberia"
+    ],
+    "escalas": [
+      "MAD",
+      "MEX"
+    ],
+    "precio_total_mxn": 12920,
+    "precio_eur": null,
+    "fuente": "Estimado: FCO→MAD→MEX→QRO; rango típico agosto",
+    "verificado": false,
+    "link": "https://www.iberia.com/us/cheap-flights/Rome-Mexico-City/"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "MEX",
+    "destino_eu": "FCO",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberia",
+      "ITA Airways"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 15732,
+    "precio_eur": null,
+    "fuente": "Estimado RT MEX↔FCO vía MAD; Iberia base RT $829 × 19",
+    "verificado": false,
+    "link": "https://www.iberia.com/us/cheap-flights/Mexico-City-Rome/"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "NLU",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberia"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 14430,
+    "precio_eur": null,
+    "fuente": "Estimado: RT MEX↔MAD Iberia $818 + NLU doméstico",
+    "verificado": false,
+    "link": "https://www.iberia.com/us/cheap-flights/Mexico-City-Madrid/"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "NLU",
+    "destino_eu": "CDG",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 17575,
+    "precio_eur": null,
+    "fuente": "Estimado: RT MEX↔CDG AF $845 + NLU; rango pico",
+    "verificado": false,
+    "link": "https://wwws.airfrance.com.mx/"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "NLU",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 17945,
+    "precio_eur": null,
+    "fuente": "Estimado: RT MEX↔AMS KLM 16,519 + NLU doméstico",
+    "verificado": false,
+    "link": "https://www.klm.com.mx/es-mx/vuelos-desde-ciudad-de-mexico-a-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "NLU",
+    "destino_eu": "FRA",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 18315,
+    "precio_eur": null,
+    "fuente": "Estimado: RT NLU↔FRA vía MEX; Lufthansa agosto pico",
+    "verificado": false,
+    "link": "https://www.lufthansa.com/mx/es/flights-from-mexico-city-to-frankfurt"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "NLU",
+    "destino_eu": "LHR",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 18685,
+    "precio_eur": null,
+    "fuente": "Estimado: RT NLU↔LHR vía MEX; BA agosto pico",
+    "verificado": false,
+    "link": "https://www.britishairways.com/content/flights/mexico"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "NLU",
+    "destino_eu": "FCO",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberia",
+      "ITA Airways"
+    ],
+    "escalas": [
+      "MAD",
+      "MEX"
+    ],
+    "precio_total_mxn": 17020,
+    "precio_eur": null,
+    "fuente": "Estimado: RT NLU↔FCO vía MEX-MAD; agosto pico",
+    "verificado": false,
+    "link": "https://www.iberia.com/us/cheap-flights/Mexico-City-Rome/"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "QRO",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 18130,
+    "precio_eur": null,
+    "fuente": "Estimado: RT QRO↔AMS KLM; KLM MEX-AMS RT 16,519 + QRO feed",
+    "verificado": false,
+    "link": "https://www.klm.com.mx/en-mx/flights-from-mexico-city-to-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "QRO",
+    "destino_eu": "FRA",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 18685,
+    "precio_eur": null,
+    "fuente": "Estimado: RT QRO↔FRA Lufthansa vía MEX; agosto pico",
+    "verificado": false,
+    "link": "https://www.lufthansa.com/mx/es/flights-from-mexico-city-to-frankfurt"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "QRO",
+    "destino_eu": "LHR",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 19055,
+    "precio_eur": null,
+    "fuente": "Estimado: RT QRO↔LHR BA vía MEX; agosto pico",
+    "verificado": false,
+    "link": "https://www.britishairways.com/content/flights/mexico"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "QRO",
+    "destino_eu": "FCO",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberia",
+      "ITA Airways"
+    ],
+    "escalas": [
+      "MAD",
+      "MEX"
+    ],
+    "precio_total_mxn": 19425,
+    "precio_eur": null,
+    "fuente": "Estimado: RT QRO↔FCO vía MEX-MAD; agosto pico",
+    "verificado": false,
+    "link": "https://www.iberia.com/us/cheap-flights/Mexico-City-Rome/"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "ITA Airways",
+      "Thai Airways"
+    ],
+    "escalas": [
+      "BKK"
+    ],
+    "precio_total_mxn": 7215,
+    "precio_eur": 390,
+    "fuente": "Estimado: FCO→BKK ITA+Thai; rango similar FRA/AMS agosto",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Rome-Fiumicino-FCO/Bangkok-Suvarnabhumi-other-airports-BKK"
+  },
+  {
+    "timestamp": "2026-07-04T16:02:18Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8144,
+    "precio_eur": 440,
+    "fuente": "Expedia/Skyscanner LHR→BKK BA desde £376-402; agosto ~£440 pico",
+    "verificado": false,
+    "link": "https://www.skyscanner.net/routes/lhr/bkkt/london-heathrow-to-bangkok.html"
   }
 ]
