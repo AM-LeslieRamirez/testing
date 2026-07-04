@@ -2551,5 +2551,357 @@
     "verificado": false,
     "link": "https://www.kayak.com/flight-routes/Rome-Fiumicino-FCO/Bangkok-Suvarnabhumi-BKK",
     "nota": "madrugada_es — Tramo E4 ITA Airways FCO→BKK. Mas economico entre E4 europeos. Sobre threshold E4=EUR250. ~4x/sem ~11h10m."
+  },
+  {
+    "timestamp": "2026-07-04T08:30:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-01",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 10101,
+    "precio_desglose_mxn": {
+      "MX_EU": 4218,
+      "EU_BKK": 5883,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "AirEuropa+Iberojet/WebSearch",
+    "verificado": false,
+    "link": "https://www.aireuropa.com/en-us/flight-deals-from-cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-04T08:30:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 9733,
+    "precio_desglose_mxn": {
+      "MX_EU": 3850,
+      "EU_BKK": 5883,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "AirEuropa+Iberojet/WebSearch",
+    "verificado": false,
+    "link": "https://www.aireuropa.com/en-us/flight-deals-from-cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-04T08:30:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-06",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 10323,
+    "precio_desglose_mxn": {
+      "MX_EU": 4440,
+      "EU_BKK": 5883,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "AirEuropa+Iberojet/WebSearch",
+    "verificado": false,
+    "link": "https://www.aireuropa.com/en-us/flight-deals-from-cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-04T08:30:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-08",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 10508,
+    "precio_desglose_mxn": {
+      "MX_EU": 4625,
+      "EU_BKK": 5883,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "AirEuropa+Iberojet/WebSearch",
+    "verificado": false,
+    "link": "https://www.aireuropa.com/en-us/flight-deals-from-cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-04T08:30:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-01",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberia",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 12650,
+    "precio_desglose_mxn": {
+      "MX_EU": 7178,
+      "EU_BKK": 5472,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Iberia+Iberojet/Skyscanner+WebSearch",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/mexa/mad/mexico-city-juarez-international-to-madrid.html"
+  },
+  {
+    "timestamp": "2026-07-04T08:30:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberia",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 12806,
+    "precio_desglose_mxn": {
+      "MX_EU": 7334,
+      "EU_BKK": 5472,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Iberia+Iberojet/Skyscanner+WebSearch",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/mexa/mad/mexico-city-juarez-international-to-madrid.html"
+  },
+  {
+    "timestamp": "2026-07-04T08:30:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-01",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 12369,
+    "precio_desglose_mxn": {
+      "MX_EU": 6897,
+      "EU_BKK": 5472,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Aeromexico+Iberojet/Skyscanner+WebSearch",
+    "verificado": false,
+    "link": "https://www.espanol.skyscanner.com/rutas/qro/mad/queretaro-a-madrid-barajas.html"
+  },
+  {
+    "timestamp": "2026-07-04T08:30:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 12369,
+    "precio_desglose_mxn": {
+      "MX_EU": 6897,
+      "EU_BKK": 5472,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Aeromexico+Iberojet/Skyscanner+WebSearch",
+    "verificado": false,
+    "link": "https://www.espanol.skyscanner.com/rutas/qro/mad/queretaro-a-madrid-barajas.html"
+  },
+  {
+    "timestamp": "2026-07-04T08:30:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-01",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 16,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet",
+      "Iberojet",
+      "Air Europa"
+    ],
+    "escalas": [
+      "MAD",
+      "MAD"
+    ],
+    "precio_total_mxn": 20013,
+    "precio_desglose_mxn": {
+      "MX_EU": 4218,
+      "EU_BKK": 5472,
+      "BKK_EU": 5883,
+      "EU_MX": 4440
+    },
+    "fuente": "AirEuropa+Iberojet/WebSearch",
+    "verificado": false,
+    "link": "https://www.aireuropa.com/en-us/flight-deals-from-cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-04T08:30:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-23",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet",
+      "Iberojet",
+      "Air Europa"
+    ],
+    "escalas": [
+      "MAD",
+      "MAD"
+    ],
+    "precio_total_mxn": 19645,
+    "precio_desglose_mxn": {
+      "MX_EU": 3850,
+      "EU_BKK": 5472,
+      "BKK_EU": 5883,
+      "EU_MX": 4440
+    },
+    "fuente": "AirEuropa+Iberojet/WebSearch",
+    "verificado": false,
+    "link": "https://www.aireuropa.com/en-us/flight-deals-from-cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-04T08:30:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-01",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 16,
+    "aerolineas": [
+      "Iberia",
+      "Iberojet",
+      "Iberojet",
+      "Iberia"
+    ],
+    "escalas": [
+      "MAD",
+      "MAD"
+    ],
+    "precio_total_mxn": 25696,
+    "precio_desglose_mxn": {
+      "MX_EU": 7178,
+      "EU_BKK": 5472,
+      "BKK_EU": 5883,
+      "EU_MX": 7163
+    },
+    "fuente": "Iberia+Iberojet/Skyscanner+WebSearch",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/mexa/mad/mexico-city-juarez-international-to-madrid.html"
+  },
+  {
+    "timestamp": "2026-07-04T08:30:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-23",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet",
+      "Iberojet",
+      "Aeromexico"
+    ],
+    "escalas": [
+      "MAD",
+      "MAD"
+    ],
+    "precio_total_mxn": 25149,
+    "precio_desglose_mxn": {
+      "MX_EU": 6897,
+      "EU_BKK": 5472,
+      "BKK_EU": 5883,
+      "EU_MX": 6897
+    },
+    "fuente": "Aeromexico+Iberojet/Skyscanner+WebSearch",
+    "verificado": false,
+    "link": "https://www.espanol.skyscanner.com/rutas/qro/mad/queretaro-a-madrid-barajas.html"
   }
 ]
