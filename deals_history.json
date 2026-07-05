@@ -38,5 +38,20 @@
     "min_combo_ida_mxn": 8998,
     "urgent_count": 15,
     "deals_below_threshold": 65
+  },
+  {
+    "date": "2026-07-05",
+    "total_entries": 141,
+    "min_combo_rt_mxn": 22088,
+    "min_combo_ida_mxn": 10336,
+    "urgent_count": 5,
+    "details": {
+      "combo_ida_urgente": 2,
+      "combo_rt_urgente": 3,
+      "min_e1_mad_mxn": 5589,
+      "min_e2_mxn": 6612,
+      "min_e3_mad_mxn": 12538,
+      "min_e4_eur": 315
+    }
   }
 ]
