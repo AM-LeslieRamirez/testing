@@ -1360,5 +1360,160 @@
     "fuente": "Opodo ES CUN-MAD Iberojet €328x18.5 + Iberojet MAD-BKK ~€350x18.5",
     "verificado": false,
     "link": "https://www.opodo.es/vuelos/aerolinea/E9/iberojet/CUN/cancun/MAD/madrid/"
+  },
+  {
+    "timestamp": "2026-07-05T08:02:32Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 16810,
+    "precio_desglose_mxn": {
+      "MX_EU": 7615,
+      "EU_BKK": 9195,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "KAYAK.com.mx (Aeromexico MEX-MAD 7,615 MXN) + Iberojet (MAD-BKK €497)",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Aeromexico-Ciudad-de-Mexico-Benito-Juarez-MEX/Madrid-Barajas-MAD.b.AM.ksp"
+  },
+  {
+    "timestamp": "2026-07-05T08:02:32Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 11491,
+    "precio_desglose_mxn": {
+      "MX_EU": 5589,
+      "EU_BKK": 5902,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "KAYAK.com.mx (Iberojet CUN-MAD 5,589 MXN) + KAYAK.es (MAD-BKK desde €319=5,902 MXN); MAD→BKK Iberojet jue 6-ago",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Iberojet-Cancun-CUN/Madrid-Barajas-MAD.b.E9.ksp"
+  },
+  {
+    "timestamp": "2026-07-05T08:02:32Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 12711,
+    "precio_desglose_mxn": {
+      "MX_EU": 6809,
+      "EU_BKK": 5902,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "KAYAK.com.mx (Air Europa CUN-MAD 6,809 MXN) + KAYAK.es (MAD-BKK desde €319=5,902 MXN)",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Air-Europa-Cancun-CUN/Madrid-Barajas-MAD.b.UX.ksp"
+  },
+  {
+    "timestamp": "2026-07-05T08:02:32Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-06",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "KLM",
+      "IndiGo",
+      "IndiGo/otros",
+      "KLM"
+    ],
+    "escalas": [
+      "AMS",
+      "AMS"
+    ],
+    "precio_total_mxn": 27514,
+    "precio_desglose_mxn": {
+      "MX_EU": 8260,
+      "EU_BKK": 5180,
+      "BKK_EU": 5814,
+      "EU_MX": 8260
+    },
+    "fuente": "KLM.com.mx (MEX-AMS-MEX RT 16,519 MXN ago 6-21) + Omio (AMS-BKK €280=5,180) + Expedia (BKK-AMS $306=5,814)",
+    "verificado": false,
+    "link": "https://www.klm.com.mx/es-mx/vuelos-desde-mexico"
+  },
+  {
+    "timestamp": "2026-07-05T08:02:32Z",
+    "rutina": "A",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico"
+    ],
+    "escalas": [
+      "MEX"
+    ],
+    "precio_total_mxn": 22780,
+    "fuente": "Best Day + Skyscanner (QRO-MAD RT agosto 2026 desde 22,780 MXN)",
+    "verificado": false,
+    "link": "https://www.bestday.com.mx/vuelos/qro/mad/vuelos-a-madrid-desde-queretaro"
+  },
+  {
+    "timestamp": "2026-07-05T08:02:32Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 7615,
+    "fuente": "KAYAK.com.mx (Aeromexico MEX-MAD desde 7,615 MXN)",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Aeromexico-Ciudad-de-Mexico-Benito-Juarez-MEX/Madrid-Barajas-MAD.b.AM.ksp"
   }
 ]
