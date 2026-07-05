@@ -1515,5 +1515,285 @@
     "fuente": "KAYAK.com.mx (Aeromexico MEX-MAD desde 7,615 MXN)",
     "verificado": false,
     "link": "https://www.kayak.com.mx/vuelos/Aeromexico-Ciudad-de-Mexico-Benito-Juarez-MEX/Madrid-Barajas-MAD.b.AM.ksp"
+  },
+  {
+    "timestamp": "2026-07-05T14:02:14Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 11424,
+    "precio_desglose_mxn": {
+      "MX_EU": 5966,
+      "EU_BKK": 5458
+    },
+    "fuente": "skyscanner.com + iberojet.com",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/cun/mad/cancun-to-madrid.html"
+  },
+  {
+    "timestamp": "2026-07-05T14:02:14Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 11291,
+    "precio_desglose_mxn": {
+      "MX_EU": 5833,
+      "EU_BKK": 5458
+    },
+    "fuente": "skyscanner.com + iberojet.com",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/cun/mad/cancun-to-madrid.html"
+  },
+  {
+    "timestamp": "2026-07-05T14:02:14Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Turkish Airlines"
+    ],
+    "escalas": [
+      "IST"
+    ],
+    "precio_total_mxn": 11856,
+    "precio_desglose_mxn": {
+      "MX_EU": 5966,
+      "EU_BKK": 5890
+    },
+    "fuente": "skyscanner.com + turkishairlines.com",
+    "verificado": false,
+    "link": "https://www.turkishairlines.com/en/flights-from-istanbul-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-05T14:02:14Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "World2Fly",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12184,
+    "precio_desglose_mxn": {
+      "MX_EU": 6726,
+      "EU_BKK": 5458
+    },
+    "fuente": "google.com/flights + iberojet.com",
+    "verificado": false,
+    "link": "https://www.google.com/travel/flights/flights-from-cancun-to-madrid.html"
+  },
+  {
+    "timestamp": "2026-07-05T14:02:14Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet",
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 22155,
+    "precio_desglose_mxn": {
+      "MX_EU": 5966,
+      "EU_BKK": 5458,
+      "BKK_EU": 5458,
+      "EU_MX": 5273
+    },
+    "fuente": "skyscanner.com + iberojet.com",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-05T14:02:14Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet",
+      "Iberojet",
+      "Air Europa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 22088,
+    "precio_desglose_mxn": {
+      "MX_EU": 5833,
+      "EU_BKK": 5458,
+      "BKK_EU": 5458,
+      "EU_MX": 5339
+    },
+    "fuente": "skyscanner.com + iberojet.com + aireuropa.com",
+    "verificado": false,
+    "link": "https://www.aireuropa.com/en-us/flight-deals-from-cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-05T14:02:14Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5966,
+    "fuente": "skyscanner.com",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/cun/mad/cancun-to-madrid.html"
+  },
+  {
+    "timestamp": "2026-07-05T14:02:14Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5833,
+    "fuente": "skyscanner.com",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/cun/mad/cancun-to-madrid.html"
+  },
+  {
+    "timestamp": "2026-07-05T14:02:14Z",
+    "rutina": "A",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 19737,
+    "fuente": "skyscanner.com + klm.com.mx",
+    "verificado": false,
+    "link": "https://www.klm.com.mx/es-mx/vuelos-desde-ciudad-de-mexico-a-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-05T14:02:14Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Lufthansa",
+      "Turkish Airlines"
+    ],
+    "escalas": [
+      "IST"
+    ],
+    "precio_total_mxn": 14805,
+    "precio_desglose_mxn": {
+      "MX_EU": 9620,
+      "EU_BKK": 5185
+    },
+    "fuente": "lufthansa.com + turkishairlines.com",
+    "verificado": false,
+    "link": "https://www.lufthansa.com/lhg/mx/es/o-d/cy-cy/ciudad-de-mexico-francfort"
+  },
+  {
+    "timestamp": "2026-07-05T14:02:14Z",
+    "rutina": "A",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-06",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Condor"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5735,
+    "fuente": "condor.com",
+    "verificado": false,
+    "link": "https://www.condor.com/en/flights-from-frankfurt-main-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-05T14:02:14Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Lufthansa",
+      "Condor"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 14171,
+    "precio_desglose_mxn": {
+      "MX_EU": 8436,
+      "EU_BKK": 5735
+    },
+    "fuente": "skyscanner.com + condor.com",
+    "verificado": false,
+    "link": "https://www.condor.com/en/flights-from-frankfurt-main-to-bangkok"
   }
 ]
