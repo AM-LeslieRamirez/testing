@@ -1590,5 +1590,193 @@
     "fuente": "ITA Airways FCO-BKK desde 699 EUR × 18.5",
     "verificado": false,
     "link": "https://www.ita-airways.com/lhg/it/en/o-d/cy-cy/rome-bangkok"
+  },
+  {
+    "timestamp": "2026-07-06T20:02:17Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12296,
+    "precio_desglose_mxn": {
+      "MX_EU": 5589,
+      "EU_BKK": 6707,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "KAYAK.com.mx (Iberojet CUN-MAD $5,589 MXN) + Skyscanner (Iberojet MAD-BKK $353 USD ago30 ref)",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Iberojet-Cancun-CUN/Madrid-Barajas-MAD.b.E9.ksp"
+  },
+  {
+    "timestamp": "2026-07-06T20:02:17Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-08",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12296,
+    "precio_desglose_mxn": {
+      "MX_EU": 5589,
+      "EU_BKK": 6707,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "KAYAK.com.mx (Iberojet CUN-MAD $5,589 MXN) + Skyscanner (Iberojet MAD-BKK $353 USD agosto ref)",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/mad/bkkt/madrid-to-bangkok.html"
+  },
+  {
+    "timestamp": "2026-07-06T20:02:17Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12624,
+    "precio_desglose_mxn": {
+      "MX_EU": 5917,
+      "EU_BKK": 6707,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "KAYAK.com.mx (Iberojet QRO-MAD $5,917 MXN) + Skyscanner (Iberojet MAD-BKK $353 USD agosto ref)",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Santiago-de-Queretaro-QRO/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-06T20:02:17Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 15257,
+    "precio_desglose_mxn": {
+      "MX_EU": 8550,
+      "EU_BKK": 6707,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Iberojet (NLU-MAD $8,550 MXN ref) + Skyscanner (Iberojet MAD-BKK $353 USD agosto ref)",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-06T20:02:17Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 18,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet",
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 23063,
+    "precio_desglose_mxn": {
+      "MX_EU": 5589,
+      "EU_BKK": 6707,
+      "BKK_EU": 5735,
+      "EU_MX": 5032
+    },
+    "fuente": "KAYAK+Skyscanner+Iberojet: CUN-MAD $5,589; MAD-BKK $353 USD; BKK-MAD est.310EUR; MAD-CUN 272EUR",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-bangkok-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-06T20:02:17Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-23",
+    "dias_estancia": 18,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet",
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 24276,
+    "precio_desglose_mxn": {
+      "MX_EU": 5917,
+      "EU_BKK": 6707,
+      "BKK_EU": 5735,
+      "EU_MX": 5917
+    },
+    "fuente": "KAYAK+Skyscanner+Iberojet: QRO-MAD $5,917 MXN x2; MAD-BKK $353 USD; BKK-MAD est.310EUR",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-06T20:02:17Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-09",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 15257,
+    "precio_desglose_mxn": {
+      "MX_EU": 8550,
+      "EU_BKK": 6707,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Expedia (Aeromexico MEX-MAD $900 RT / OW ~$450 USD = $8,550 MXN) + Skyscanner (Iberojet MAD-BKK $353 USD)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flight-routes/aeromexico-from-mexico-city-intl-to-adolfo-suarez-madrid-barajas/am/mex/mad"
   }
 ]
