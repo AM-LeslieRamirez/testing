@@ -816,5 +816,354 @@
     "fuente": "Lufthansa + KAYAK — LH MEX-FRA 5ago est $430USD (8170) + LH FRA-BKK agosto barato $401USD (7619)",
     "verificado": false,
     "link": "https://www.kayak.com/flight-routes/Frankfurt-am-Main-FRA/Bangkok-Suvarnabhumi-other-airports-BKK"
+  },
+  {
+    "timestamp": "2026-07-06T14:02:31Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo MEX-MAD",
+      "directo MAD-BKK (jue 7 ago)"
+    ],
+    "precio_total_mxn": 14100,
+    "precio_desglose_mxn": {
+      "MX_EU": 8550,
+      "EU_BKK": 5550,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Aeromexico RT ago2026 ~$900 USD→OW $450x19=8550 MXN (Kayak/Momondo); Iberojet MAD-BKK ~EUR300x18.5=5550 MXN (jue/dom, Skyscanner $336)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Mexico-City-Benito-Juarez-MEX/Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-06T14:02:31Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberia",
+      "multiple (Thai/EVA/SQ)"
+    ],
+    "escalas": [
+      "directo MEX-MAD",
+      "MAD-BKK 1 escala opcion economica"
+    ],
+    "precio_total_mxn": 12388,
+    "precio_desglose_mxn": {
+      "MX_EU": 7980,
+      "EU_BKK": 4408,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Iberia MEX-MAD ~$420x19=7980 MXN (est. por debajo de RT $900); Skyscanner MAD-BKK lowest $232x19=4408 MXN",
+    "verificado": false,
+    "link": "https://www.iberia.com/us/cheap-flights/Mexico-City-Madrid/"
+  },
+  {
+    "timestamp": "2026-07-06T14:02:31Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo CUN-MAD",
+      "directo MAD-BKK (jue 7 ago)"
+    ],
+    "precio_total_mxn": 11725,
+    "precio_desglose_mxn": {
+      "MX_EU": 6175,
+      "EU_BKK": 5550,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Kayak CUN-MAD $325x19=6175 MXN (Air Europa/World2Fly/Iberojet, sin EE.UU.); Iberojet MAD-BKK EUR300x18.5=5550",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Cancun-CUN/Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-06T14:02:31Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "multiple (Thai/EVA/SQ)"
+    ],
+    "escalas": [
+      "directo CUN-MAD",
+      "MAD-BKK mejor precio disponible"
+    ],
+    "precio_total_mxn": 10583,
+    "precio_desglose_mxn": {
+      "MX_EU": 6175,
+      "EU_BKK": 4408,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Kayak CUN-MAD $325x19=6175 MXN (general lowest, sin EE.UU.); Skyscanner MAD-BKK $232x19=4408 MXN (precio ruta general)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Cancun-CUN/Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-06T14:02:31Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberia",
+      "Iberojet",
+      "Iberojet",
+      "Iberia"
+    ],
+    "escalas": [
+      "directo MEX-MAD",
+      "directo MAD-BKK (jue)",
+      "directo BKK-MAD (dom)",
+      "directo MAD-MEX"
+    ],
+    "precio_total_mxn": 25688,
+    "precio_desglose_mxn": {
+      "MX_EU": 7980,
+      "EU_BKK": 4408,
+      "BKK_EU": 4940,
+      "EU_MX": 8360
+    },
+    "fuente": "Iberia MEX-MAD $420x19=7980; BKK OW cheapest $232x19=4408; BKK-MAD ret ~$260x19=4940; MAD-MEX ~$440x19=8360 (Kayak $467 general)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Mexico-City-Benito-Juarez-MEX/Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-06T14:02:31Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "World2Fly",
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo CUN-MAD"
+    ],
+    "precio_total_mxn": 6175,
+    "fuente": "Kayak CUN-MAD $325x19=6175 MXN (general lowest, sin EE.UU.). Expedia $199 USD descartado (posible US escala). Air Europa/World2Fly/Iberojet directos CUN-MAD.",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Cancun-CUN/Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-06T14:02:31Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberia"
+    ],
+    "escalas": [
+      "directo MEX-MAD"
+    ],
+    "precio_total_mxn": 8550,
+    "fuente": "Aeromexico/Iberia MEX-MAD RT ago2026 ~$900 USD → OW $450x19=8550 MXN. Momondo mejor deal $696 RT posible.",
+    "verificado": false,
+    "link": "https://www.momondo.com/flights/mexico-city/madrid"
+  },
+  {
+    "timestamp": "2026-07-06T14:02:31Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo QRO-MAD (3x/sem A350)",
+      "directo MAD-BKK (jue 7 ago)"
+    ],
+    "precio_total_mxn": 12675,
+    "precio_desglose_mxn": {
+      "MX_EU": 7125,
+      "EU_BKK": 5550,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Iberojet QRO-MAD OW ago2026 ~$375 USD x19=7125 MXN (agente confirmado); Iberojet MAD-BKK EUR300x18.5=5550. NOTA: SALE15 bloqueado ago, precio lleno.",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-queretaro-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-06T14:02:31Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "multiple (Thai/EVA/SQ)"
+    ],
+    "escalas": [
+      "directo QRO-MAD",
+      "MAD-BKK mejor precio"
+    ],
+    "precio_total_mxn": 11533,
+    "precio_desglose_mxn": {
+      "MX_EU": 7125,
+      "EU_BKK": 4408,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Iberojet QRO-MAD OW ago2026 ~$375 USD x19=7125 MXN; Skyscanner MAD-BKK lowest $232 USD x19=4408 MXN",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-queretaro-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-06T14:02:31Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo CUN-MAD",
+      "directo MAD-BKK (jue 7 ago)"
+    ],
+    "precio_total_mxn": 12017,
+    "precio_desglose_mxn": {
+      "MX_EU": 6467,
+      "EU_BKK": 5550,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Iberojet CUN-MAD OW ~$340 USD x19=6467 MXN (agente confirmado); Iberojet MAD-BKK EUR300x18.5=5550 (jue)",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-06T14:02:31Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "multiple (Thai/EVA/SQ)"
+    ],
+    "escalas": [
+      "directo CUN-MAD",
+      "MAD-BKK mejor precio"
+    ],
+    "precio_total_mxn": 10875,
+    "precio_desglose_mxn": {
+      "MX_EU": 6467,
+      "EU_BKK": 4408,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Iberojet CUN-MAD ~$340 USD x19=6467 MXN; Skyscanner MAD-BKK $232 USD x19=4408 MXN. Total cercano a umbral urgente (10,400 MXN).",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-06T14:02:31Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo QRO-MAD (A350-900, 3x/sem)"
+    ],
+    "precio_total_mxn": 7125,
+    "fuente": "Iberojet QRO-MAD OW ago2026 ~$375 USD x19=7125 MXN (Skyscanner $363 general; KAYAK.mx general MXN 5,917 off-peak). Bloqueo SALE15 jul-ago.",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-queretaro-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-06T14:02:31Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo CUN-MAD"
+    ],
+    "precio_total_mxn": 6467,
+    "fuente": "Iberojet CUN-MAD OW ~$340 USD x19=6467 MXN (agente confirmado). SALE15 bloqueado ago, precio lleno.",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-cancun-to-madrid"
   }
 ]
