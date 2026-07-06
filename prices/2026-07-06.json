@@ -677,5 +677,144 @@
     "verificado": false,
     "link": "https://www.expedia.co.uk/lp/flight-routes/british-airways-from-heathrow-to-suvarnabhumi-intl/ba/lhr/bkk",
     "nota": "madrugada_es | LHR-BKK BA no directo (1 stop), sobre threshold EUR250"
+  },
+  {
+    "timestamp": "2026-07-06T08:09:48Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 14936,
+    "precio_desglose_mxn": {
+      "MX_EU": 8128,
+      "EU_BKK": 6808
+    },
+    "fuente": "Trip.com/Expedia MX — AM MEX-MAD 5ago (8128) + Iberojet MAD-BKK 6ago jue €368×18.5 (6808)",
+    "verificado": false,
+    "link": "https://mx.trip.com/flights/mexico-city-to-madrid/airfares-mex-mad/"
+  },
+  {
+    "timestamp": "2026-07-06T08:09:48Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 15339,
+    "precio_desglose_mxn": {
+      "MX_EU": 8531,
+      "EU_BKK": 6808
+    },
+    "fuente": "KAYAK ES — Iberojet CUN-MAD 3ago ida $449USD (8531) + Iberojet MAD-BKK 6ago jue €368 (6808)",
+    "verificado": false,
+    "link": "https://www.edreams.net/flights/airline/E9/iberojet/CUN/cancun/MAD/madrid/"
+  },
+  {
+    "timestamp": "2026-07-06T08:09:48Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 15250,
+    "precio_desglose_mxn": {
+      "MX_EU": 10070,
+      "EU_BKK": 5180
+    },
+    "fuente": "Expedia MX + KAYAK/Omio — KLM MEX-AMS 5ago est ago (10070) + KLM AMS-BKK €280 (5180)",
+    "verificado": false,
+    "link": "https://www.klm.com.mx/en-mx/flights-from-mexico-city-to-amsterdam"
+  },
+  {
+    "timestamp": "2026-07-06T08:09:48Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-24",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 32285,
+    "precio_desglose_mxn": {
+      "MX_EU": 8128,
+      "EU_BKK": 6808,
+      "BKK_EU": 8695,
+      "EU_MX": 8654
+    },
+    "fuente": "Multiple — AM MEX-MAD 5ago (8128) + Iberojet MAD-BKK 6ago €368 (6808) + Iberojet BKK-MAD 21ago €470 (8695) + AE/AM MAD-MEX 24ago $467 (8654)",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-bangkok-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-06T08:09:48Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8531,
+    "fuente": "KAYAK ES — Iberojet CUN-MAD 3ago ida especifica $449USD×19 (8531 MXN)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Cancun-CUN/Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-06T08:09:48Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 15789,
+    "precio_desglose_mxn": {
+      "MX_EU": 8170,
+      "EU_BKK": 7619
+    },
+    "fuente": "Lufthansa + KAYAK — LH MEX-FRA 5ago est $430USD (8170) + LH FRA-BKK agosto barato $401USD (7619)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Frankfurt-am-Main-FRA/Bangkok-Suvarnabhumi-other-airports-BKK"
   }
 ]
