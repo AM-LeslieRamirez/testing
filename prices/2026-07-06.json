@@ -381,5 +381,147 @@
     "fuente": "KAYAK — $383 USD / 1.09 = 351 EUR x 18.5",
     "verificado": false,
     "link": "https://www.kayak.com/flight-routes/London-Heathrow-LHR/Bangkok-Suvarnabhumi-other-airports-BKK"
+  },
+  {
+    "timestamp": "2026-07-06T02:12:02Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 14784,
+    "precio_desglose_mxn": {
+      "MX_EU": 5589,
+      "EU_BKK": 9195
+    },
+    "fuente": "Iberojet.com — CUN-MAD 5ago (5589 MXN) + MAD-BKK 7ago-jue (9195 MXN)",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-06T02:12:02Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-09",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 16800,
+    "precio_desglose_mxn": {
+      "MX_EU": 10232,
+      "EU_BKK": 6568
+    },
+    "fuente": "Air France MEX-CDG 9ago (10232 MXN) + AF CDG-BKK 9ago (6568 MXN) — Google Flights snippet",
+    "verificado": false,
+    "link": "https://www.google.com/travel/flights/flights-from-mexico-city-to-bangkok.html"
+  },
+  {
+    "timestamp": "2026-07-06T02:12:02Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 17635,
+    "precio_desglose_mxn": {
+      "MX_EU": 11141,
+      "EU_BKK": 6494
+    },
+    "fuente": "BA MEX-LHR 5ago (11141 MXN) + BA LHR-BKK 5ago (6494 MXN)",
+    "verificado": false,
+    "link": "https://www.britishairways.com/en-mx/flights-and-holidays"
+  },
+  {
+    "timestamp": "2026-07-06T02:12:02Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-09",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberia",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 17323,
+    "precio_desglose_mxn": {
+      "MX_EU": 8128,
+      "EU_BKK": 9195
+    },
+    "fuente": "Iberia MEX-MAD 9ago (8128 MXN) + Iberojet MAD-BKK 14ago-jue (9195 MXN est)",
+    "verificado": false,
+    "link": "https://www.iberia.com/mx/vuelos-baratos/Mexico-Madrid/"
+  },
+  {
+    "timestamp": "2026-07-06T02:12:02Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-09",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 17537,
+    "precio_desglose_mxn": {
+      "MX_EU": 10070,
+      "EU_BKK": 7467
+    },
+    "fuente": "KLM MEX-AMS 9ago (10070 MXN) + KLM AMS-BKK est USD393 (7467 MXN) — KAYAK/Expedia",
+    "verificado": false,
+    "link": "https://www.klm.com/en-us/flights-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-06T02:12:02Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-24",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 27226,
+    "precio_desglose_mxn": {
+      "MX_EU": 5589,
+      "EU_BKK": 9195,
+      "BKK_EU": 7410,
+      "EU_MX": 5032
+    },
+    "fuente": "Iberojet: CUN-MAD 5ago (5589) + MAD-BKK 7ago-jue (9195) + BKK-MAD 24ago-dom est USD390 (7410) + MAD-CUN ~28ago (5032)",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-bangkok-to-madrid"
   }
 ]
