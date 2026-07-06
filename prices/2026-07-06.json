@@ -523,5 +523,159 @@
     "fuente": "Iberojet: CUN-MAD 5ago (5589) + MAD-BKK 7ago-jue (9195) + BKK-MAD 24ago-dom est USD390 (7410) + MAD-CUN ~28ago (5032)",
     "verificado": false,
     "link": "https://www.iberojet.com/en/flights-from-bangkok-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-06T02:04:33Z",
+    "rutina": "C",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8100,
+    "precio_eur": null,
+    "fuente": "Skyscanner ES / Expedia snippet (est. alta temporada ago)",
+    "verificado": false,
+    "link": "https://www.espanol.skyscanner.com/rutas/qro/mad/queretaro-a-madrid-barajas.html",
+    "nota": "madrugada_es | desde $363USD general, alta temporada est. ~$460-490 USD"
+  },
+  {
+    "timestamp": "2026-07-06T02:04:33Z",
+    "rutina": "C",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FRA",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 19186,
+    "precio_eur": null,
+    "fuente": "Lufthansa.com MX (snippet madrugada)",
+    "verificado": false,
+    "link": "https://www.lufthansa.com/lhg/mx/es/o-d/cy-cy/ciudad-de-mexico-francfort",
+    "nota": "madrugada_es | LH 499 directo 7x semana, sobre threshold"
+  },
+  {
+    "timestamp": "2026-07-06T02:04:33Z",
+    "rutina": "C",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 7664,
+    "precio_eur": 393,
+    "fuente": "KAYAK snippet madrugada",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Amsterdam-Schiphol-AMS/Bangkok-Suvarnabhumi-other-airports-BKK",
+    "nota": "madrugada_es | AMS-BKK KL directo 8x semana, sobre threshold EUR250"
+  },
+  {
+    "timestamp": "2026-07-06T02:04:33Z",
+    "rutina": "C",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8502,
+    "precio_eur": 436,
+    "fuente": "Skyscanner snippet madrugada",
+    "verificado": false,
+    "link": "https://www.skyscanner.net/routes/cdg/bkk/paris-charles-de-gaulle-to-bangkok-suvarnabhumi.html",
+    "nota": "madrugada_es | CDG-BKK AF directo 3x dia, sobre threshold EUR250"
+  },
+  {
+    "timestamp": "2026-07-06T02:04:33Z",
+    "rutina": "C",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 10706,
+    "precio_eur": 549,
+    "fuente": "eDreams / Travelocity snippet madrugada",
+    "verificado": false,
+    "link": "https://www.edreams.com/offers/flights/airline/LH/lufthansa/FRA/frankfurt/BKK/bangkok/",
+    "nota": "madrugada_es | FRA-BKK LH directo, sobre threshold EUR250"
+  },
+  {
+    "timestamp": "2026-07-06T02:04:33Z",
+    "rutina": "C",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberia"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12773,
+    "precio_eur": 655,
+    "fuente": "Opodo ES snippet madrugada",
+    "verificado": false,
+    "link": "https://www.opodo.es/vuelos/aerolinea/IB/iberia/MAD/madrid/BKK/bangkok/",
+    "nota": "madrugada_es | MAD-BKK IB con escala, sobre threshold EUR250"
+  },
+  {
+    "timestamp": "2026-07-06T02:04:33Z",
+    "rutina": "C",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 8936,
+    "precio_eur": 470,
+    "fuente": "Expedia UK snippet madrugada (£402 aprox €470)",
+    "verificado": false,
+    "link": "https://www.expedia.co.uk/lp/flight-routes/british-airways-from-heathrow-to-suvarnabhumi-intl/ba/lhr/bkk",
+    "nota": "madrugada_es | LHR-BKK BA no directo (1 stop), sobre threshold EUR250"
   }
 ]
