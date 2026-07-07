@@ -1164,5 +1164,188 @@
     "fuente": "Aeromexico.com / confirmado Rutina C madrugada",
     "verificado": false,
     "link": "https://www.aeromexico.com/en_us/flights-from-madrid-to-mexico"
+  },
+  {
+    "timestamp": "2026-07-07T14:11:48Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo",
+      "directo"
+    ],
+    "precio_total_mxn": 11800,
+    "precio_desglose_mxn": {
+      "MX_EU": 5917,
+      "EU_BKK": 5883
+    },
+    "fuente": "KAYAK+RutinaB/Iberojet",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Santiago-de-Queretaro-QRO/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-07T14:11:48Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico/Iberia",
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo",
+      "directo"
+    ],
+    "precio_total_mxn": 13202,
+    "precio_desglose_mxn": {
+      "MX_EU": 7319,
+      "EU_BKK": 5883
+    },
+    "fuente": "Trip.com+RutinaB/Iberojet",
+    "verificado": false,
+    "link": "https://mx.trip.com/flights/mexico-city-to-madrid/airfares-mex-mad/"
+  },
+  {
+    "timestamp": "2026-07-07T14:11:48Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM",
+      "KLM"
+    ],
+    "escalas": [
+      "directo",
+      "directo"
+    ],
+    "precio_total_mxn": 13452,
+    "precio_desglose_mxn": {
+      "MX_EU": 6935,
+      "EU_BKK": 6517
+    },
+    "fuente": "RutinaB/KLM+Skyscanner-AMS-BKK",
+    "verificado": false,
+    "link": "https://www.skyscanner.com/routes/ams/bkkt/amsterdam-schiphol-to-bangkok.html"
+  },
+  {
+    "timestamp": "2026-07-07T14:11:48Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 19,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet",
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo",
+      "directo",
+      "directo",
+      "directo"
+    ],
+    "precio_total_mxn": 21888,
+    "precio_desglose_mxn": {
+      "MX_EU": 5589,
+      "EU_BKK": 5883,
+      "BKK_EU": 5920,
+      "EU_MX": 4496
+    },
+    "fuente": "KAYAK+RutinaB/Iberojet (BKK_EU ~€320 est, EU_MX urgente)",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Iberojet-Cancun-CUN/Madrid-Barajas-MAD.b.E9.ksp"
+  },
+  {
+    "timestamp": "2026-07-07T14:11:48Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet",
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo",
+      "directo",
+      "directo",
+      "directo"
+    ],
+    "precio_total_mxn": 22216,
+    "precio_desglose_mxn": {
+      "MX_EU": 5917,
+      "EU_BKK": 5883,
+      "BKK_EU": 5920,
+      "EU_MX": 4496
+    },
+    "fuente": "KAYAK+RutinaB/Iberojet (BKK_EU ~€320 est, EU_MX urgente)",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Santiago-de-Queretaro-QRO/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-07T14:11:48Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico/Iberia",
+      "Iberojet",
+      "Iberojet",
+      "Air Europa"
+    ],
+    "escalas": [
+      "directo",
+      "directo",
+      "directo",
+      "directo"
+    ],
+    "precio_total_mxn": 26027,
+    "precio_desglose_mxn": {
+      "MX_EU": 7319,
+      "EU_BKK": 5883,
+      "BKK_EU": 5920,
+      "EU_MX": 6905
+    },
+    "fuente": "Trip.com+RutinaB/Iberojet+AirEuropa (BKK_EU ~€320 est)",
+    "verificado": false,
+    "link": "https://mx.trip.com/flights/mexico-city-to-madrid/airfares-mex-mad/"
   }
 ]
