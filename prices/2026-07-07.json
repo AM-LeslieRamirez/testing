@@ -1645,5 +1645,229 @@
     "fuente": "KAYAK/Expedia BA LHR→BKK ($383 OW, ≈€348, sobre umbral €250)",
     "verificado": false,
     "link": "https://www.kayak.com/flight-routes/London-Heathrow-LHR/Bangkok-Suvarnabhumi-other-airports-BKK"
+  },
+  {
+    "timestamp": "2026-07-07T20:02:39Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "World2Fly",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 11201,
+    "precio_desglose_mxn": {
+      "MX_EU": 5966,
+      "EU_BKK": 5235,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "KAYAK $314 CUN-MAD + eDreams EUR283 MAD-BKK (Iberojet directo)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Cancun-CUN/Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-07T20:02:39Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 13566,
+    "precio_desglose_mxn": {
+      "MX_EU": 6650,
+      "EU_BKK": 6916,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Est. agosto Air Europa $350 CUN-MAD + Expedia $364 MAD-BKK Iberojet",
+    "verificado": false,
+    "link": "https://www.aireuropa.com/en-us/flight-deals-from-cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-07T20:02:39Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 13363,
+    "precio_desglose_mxn": {
+      "MX_EU": 8128,
+      "EU_BKK": 5235,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "eDreams MXN8128 Aeromexico MEX-MAD + eDreams EUR283 Iberojet MAD-BKK",
+    "verificado": false,
+    "link": "https://www.edreams.com.mx/aerolinea/AM/aeromexico/MEX/ciudad-de-mexico/MAD/madrid/"
+  },
+  {
+    "timestamp": "2026-07-07T20:02:39Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 15732,
+    "precio_desglose_mxn": {
+      "MX_EU": 8379,
+      "EU_BKK": 7353,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "KAYAK $441 MEX-CDG Air France directo + KAYAK $387 CDG-BKK",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Mexico-City-Benito-Juarez-MEX/Paris-Charles-de-Gaulle-CDG"
+  },
+  {
+    "timestamp": "2026-07-07T20:02:39Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 15447,
+    "precio_desglose_mxn": {
+      "MX_EU": 7980,
+      "EU_BKK": 7467,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Est. KLM MEX-AMS directo $420 + KAYAK $393 AMS-BKK KLM",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Amsterdam-Schiphol-AMS/Bangkok-Suvarnabhumi-other-airports-BKK"
+  },
+  {
+    "timestamp": "2026-07-07T20:02:39Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly",
+      "Iberojet",
+      "Iberojet",
+      "Air Europa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 24672,
+    "precio_desglose_mxn": {
+      "MX_EU": 5966,
+      "EU_BKK": 5235,
+      "BKK_EU": 7448,
+      "EU_MX": 6023
+    },
+    "fuente": "KAYAK CUN-MAD $314 + eDreams MAD-BKK EUR283 + Expedia BKK-MAD $392 + KAYAK MAD-CUN $317",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Cancun-CUN/Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-07T20:02:39Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet",
+      "Iberojet",
+      "Iberia"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 29684,
+    "precio_desglose_mxn": {
+      "MX_EU": 8128,
+      "EU_BKK": 5235,
+      "BKK_EU": 7448,
+      "EU_MX": 8873
+    },
+    "fuente": "eDreams MXN8128 MEX-MAD + eDreams EUR283 MAD-BKK + Expedia $392 BKK-MAD + KAYAK $467 MAD-MEX",
+    "verificado": false,
+    "link": "https://www.edreams.com.mx/aerolinea/AM/aeromexico/MEX/ciudad-de-mexico/MAD/madrid/"
+  },
+  {
+    "timestamp": "2026-07-07T20:02:39Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "World2Fly"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5966,
+    "fuente": "KAYAK ruta CUN-MAD minimo general $314",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Cancun-CUN/Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-07T20:02:39Z",
+    "rutina": "A",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly",
+      "Air Europa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 11989,
+    "fuente": "KAYAK CUN-MAD $314 + KAYAK MAD-CUN $317 vuelta agosto",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Cancun-CUN/Madrid-Barajas-MAD"
   }
 ]
