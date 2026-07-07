@@ -984,5 +984,79 @@
     "verificado": false,
     "link": "https://www.kayak.com.mx/vuelos/Mexico-MX0/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD",
     "nota": "madrugada_es - precio minimo MEX→MAD Kayak MX agosto 2026. Por encima umbral (6500). Plus Ultra NO opera MEX-MAD jul2026."
+  },
+  {
+    "timestamp": "2026-07-07T08:02:32Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [
+      "FRA"
+    ],
+    "precio_total_mxn": 22652,
+    "precio_desglose_mxn": {
+      "MX_EU": 14995,
+      "EU_BKK": 7657
+    },
+    "fuente": "travelviajes.com.mx (MEX-FRA LH ago ago4/5 MXN14995) + Expedia (FRA-BKK $403 USD)",
+    "verificado": false,
+    "link": "https://travelviajes.com.mx/vuelos/ciudad-de-mexico/frankfurt/lufthansa"
+  },
+  {
+    "timestamp": "2026-07-07T08:02:32Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [
+      "LHR"
+    ],
+    "precio_total_mxn": 18475,
+    "precio_desglose_mxn": {
+      "MX_EU": 11141,
+      "EU_BKK": 7334
+    },
+    "fuente": "Expedia.mx (MEX-LHR BA MXN11141) + Expedia (LHR-BKK $386 USD)",
+    "verificado": false,
+    "link": "https://www.expedia.mx/lp/flight-routes/british-airways-from-mexico-city-intl-to-heathrow/ba/mex/lhr"
+  },
+  {
+    "timestamp": "2026-07-07T08:02:32Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 22387,
+    "precio_desglose_mxn": {
+      "MX_EU": 5589,
+      "EU_BKK": 5883,
+      "BKK_EU": 5883,
+      "EU_MX": 5032
+    },
+    "fuente": "RutinaA verificacion independiente: Iberojet.com CUN-MAD directo + Iberojet MAD-BKK jueves/domingo EUR318 (MXN5883). URGENTE bajo umbral 22400",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
   }
 ]
