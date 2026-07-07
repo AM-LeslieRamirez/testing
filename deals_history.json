@@ -71,5 +71,24 @@
       "min_e4_eur": 280,
       "min_global_mxn": 5032
     }
+  },
+  {
+    "date": "2026-07-07",
+    "total_entries": 80,
+    "min_combo_rt_mxn": 21888,
+    "min_combo_ida_mxn": 11201,
+    "urgent_count": 8,
+    "n_deals": 20,
+    "details": {
+      "combo_rt_urgente": 3,
+      "combo_ida_urgente": 0,
+      "e3_rt_urgente": 1,
+      "vuelta_urgente": 1,
+      "min_e1_mad_mxn": 5522,
+      "min_e2_mxn": 4496,
+      "min_e3_mad_mxn": 9785,
+      "min_e4_eur": 296,
+      "min_global_mxn": 4496
+    }
   }
 ]
