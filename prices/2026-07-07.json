@@ -658,5 +658,241 @@
     "fuente": "Estimado FCO→BKK vía ITA/Thai (aprox €699 OW)",
     "verificado": false,
     "link": "https://www.edreams.com/offers/flights/airline/az/ita-airways/FCO/rome/BKK/bangkok/"
+  },
+  {
+    "timestamp": "2026-07-07T02:02:04Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 11472,
+    "precio_desglose_mxn": {
+      "MX_EU": 5589,
+      "EU_BKK": 5883,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "RutinaB: CUN-MAD Iberojet MXN5589 + Iberojet MAD-BKK directo EUR318 MXN5883 (Iberojet.com/Logitravel). POR DEBAJO UMBRAL 13k",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-07T02:02:04Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12780,
+    "precio_desglose_mxn": {
+      "MX_EU": 6897,
+      "EU_BKK": 5883,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "RutinaB: QRO-MAD Aeromexico MXN6897 (via MEX) + Iberojet MAD-BKK EUR318 MXN5883. POR DEBAJO UMBRAL 13k",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-07T02:02:04Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 13756,
+    "precio_desglose_mxn": {
+      "MX_EU": 6935,
+      "EU_BKK": 6821,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "RutinaB: MEX-AMS KLM MXN6935 (KAYAK $365) + AMS-BKK KLM MXN6821 (Expedia $359, Aug 19)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Mexico-City-Benito-Juarez-MEX/Amsterdam-Schiphol-AMS"
+  },
+  {
+    "timestamp": "2026-07-07T02:02:04Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberia",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 13711,
+    "precio_desglose_mxn": {
+      "MX_EU": 7828,
+      "EU_BKK": 5883,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "RutinaB: MEX-MAD Iberia MXN7828 + Iberojet MAD-BKK EUR318 MXN5883. Iberojet opera jue/dom. Conectar ago 6 o 9",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-07T02:02:04Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 14433,
+    "precio_desglose_mxn": {
+      "MX_EU": 8550,
+      "EU_BKK": 5883,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "RutinaB: NLU-MAD Aeromexico MXN8550 + Iberojet MAD-BKK EUR318 MXN5883",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-07T02:02:04Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air France",
+      "Aeromexico",
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 15732,
+    "precio_desglose_mxn": {
+      "MX_EU": 8379,
+      "EU_BKK": 7353,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "RutinaB: MEX-CDG AF/AM MXN8379 (KAYAK $441) + CDG-BKK AF MXN7353 (KAYAK $387)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Mexico-City-Benito-Juarez-MEX/Paris-Charles-de-Gaulle-CDG"
+  },
+  {
+    "timestamp": "2026-07-07T02:02:04Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 22387,
+    "precio_desglose_mxn": {
+      "MX_EU": 5589,
+      "EU_BKK": 5883,
+      "BKK_EU": 5883,
+      "EU_MX": 5032
+    },
+    "fuente": "RutinaB: CUN-MAD MXN5589 + MAD-BKK EUR318 MXN5883 + BKK-MAD simetrico MXN5883 + MAD-CUN MXN5032. URGENTE < umbral 22400",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-bangkok-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-07T02:02:04Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 25362,
+    "precio_desglose_mxn": {
+      "MX_EU": 6897,
+      "EU_BKK": 5883,
+      "BKK_EU": 5883,
+      "EU_MX": 6699
+    },
+    "fuente": "RutinaB: QRO-MAD AM MXN6897 + MAD-BKK Iberojet MXN5883 + BKK-MAD sim MXN5883 + MAD-QRO AM MXN6699. Debajo umbral 28k",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-bangkok-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-07T02:02:04Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberia",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 28467,
+    "precio_desglose_mxn": {
+      "MX_EU": 7828,
+      "EU_BKK": 5883,
+      "BKK_EU": 5883,
+      "EU_MX": 8873
+    },
+    "fuente": "RutinaB: MEX-MAD Iberia MXN7828 + MAD-BKK MXN5883 + BKK-MAD sim MXN5883 + MAD-MEX Iberia/AM MXN8873",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-bangkok-to-madrid"
   }
 ]
