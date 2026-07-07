@@ -894,5 +894,95 @@
     "fuente": "RutinaB: MEX-MAD Iberia MXN7828 + MAD-BKK MXN5883 + BKK-MAD sim MXN5883 + MAD-MEX Iberia/AM MXN8873",
     "verificado": false,
     "link": "https://www.iberojet.com/en/flights-from-bangkok-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-07T02:04:36Z",
+    "rutina": "C",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-08",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6347,
+    "precio_eur": null,
+    "fuente": "kayak.com.mx",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Santiago-de-Queretaro-QRO/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD",
+    "nota": "madrugada_es"
+  },
+  {
+    "timestamp": "2026-07-07T02:04:36Z",
+    "rutina": "C",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air Europa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6905,
+    "precio_eur": 347,
+    "fuente": "edreams.es",
+    "verificado": false,
+    "link": "https://www.edreams.es/ofertas/vuelos/aerolinea/UX/air-europa/MAD/madrid/MEX/ciudad-de-mexico/",
+    "nota": "madrugada_es"
+  },
+  {
+    "timestamp": "2026-07-07T02:04:36Z",
+    "rutina": "C",
+    "escenario": "E5",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-08",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 12230,
+    "precio_eur": null,
+    "fuente": "kayak.com.mx + B_E4_MAD_Iberojet",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Santiago-de-Queretaro-QRO/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD",
+    "nota": "madrugada_es - QRO→MAD Iberojet MXN6347 + MAD→BKK Iberojet MXN5883. A tiene QRO→BKK Aeromexico+Iberojet MXN12780; esta es solo Iberojet, 550 MXN mas barata."
+  },
+  {
+    "timestamp": "2026-07-07T02:04:36Z",
+    "rutina": "C",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "varios"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 7647,
+    "precio_eur": null,
+    "fuente": "kayak.com.mx",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Mexico-MX0/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD",
+    "nota": "madrugada_es - precio minimo MEX→MAD Kayak MX agosto 2026. Por encima umbral (6500). Plus Ultra NO opera MEX-MAD jul2026."
   }
 ]
