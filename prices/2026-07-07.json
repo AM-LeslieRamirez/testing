@@ -1058,5 +1058,111 @@
     "fuente": "RutinaA verificacion independiente: Iberojet.com CUN-MAD directo + Iberojet MAD-BKK jueves/domingo EUR318 (MXN5883). URGENTE bajo umbral 22400",
     "verificado": false,
     "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-07T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet",
+      "Air Europa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5522,
+    "precio_eur": null,
+    "fuente": "KAYAK kayak.com/flight-routes/Cancun-CUN/Madrid-Barajas-MAD",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Cancun-CUN/Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-07T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5917,
+    "precio_eur": null,
+    "fuente": "KAYAK kayak.com.mx/vuelos/QRO-MAD",
+    "verificado": false,
+    "link": "https://www.kayak.com.mx/vuelos/Santiago-de-Queretaro-QRO/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-07T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 7239,
+    "precio_eur": null,
+    "fuente": "Travelocity - BA MEX->LHR 381 USD",
+    "verificado": false,
+    "link": "https://www.travelocity.com/lp/flight-routes/british-airways-from-mexico-city-intl-to-heathrow/ba/mex/lhr"
+  },
+  {
+    "timestamp": "2026-07-07T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 4496,
+    "precio_eur": 243,
+    "fuente": "KAYAK / Skyscanner - Iberojet one-way MAD->CUN (last 3 days)",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Madrid-Barajas-MAD/Cancun-CUN"
+  },
+  {
+    "timestamp": "2026-07-07T08:02:25Z",
+    "rutina": "B",
+    "escenario": "E2",
+    "tipo": "VUELTA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": null,
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air Europa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6905,
+    "precio_eur": null,
+    "fuente": "Aeromexico.com / confirmado Rutina C madrugada",
+    "verificado": false,
+    "link": "https://www.aeromexico.com/en_us/flights-from-madrid-to-mexico"
   }
 ]
