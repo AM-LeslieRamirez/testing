@@ -1601,5 +1601,240 @@
     "fuente": "Skyscanner MX Iberojet CUN→MAD $313×19=MXN 5,947 | KAYAK ES World2Fly MAD→CUN 288€×18.5=MXN 5,328; ambas rutas directas sin escala USA",
     "verificado": false,
     "link": "https://www.kayak.es/vuelos/World2Fly-Madrid-Barajas-MAD/Cancun-CUN.b.2W.ksp"
+  },
+  {
+    "timestamp": "2026-07-08T16:02:38Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberia"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5365,
+    "precio_eur": null,
+    "fuente": "Omio — Iberia MEX→MAD desde €290 ($357 USD); mínimo agregado, verificar ago",
+    "verificado": false,
+    "link": "https://www.omio.com/flights/mexico-city/madrid"
+  },
+  {
+    "timestamp": "2026-07-08T16:02:38Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "CDG",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air France",
+      "Aeromexico"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5054,
+    "precio_eur": null,
+    "fuente": "Expedia — MEX→CDG desde $266 USD; mínimo agregado, verificar para agosto 2026",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/mex/cdg/mexico-city-to-paris"
+  },
+  {
+    "timestamp": "2026-07-08T16:02:38Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6935,
+    "precio_eur": null,
+    "fuente": "KAYAK — MEX→AMS desde $365 USD; mínimo agregado actualizado",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Mexico-City-Benito-Juarez-MEX/Amsterdam-Schiphol-AMS"
+  },
+  {
+    "timestamp": "2026-07-08T16:02:38Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": null,
+    "fecha_ida": "2026-08-06",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 7239,
+    "precio_eur": null,
+    "fuente": "Travelocity — British Airways MEX→LHR desde $381 USD; mínimo agosto",
+    "verificado": false,
+    "link": "https://www.travelocity.com/lp/flight-routes/british-airways-from-mexico-city-intl-to-heathrow/ba/mex/lhr"
+  },
+  {
+    "timestamp": "2026-07-08T16:02:38Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "LHR",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6308,
+    "precio_eur": null,
+    "fuente": "Expedia — CUN→LHR desde $332 USD (ruta nueva en cobertura)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/lhr/cancun-to-london"
+  },
+  {
+    "timestamp": "2026-07-08T16:02:38Z",
+    "rutina": "B",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberia",
+      "Aeromexico",
+      "Air Europa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 7030,
+    "precio_eur": null,
+    "fuente": "KAYAK — MEX→MAD precio mínimo agregado desde $370 USD",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Mexico-City-Benito-Juarez-MEX/Madrid-Barajas-MAD"
+  },
+  {
+    "timestamp": "2026-07-08T16:02:38Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-24",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5883,
+    "precio_eur": 318,
+    "fuente": "Iberojet.com — MAD→BKK OW desde €318; vuelos jue/dom. RT desde €250.72",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-08T16:02:38Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 7467,
+    "precio_eur": 404,
+    "fuente": "KAYAK — AMS→BKK desde $393 USD; ago 19 más barato. KLM OW $1,508",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/Amsterdam-Schiphol-AMS/Bangkok-Suvarnabhumi-other-airports-BKK"
+  },
+  {
+    "timestamp": "2026-07-08T16:02:38Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-22",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air France"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 6498,
+    "precio_eur": 351,
+    "fuente": "Travelocity — CDG→BKK desde $342 USD; AF desde $1,004",
+    "verificado": false,
+    "link": "https://www.travelocity.com/lp/flights/cdg/bkk/roissy-charles-de-gaulle-to-suvarnabhumi-intl"
+  },
+  {
+    "timestamp": "2026-07-08T16:02:38Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-21",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways",
+      "EVA Air"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 7277,
+    "precio_eur": 394,
+    "fuente": "KAYAK/Expedia — LHR→BKK desde $383 USD; EVA Air ago 21 $693 nonstop",
+    "verificado": false,
+    "link": "https://www.kayak.com/flight-routes/London-Heathrow-LHR/Bangkok-Suvarnabhumi-other-airports-BKK"
+  },
+  {
+    "timestamp": "2026-07-08T16:02:38Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen_mx": null,
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Lufthansa"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 7619,
+    "precio_eur": 412,
+    "fuente": "Expedia — FRA→BKK desde $401 USD; ago 19 más barato (Condor/LH)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/fra/bkk/frankfurt-to-bangkok"
   }
 ]
