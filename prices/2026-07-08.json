@@ -1473,5 +1473,133 @@
     "verificado": false,
     "link": "https://www.edreams.com.mx/aerolinea/AZ/ita-airways/MEX/ciudad-de-mexico/ROM/roma/",
     "nota": "madrugada_es — ITA standalone MEX→FCO; 14433 MXN (inferior a 18907 capturado B); por encima umbral 7500 MXN"
+  },
+  {
+    "timestamp": "2026-07-08T14:02:30Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12863,
+    "precio_desglose_mxn": {
+      "MX_EU": 5947,
+      "EU_BKK": 6916,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Skyscanner MX — Iberojet CUN→MAD mín $313 USD ($313×19=MXN 5,947) | Expedia — Iberojet MAD→BKK mín $364 USD ($364×19=MXN 6,916); ambos directos sin escalas",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx/rutas/cun/mad/cancun-a-madrid-barajas.html"
+  },
+  {
+    "timestamp": "2026-07-08T14:02:30Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet",
+      "Iberojet",
+      "World2Fly"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 25639,
+    "precio_desglose_mxn": {
+      "MX_EU": 5947,
+      "EU_BKK": 6916,
+      "BKK_EU": 7448,
+      "EU_MX": 5328
+    },
+    "fuente": "Skyscanner MX CUN→MAD Iberojet $313×19=5,947 | Expedia MAD→BKK Iberojet $364×19=6,916 | Expedia BKK→MAD desde $392×19=7,448 | KAYAK ES World2Fly MAD→CUN 288€×18.5=5,328",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/bkk/mad/bangkok-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-08T14:02:30Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Condor",
+      "Lufthansa",
+      "Lufthansa",
+      "Condor"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 25726,
+    "precio_desglose_mxn": {
+      "MX_EU": 6175,
+      "EU_BKK": 7581,
+      "BKK_EU": 3952,
+      "EU_MX": 8018
+    },
+    "fuente": "Expedia CUN→FRA Condor nonstop $325×19=6,175 | KAYAK FRA→BKK Lufthansa $399×19=7,581 | Expedia BKK→FRA mín $208×19=3,952 (promo, low-conf) | Skyscanner FRA→CUN Condor $422×19=8,018",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/fra/cancun-to-frankfurt"
+  },
+  {
+    "timestamp": "2026-07-08T14:02:30Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 5947,
+    "precio_desglose_mxn": null,
+    "fuente": "Skyscanner MX — Iberojet CUN→MAD mín $313 USD ($313×19=MXN 5,947); KAYAK confirma desde $325 USD; vuelo directo sin escalas",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx/rutas/cun/mad/cancun-a-madrid-barajas.html"
+  },
+  {
+    "timestamp": "2026-07-08T14:02:30Z",
+    "rutina": "A",
+    "escenario": "E3",
+    "tipo": "RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": null,
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 19,
+    "aerolineas": [
+      "Iberojet",
+      "World2Fly"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 11275,
+    "precio_desglose_mxn": null,
+    "fuente": "Skyscanner MX Iberojet CUN→MAD $313×19=MXN 5,947 | KAYAK ES World2Fly MAD→CUN 288€×18.5=MXN 5,328; ambas rutas directas sin escala USA",
+    "verificado": false,
+    "link": "https://www.kayak.es/vuelos/World2Fly-Madrid-Barajas-MAD/Cancun-CUN.b.2W.ksp"
   }
 ]
