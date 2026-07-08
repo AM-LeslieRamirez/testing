@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<style>
+  body { font-family: Arial, sans-serif; font-size: 13px; color: #222; max-width: 900px; margin: 0 auto; padding: 10px; }
+  h2 { background: #1a5276; color: white; padding: 8px 12px; border-radius: 4px; margin-top: 20px; font-size: 15px; }
+  table { border-collapse: collapse; width: 100%; margin: 8px 0; font-size: 12px; }
+  th { background: #2e86c1; color: white; padding: 6px 8px; text-align: left; }
+  td { padding: 5px 8px; border-bottom: 1px solid #ddd; }
+  tr:nth-child(even) { background: #f2f9ff; }
+  .urgent { background: #fdecea !important; font-weight: bold; color: #c0392b; }
+  .below { background: #eafaf1 !important; }
+  .above { background: #fef9e7 !important; }
+  .badge-urgent { background: #e74c3c; color: white; padding: 2px 6px; border-radius: 3px; font-size: 11px; font-weight: bold; }
+  .badge-ok { background: #27ae60; color: white; padding: 2px 6px; border-radius: 3px; font-size: 11px; }
+  .badge-hi { background: #e67e22; color: white; padding: 2px 6px; border-radius: 3px; font-size: 11px; }
+  a { color: #2e86c1; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  hr { border: none; border-top: 2px solid #d5d8dc; margin: 18px 0; }
+  .summary-box { background: #eaf4fb; border-left: 4px solid #2980b9; padding: 10px 14px; margin: 10px 0; border-radius: 4px; }
+  .warning-box { background: #fef9e7; border-left: 4px solid #f39c12; padding: 10px 14px; margin: 10px 0; border-radius: 4px; }
+  .footer { color: #888; font-size: 11px; margin-top: 20px; border-top: 1px solid #eee; padding-top: 8px; }
+  .delta-neg { color: #27ae60; font-weight: bold; }
+  .delta-pos { color: #e74c3c; font-weight: bold; }
+</style>
+</head>
+<body>
+
+<div class="summary-box">
+  <strong>📊 Monitor diario 2026-07-08 — 21 deals encontrados (mínimo combo RT: MXN $23,724)</strong><br>
+  Ventana de viaje: IDA 1–9 ago · VUELTA 18–26 ago · Estancia ~17 días<br>
+  Rutas válidas: MEX/CUN/QRO/NLU → MAD/CDG/AMS/FRA/LHR/FCO → BKK (sin escalas USA)<br>
+  <strong>🚨 1 deal URGENTE: MEX→CDG ida directa MXN $5,054 (−49% vs promedio 7d)</strong>
+</div>
+
+<hr>
+
+<!-- ===== SECCIÓN 1: COMBO PRIORITARIO ===== -->
+<h2>🎯 COMBO PRIORITARIO — Viaje completo MX → EU → BKK (redondo e ida)</h2>
+
+<strong>COMBO REDONDO (MX → EU → BKK → EU → MX) — umbral ≤ MXN $28,000 | urgente ≤ $22,400</strong><br>
+<em>✅ 9 de 10 opciones están BAJO el umbral. Mejor precio histórico vía MAD.</em>
+
+<table>
+  <tr>
+    <th>Origen MX</th><th>EU via</th><th>Fecha ida</th><th>Fecha vuelta</th><th>Días</th><th>Aerolíneas</th><th>Escalas</th><th>Precio Total MXN</th><th>vs avg 7d</th><th>Estado</th><th>Link</th>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td>MAD</td><td>2026-08-03</td><td>2026-08-24</td><td>21</td><td>Iberojet + World2Fly</td><td>Directo (todos los tramos)</td><td><strong>$23,724</strong></td><td class="delta-neg">−2.3%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.expedia.com/lp/flights/bkk/mad/bangkok-to-madrid">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td>MAD</td><td>2026-08-03</td><td>2026-08-24</td><td>21</td><td>Iberojet + World2Fly</td><td>Directo</td><td><strong>$25,529</strong></td><td class="delta-neg">−5.1%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.expedia.com/lp/flights/bkk/mad/bangkok-to-madrid">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td>MAD</td><td>2026-08-03</td><td>2026-08-22</td><td>17</td><td>Iberojet + World2Fly</td><td>Directo</td><td><strong>$25,639</strong></td><td class="delta-neg">−5.7%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.expedia.com/lp/flights/bkk/mad/bangkok-to-madrid">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td>FRA</td><td>2026-08-05</td><td>2026-08-22</td><td>17</td><td>Condor + Lufthansa</td><td>Directo</td><td><strong>$25,726</strong></td><td class="delta-neg">−14.9%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.expedia.com/lp/flights/cun/fra/cancun-to-frankfurt">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td>MAD</td><td>2026-08-04</td><td>2026-08-22</td><td>17</td><td>Iberojet + Etihad + Air Europa</td><td>AUH</td><td><strong>$25,803</strong></td><td class="delta-neg">−6.3%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.opodo.es/">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td>MAD</td><td>2026-08-04</td><td>2026-08-22</td><td>17</td><td>Iberojet + Etihad + World2Fly</td><td>AUH</td><td><strong>$26,321</strong></td><td class="delta-neg">−8.5%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.opodo.es/">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td>MAD</td><td>2026-08-04</td><td>2026-08-22</td><td>17</td><td>Iberojet + Etihad + World2Fly</td><td>AUH</td><td><strong>$26,340</strong></td><td class="delta-neg">−8.6%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.opodo.es/">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td>MAD</td><td>2026-08-04</td><td>2026-08-23</td><td>17</td><td>Iberojet + Etihad + World2Fly</td><td>AUH</td><td><strong>$26,881</strong></td><td class="delta-neg">−10.7%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.opodo.es/">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>QRO</td><td>MAD</td><td>2026-08-06</td><td>2026-08-22</td><td>17</td><td>Iberojet + Etihad + World2Fly</td><td>AUH</td><td><strong>$27,378</strong></td><td class="delta-neg">−12.7%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.skyscanner.es/">Ver</a></td>
+  </tr>
+  <tr>
+    <td>MEX</td><td>AMS</td><td>2026-08-06</td><td>2026-08-22</td><td>17</td><td>KLM + Qatar + Lufthansa + Aeroméxico</td><td>DOH, FRA</td><td>$28,988</td><td class="delta-neg">−1.5%</td><td>—</td><td><a href="https://www.edreams.com.mx/">Ver</a></td>
+  </tr>
+</table>
+
+<br>
+<strong>COMBO IDA (MX → EU → BKK, sin vuelta) — umbral ≤ MXN $13,000 | urgente ≤ $10,400</strong><br>
+<em>✅ 7 de 14 opciones están BAJO el umbral.</em>
+
+<table>
+  <tr>
+    <th>Origen MX</th><th>EU via</th><th>Fecha ida</th><th>Aerolíneas</th><th>Escalas</th><th>Precio Total MXN</th><th>vs avg 7d</th><th>Estado</th><th>Link</th>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td>MAD</td><td>2026-08-03</td><td>Iberojet (directo)</td><td>Directo CUN→MAD→BKK</td><td><strong>$12,058</strong></td><td class="delta-neg">+0.4%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.kayak.com/flight-routes/Cancun-CUN/Madrid-Barajas-MAD">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td>MAD</td><td>2026-08-07</td><td>Iberojet (directo)</td><td>Directo CUN→MAD→BKK</td><td><strong>$12,058</strong></td><td class="delta-neg">+0.4%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.kayak.com/flight-routes/Cancun-CUN/Madrid-Barajas-MAD">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td>MAD</td><td>2026-08-04</td><td>Iberojet + Etihad</td><td>AUH</td><td><strong>$12,543</strong></td><td class="delta-neg">−4.5%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.opodo.es/">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td>MAD</td><td>2026-08-03</td><td>Iberojet (directo)</td><td>Directo</td><td><strong>$12,559</strong></td><td class="delta-neg">−4.6%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.kayak.com/flight-routes/Madrid-Barajas-MAD/Bangkok-Suvarnabhumi-BKK">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td>MAD</td><td>2026-08-04</td><td>Iberojet</td><td>—</td><td><strong>$12,562</strong></td><td class="delta-neg">−4.6%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.opodo.es/">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td>MAD</td><td>2026-08-03</td><td>Iberojet</td><td>—</td><td><strong>$12,863</strong></td><td class="delta-neg">−7.1%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.skyscanner.com.mx/rutas/cun/mad/cancun-a-madrid-barajas.html">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td>MAD</td><td>2026-08-04</td><td>Iberojet + Qatar</td><td>DOH</td><td><strong>$12,913</strong></td><td class="delta-neg">−7.5%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.opodo.es/">Ver</a></td>
+  </tr>
+  <tr>
+    <td>CUN</td><td>MAD</td><td>2026-08-04</td><td>World2Fly + Etihad</td><td>AUH</td><td>$13,413</td><td class="delta-pos">+11.7%</td><td>—</td><td><a href="https://www.es.kayak.com/">Ver</a></td>
+  </tr>
+  <tr>
+    <td>QRO</td><td>MAD</td><td>2026-08-06</td><td>Iberojet + Etihad</td><td>AUH</td><td>$13,600</td><td class="delta-pos">+13.3%</td><td>—</td><td><a href="https://www.skyscanner.es/">Ver</a></td>
+  </tr>
+  <tr>
+    <td>CUN</td><td>AMS</td><td>2026-08-05</td><td>KLM + Qatar</td><td>DOH</td><td>$14,030</td><td class="delta-neg">−12.2%</td><td>—</td><td><a href="https://www.es.kayak.com/">Ver</a></td>
+  </tr>
+  <tr>
+    <td>MEX</td><td>AMS</td><td>2026-08-06</td><td>KLM + Qatar</td><td>DOH</td><td>$14,171</td><td class="delta-neg">−11.3%</td><td>—</td><td><a href="https://www.edreams.com.mx/">Ver</a></td>
+  </tr>
+  <tr>
+    <td>MEX</td><td>MAD</td><td>2026-08-06</td><td>Iberia + Etihad</td><td>AUH</td><td>$14,892</td><td class="delta-pos">+24.1%</td><td>—</td><td><a href="https://www.expedia.com/lp/flights/mex/mad/mexico-city-to-madrid">Ver</a></td>
+  </tr>
+  <tr>
+    <td>MEX</td><td>FCO</td><td>2026-08-05</td><td>Aeroméxico + ITA + Etihad</td><td>AUH</td><td>$15,390</td><td class="delta-neg">−7.2%</td><td>—</td><td><a href="https://www.aeromexico.com/">Ver</a></td>
+  </tr>
+  <tr>
+    <td>MEX</td><td>LHR</td><td>2026-08-05</td><td>British Airways</td><td>LHR</td><td>$18,475</td><td class="delta-pos">+5.8%</td><td>—</td><td><a href="https://www.expedia.com.mx/">Ver</a></td>
+  </tr>
+</table>
+
+<hr>
+
+<!-- ===== SECCIÓN 2: IDAS SOLAS ===== -->
+<h2>🛫 IDAS SOLAS (MX → Europa, ventana 1–9 ago) — umbral por destino</h2>
+
+<table>
+  <tr>
+    <th>Destino EU</th><th>Origen MX</th><th>Aerolínea</th><th>Fecha</th><th>Escalas</th><th>Precio MXN</th><th>vs avg 7d</th><th>Umbral</th><th>Estado</th><th>Link</th>
+  </tr>
+  <tr class="urgent">
+    <td><strong>CDG (París)</strong></td><td>MEX</td><td>Air France + Aeroméxico</td><td>2026-08-05</td><td>Directo</td><td><strong>$5,054</strong></td><td class="delta-neg">−49.2%</td><td>$7,500 / urg $6,000</td><td><span class="badge-urgent">🚨 URGENTE</span></td><td><a href="https://www.expedia.com/lp/flights/mex/cdg/mexico-city-to-paris">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td><strong>MAD (Madrid)</strong></td><td>MEX</td><td>Iberia</td><td>2026-08-05</td><td>Directo</td><td><strong>$5,365</strong></td><td class="delta-neg">−25.2%</td><td>$6,500 / urg $5,200</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.omio.com/flights/mexico-city/madrid">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td><strong>LHR (Londres)</strong></td><td>CUN</td><td>British Airways</td><td>2026-08-05</td><td>Directo</td><td><strong>$6,308</strong></td><td class="delta-neg">−35.4%</td><td>$7,500 / urg $6,000</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.expedia.com/lp/flights/cun/lhr/cancun-to-london">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td><strong>AMS (Ámsterdam)</strong></td><td>MEX</td><td>KLM</td><td>2026-08-05</td><td>Directo</td><td><strong>$6,935</strong></td><td class="delta-neg">−27.9%</td><td>$7,500 / urg $6,000</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.kayak.com/flight-routes/Mexico-City-Benito-Juarez-MEX/Amsterdam-Schiphol-AMS">Ver</a></td>
+  </tr>
+  <tr>
+    <td>FCO (Roma)</td><td>MEX</td><td>Aeroméxico + ITA Airways</td><td>2026-08-05</td><td>Directo</td><td>$8,379</td><td class="delta-neg">−22.1%</td><td>$7,500 / urg $6,000</td><td><span class="badge-hi">⬆ SOBRE</span></td><td><a href="https://www.aeromexico.com/en_us/flights-from-mexico-city-to-rome">Ver</a></td>
+  </tr>
+  <tr>
+    <td>FRA (Frankfurt)</td><td>MEX</td><td>Lufthansa</td><td>2026-08-05</td><td>Directo</td><td>$14,995</td><td class="delta-pos">+38.9%</td><td>$7,500 / urg $6,000</td><td><span class="badge-hi">⬆⬆ MUY ALTO</span></td><td><a href="https://travelviajes.com.mx/vuelos/ciudad-de-mexico/frankfurt/lufthansa">Ver</a></td>
+  </tr>
+</table>
+
+<div class="warning-box">⚠️ <strong>FRA ida:</strong> MXN $14,995 está un 39% SOBRE el promedio histórico ($10,791). Posible error de scraping o tarifa premium de temporada. Verificar manualmente antes de descartar.</div>
+
+<hr>
+
+<!-- ===== SECCIÓN 3: VUELTAS SOLAS ===== -->
+<h2>🛂 VUELTAS SOLAS (Europa → MX, ventana 18–26 ago) — umbral ≤ MXN $7,000 | urgente ≤ $5,600</h2>
+
+<table>
+  <tr>
+    <th>Ciudad EU</th><th>Destino MX</th><th>Aerolínea</th><th>Fecha vuelta</th><th>Escalas</th><th>Precio MXN</th><th>vs avg 7d</th><th>Estado</th><th>Link</th>
+  </tr>
+  <tr class="below">
+    <td><strong>MAD (Madrid)</strong></td><td>MEX</td><td>Air Europa</td><td>2026-08-22</td><td>Directo</td><td><strong>$6,420</strong></td><td class="delta-neg">−18.7%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.edreams.es/ofertas/vuelos/aerolinea/UX/air-europa/MAD/madrid/MEX/ciudad-de-mexico/">Ver</a></td>
+  </tr>
+  <tr>
+    <td>CDG (París)</td><td>MEX</td><td>Aeroméxico</td><td>2026-08-24</td><td>Directo</td><td>$7,160</td><td class="delta-neg">−29.7%</td><td>—</td><td><a href="https://www.aeromexico.com/en_fr/flights-from-paris-to-mexico-city">Ver</a></td>
+  </tr>
+  <tr>
+    <td>AMS (Ámsterdam)</td><td>MEX</td><td>KLM</td><td>2026-08-22</td><td>Directo</td><td>$11,590</td><td class="delta-pos">+10.1%</td><td>—</td><td><a href="https://www.expedia.com/lp/flights/ams/mex/amsterdam-to-mexico-city">Ver</a></td>
+  </tr>
+  <tr>
+    <td>LHR (Londres)</td><td>MEX</td><td>British Airways</td><td>2026-08-22</td><td>Directo</td><td>$12,597</td><td class="delta-pos">+18.4%</td><td>—</td><td><a href="https://www.expedia.co.uk/lp/flight-routes/british-airways-from-heathrow-to-mexico-city-intl/ba/lhr/mex">Ver</a></td>
+  </tr>
+  <tr>
+    <td>FRA (Frankfurt)</td><td>MEX</td><td>Lufthansa</td><td>2026-08-22</td><td>Directo</td><td>$14,837</td><td class="delta-pos">+30.5%</td><td>—</td><td><a href="https://www.lufthansa.com/lhg/de/en/o-d/cy-cy/frankfurt-mexico-city">Ver</a></td>
+  </tr>
+  <tr>
+    <td>FCO (Roma)</td><td>MEX</td><td>ITA Airways</td><td>2026-08-22</td><td>Conexión hub EU</td><td>$18,907</td><td class="delta-pos">+69.7%</td><td>—</td><td><a href="https://www.edreams.com.mx/aerolinea/AZ/ita-airways/MEX/ciudad-de-mexico/ROM/roma/">Ver</a></td>
+  </tr>
+</table>
+
+<div class="warning-box">⚠️ <strong>Vueltas desde FRA y FCO</strong> están 30–70% sobre el promedio histórico. FCO ($18,907) es el máximo registrado en la ventana de datos. Verificar si corresponde a tarifa válida.</div>
+
+<hr>
+
+<!-- ===== SECCIÓN 4: REDONDOS MX ↔ EUROPA ===== -->
+<h2>🔄 REDONDOS MX ↔ Europa — umbral MAD ≤ $13,000 | otros ≤ $15,000</h2>
+
+<table>
+  <tr>
+    <th>Origen MX</th><th>Destino EU</th><th>Fecha IDA</th><th>Fecha VUELTA</th><th>Días estancia</th><th>Aerolíneas</th><th>Escalas</th><th>Precio Total MXN</th><th>vs avg 7d</th><th>Estado</th><th>Link</th>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td><strong>MAD</strong></td><td>2026-08-05</td><td>2026-08-22</td><td>17</td><td>Air Europa</td><td>Directo</td><td><strong>$10,241</strong></td><td class="delta-neg">−27.0%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.expedia.com/es/lp/vuelos/cun/mad/cancun-a-aeropuerto-de-madrid-adolfo-suarez-madrid-barajas">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td><strong>MAD</strong></td><td>2026-08-03</td><td>2026-08-22</td><td>19</td><td>Iberojet + World2Fly</td><td>Directo</td><td><strong>$11,275</strong></td><td class="delta-neg">−19.6%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.kayak.es/vuelos/World2Fly-Madrid-Barajas-MAD/Cancun-CUN.b.2W.ksp">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td><strong>MAD</strong></td><td>2026-08-05</td><td>2026-08-22</td><td>17</td><td>World2Fly</td><td>Directo</td><td><strong>$11,476</strong></td><td class="delta-neg">−18.2%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.omio.com/flights/cancun/madrid-3daoo">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>CUN</td><td><strong>MAD</strong></td><td>2026-08-05</td><td>2026-08-22</td><td>17</td><td>Best Day (verificar aerolínea)</td><td>Directo</td><td><strong>$11,992</strong></td><td class="delta-neg">−14.5%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.bestday.com.mx/vuelos/cun/mad/vuelos-a-madrid-desde-cancun">Ver</a></td>
+  </tr>
+  <tr class="below">
+    <td>MEX</td><td>CDG</td><td>2026-08-13</td><td>2026-08-26</td><td>13</td><td>Aeroméxico</td><td>Directo</td><td><strong>$14,309</strong></td><td class="delta-neg">−15.5%</td><td><span class="badge-ok">✅ BAJO</span></td><td><a href="https://www.aeromexico.com/en_mx/flights-from-mexico-city-to-paris">Ver</a></td>
+  </tr>
+  <tr>
+    <td>MEX</td><td>MAD</td><td>2026-08-13</td><td>2026-08-29</td><td>16</td><td>Iberia</td><td>Directo</td><td>$16,340</td><td class="delta-pos">+16.5%</td><td>—</td><td><a href="https://www.kayak.com.mx/vuelos/Iberia-Ciudad-de-Mexico-Benito-Juarez-MEX/Madrid-Barajas-MAD.b.IB.ksp">Ver</a></td>
+  </tr>
+  <tr>
+    <td>MEX</td><td>AMS</td><td>2026-08-06</td><td>2026-08-21</td><td>15</td><td>KLM</td><td>Directo</td><td>$16,519</td><td class="delta-neg">−7.2%</td><td>—</td><td><a href="https://www.klm.com.mx/es-mx/vuelos-desde-ciudad-de-mexico-a-amsterdam">Ver</a></td>
+  </tr>
+  <tr>
+    <td>MEX</td><td>MAD</td><td>2026-08-09</td><td>2026-08-22</td><td>13</td><td>Aeroméxico</td><td>Directo</td><td>$17,100</td><td class="delta-pos">+21.9%</td><td>—</td><td><a href="https://www.aeromexico.com/en_us/flights-from-mexico-city-to-madrid">Ver</a></td>
+  </tr>
+  <tr>
+    <td>MEX</td><td>FRA</td><td>2026-08-17</td><td>2026-09-02</td><td>16</td><td>Lufthansa</td><td>Directo</td><td>$22,116</td><td class="delta-pos">+32.8%</td><td>—</td><td><a href="https://www.lufthansa.com/lhg/de/en/o-d/cy-cy/mexico-city-frankfurt">Ver</a></td>
+  </tr>
+  <tr>
+    <td>MEX</td><td>LHR</td><td>2026-08-17</td><td>2026-09-01</td><td>15</td><td>British Airways</td><td>Directo</td><td>$27,189</td><td class="delta-pos">+39.9%</td><td>—</td><td><a href="https://www.travelocity.com/lp/flight-routes/british-airways-from-mexico-city-intl-to-heathrow/ba/mex/lhr">Ver</a></td>
+  </tr>
+</table>
+
+<div class="warning-box">⚠️ <strong>Best Day (CUN↔MAD $11,992):</strong> operador OTA — verificar aerolínea operadora antes de comprar.<br>
+⚠️ <strong>MEX↔LHR ($27,189):</strong> 40% sobre promedio, fechas fuera de ventana ideal (17-sep).</div>
+
+<hr>
+
+<!-- ===== SECCIÓN 5: TRAMOS EU → BKK ===== -->
+<h2>✈️ TRAMOS EUROPA → BKK (para combinar manualmente) — umbral ≤ EUR 250 | urgente ≤ EUR 200</h2>
+
+<table>
+  <tr>
+    <th>Ciudad EU</th><th>Aerolínea</th><th>Fecha</th><th>Escalas</th><th>Precio EUR</th><th>Precio MXN aprox.</th><th>vs avg 7d EUR</th><th>Estado</th><th>Link</th>
+  </tr>
+  <tr>
+    <td>MAD</td><td>Iberojet</td><td>2026-08-24</td><td>Directo</td><td>EUR 318</td><td>$5,883</td><td class="delta-neg">−21.7%</td><td>—</td><td><a href="https://www.iberojet.com/en/flights-from-madrid-to-bangkok">Ver</a></td>
+  </tr>
+  <tr>
+    <td>AMS</td><td>Qatar Airways</td><td>2026-08-19</td><td>DOH</td><td>EUR 327</td><td>$6,050</td><td class="delta-neg">−11.3%</td><td>—</td><td><a href="https://www.google.com/travel/flights/flights-from-amsterdam-to-bangkok.html">Ver</a></td>
+  </tr>
+  <tr>
+    <td>MAD</td><td>Etihad Airways</td><td>2026-08-22</td><td>AUH</td><td>EUR 350</td><td>$6,475</td><td class="delta-neg">−13.8%</td><td>—</td><td><a href="https://www.omio.es/vuelos/madrid/bangkok">Ver</a></td>
+  </tr>
+  <tr>
+    <td>CDG</td><td>Air France</td><td>2026-08-22</td><td>Directo</td><td>EUR 351</td><td>$6,498</td><td class="delta-neg">−19.7%</td><td>—</td><td><a href="https://www.travelocity.com/lp/flights/cdg/bkk/roissy-charles-de-gaulle-to-suvarnabhumi-intl">Ver</a></td>
+  </tr>
+  <tr>
+    <td>MAD</td><td>Qatar Airways</td><td>2026-08-22</td><td>DOH</td><td>EUR 370</td><td>$6,845</td><td class="delta-neg">−8.9%</td><td>—</td><td><a href="https://www.opodo.es/vuelos/aerolinea/QR/qatar-airways/MAD/madrid/BKK/bangkok/">Ver</a></td>
+  </tr>
+  <tr>
+    <td>LHR</td><td>British Airways + EVA Air</td><td>2026-08-21</td><td>Directo</td><td>EUR 394</td><td>$7,277</td><td class="delta-neg">−8.2%</td><td>—</td><td><a href="https://www.kayak.com/flight-routes/London-Heathrow-LHR/Bangkok-Suvarnabhumi-other-airports-BKK">Ver</a></td>
+  </tr>
+  <tr>
+    <td>AMS</td><td>KLM</td><td>2026-08-19</td><td>Directo</td><td>EUR 404</td><td>$7,467</td><td class="delta-pos">+9.6%</td><td>—</td><td><a href="https://www.kayak.com/flight-routes/Amsterdam-Schiphol-AMS/Bangkok-Suvarnabhumi-other-airports-BKK">Ver</a></td>
+  </tr>
+  <tr>
+    <td>FRA</td><td>Lufthansa</td><td>2026-08-19</td><td>Directo</td><td>EUR 412</td><td>$7,619</td><td class="delta-neg">−10.9%</td><td>—</td><td><a href="https://www.expedia.com/lp/flights/fra/bkk/frankfurt-to-bangkok">Ver</a></td>
+  </tr>
+  <tr>
+    <td>CDG</td><td>Air France</td><td>2026-08-05</td><td>Directo</td><td>EUR 460</td><td>~$8,510</td><td class="delta-pos">+5.2%</td><td>—</td><td><a href="https://www.travelocity.com/lp/flight-routes/air-france-from-roissy-charles-de-gaulle-to-suvarnabhumi-intl/af/cdg/bkk">Ver</a></td>
+  </tr>
+  <tr>
+    <td>LHR</td><td>British Airways</td><td>2026-08-05</td><td>Directo</td><td>EUR 465</td><td>~$8,603</td><td class="delta-pos">+8.3%</td><td>—</td><td><a href="https://www.expedia.co.uk/lp/flight-routes/british-airways-from-heathrow-to-suvarnabhumi-intl/ba/lhr/bkk">Ver</a></td>
+  </tr>
+  <tr>
+    <td>LHR</td><td>British Airways</td><td>2026-08-22</td><td>Directo</td><td>EUR 470</td><td>$8,695</td><td class="delta-pos">+9.4%</td><td>—</td><td><a href="https://www.expedia.co.uk/lp/flight-routes/british-airways-from-heathrow-to-suvarnabhumi-intl/ba/lhr/bkk">Ver</a></td>
+  </tr>
+  <tr>
+    <td>MAD</td><td>Iberojet</td><td>2026-08-06</td><td>Directo</td><td>—</td><td>$6,384</td><td>—</td><td>—</td><td><a href="https://www.kayak.com/flight-routes/Madrid-Barajas-MAD/Bangkok-Suvarnabhumi-BKK">Ver</a></td>
+  </tr>
+  <tr>
+    <td>MAD</td><td>Iberojet</td><td>2026-08-23</td><td>Directo</td><td>EUR 497</td><td>$9,194</td><td class="delta-pos">+22.4%</td><td>—</td><td><a href="https://www.iberojet.com/en/flights-from-madrid-to-bangkok">Ver</a></td>
+  </tr>
+  <tr>
+    <td>CDG</td><td>Air France</td><td>2026-08-22</td><td>Directo</td><td>EUR 510</td><td>$9,435</td><td class="delta-pos">+16.6%</td><td>—</td><td><a href="https://www.skyscanner.net/routes/cdg/bkk/paris-charles-de-gaulle-to-bangkok-suvarnabhumi.html">Ver</a></td>
+  </tr>
+  <tr>
+    <td>FRA</td><td>Lufthansa</td><td>2026-08-22</td><td>Directo</td><td>EUR 557</td><td>$10,304</td><td class="delta-pos">+20.4%</td><td>—</td><td><a href="https://www.travelocity.com/lp/flight-routes/lufthansa-from-frankfurt-intl-to-suvarnabhumi-intl/lh/fra/bkk">Ver</a></td>
+  </tr>
+  <tr>
+    <td>AMS</td><td>KLM</td><td>2026-08-22</td><td>Directo</td><td>EUR 600</td><td>$11,100</td><td class="delta-pos">+62.8%</td><td>—</td><td><a href="https://www.klm.nl/en-nl/flights-from-amsterdam-to-bangkok">Ver</a></td>
+  </tr>
+  <tr>
+    <td>FRA</td><td>Lufthansa</td><td>2026-08-05</td><td>MUC</td><td>EUR 645</td><td>~$11,933</td><td class="delta-pos">+39.5%</td><td>—</td><td><a href="https://www.travelocity.com/lp/flight-routes/lufthansa-from-frankfurt-intl-to-suvarnabhumi-intl/lh/fra/bkk">Ver</a></td>
+  </tr>
+  <tr>
+    <td>AMS</td><td>KLM</td><td>2026-08-05</td><td>Directo</td><td>EUR 680</td><td>~$12,580</td><td class="delta-pos">+84.5%</td><td>—</td><td><a href="https://www.travelocity.com/lp/flight-routes/klm-from-schiphol-to-suvarnabhumi-intl/kl/ams/bkk">Ver</a></td>
+  </tr>
+</table>
+
+<div class="warning-box">⚠️ Ningún tramo EU→BKK está bajo el umbral urgente (EUR 200) hoy. Los precios para fechas de ida temprana (5 ago) son significativamente más altos que para fechas de vuelta (19–24 ago) — consistente con disponibilidad.</div>
+
+<hr>
+
+<!-- ===== SECCIÓN 6: NOTAS Y WARNINGS ===== -->
+<h2>🔍 Notas, tendencias y advertencias</h2>
+
+<strong>📈 Tendencias 7 días (baseline: 30 jun – 6 jul 2026):</strong>
+<ul>
+  <li><strong>IDA CDG y MAD</strong>: precios hoy muy por debajo del promedio histórico. CDG a $5,054 (−49%) es igual al mínimo histórico de 7d. Puede ser flete reducido de temporada o error — <em>verificar antes de comprar</em>.</li>
+  <li><strong>COMBO_RT vía MAD</strong>: $23,724 vs avg $24,288 (−2.3%) — precio estable y competitivo. CUN→FRA a $25,726 vs avg $30,231 (−14.9%) es una buena oportunidad.</li>
+  <li><strong>RT CUN↔MAD</strong>: $10,241 vs avg $14,027 (−27%) — precio excelente para solo México–Europa.</li>
+  <li><strong>FRA ida sola</strong>: $14,995 vs avg $10,791 (+39%) — outlier significativo, posible error de fuente.</li>
+  <li><strong>Vueltas FCO y FRA</strong>: ambas muy sobre promedio. FCO igual a máximo histórico ($18,907).</li>
+  <li><strong>Tramos EU→BKK</strong>: precios de agosto-tarde (19–24) son más baratos que los de principios de agosto (5 ago), que suben hasta EUR 680. Confirma que combinar IDA temprana + tramo tardío es la estrategia correcta.</li>
+</ul>
+
+<strong>⚠️ Advertencias de datos:</strong>
+<ul>
+  <li><strong>Best Day (CUN↔MAD RT $11,992)</strong>: OTA, verificar aerolínea operadora (posiblemente World2Fly o Iberojet).</li>
+  <li><strong>MEX→LHR RT ($27,189)</strong>: fechas fuera de ventana ideal (17 ago – 1 sep), alto precio +40% vs promedio.</li>
+  <li><strong>Tramo MAD→BKK (Iberojet, sin precio EUR)</strong>: un entry solo tiene precio MXN ($6,384), sin EUR. Valor calculado ~EUR 345.</li>
+  <li><strong>3 entries TRAMO</strong> sin precio_total_mxn (CDG Air France 5ago, LHR BA 5ago, FRA LH 5ago): precio MXN estimado con tipo de cambio ~18.5.</li>
+  <li>No se detectaron errores 403 de fuentes en los datos de hoy (todos los entries tienen fuente y link poblados).</li>
+</ul>
+
+<strong>💡 Combinaciones destacadas hoy:</strong>
+<ul>
+  <li><strong>Mejor combo completo RT</strong>: CUN → MAD (Iberojet directo, 3 ago) → BKK → MAD (Iberojet) → CUN (World2Fly) = <strong>MXN $23,724</strong> por 21 días</li>
+  <li><strong>Mejor combo IDA</strong>: CUN → MAD (Iberojet directo, 3 ó 7 ago) → BKK = <strong>MXN $12,058</strong></li>
+  <li><strong>Combinar manualmente</strong>: IDA sola MEX→CDG $5,054 + RT sola CUN↔MAD $10,241 + Tramo AMS→BKK EUR 327 = ~$21,345 (requiere verificar conexiones y aeropuertos de llegada)</li>
+</ul>
+
+<hr>
+
+<div class="footer">
+  Generado por Rutina D (Consolidator v4) | 2026-07-08T23:06:37Z | Total entries procesados: 87<br>
+  Rutinas A/B/C: scraping datos | Rutina D: consolidación y análisis | Baseline: 30 jun – 6 jul 2026 (7 días)<br>
+  <em>Nota: todos los precios son estimados. Verificar disponibilidad y precio final antes de comprar. Regla dura: SIN escalas en EE.UU. (requiere visa/ESTA).</em>
+</div>
+
+</body>
+</html>

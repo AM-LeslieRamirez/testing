@@ -90,5 +90,14 @@
       "min_e4_eur": 296,
       "min_global_mxn": 4496
     }
+  },
+  {
+    "date": "2026-07-08",
+    "total_entries": 87,
+    "min_combo_rt_mxn": 23724,
+    "min_combo_ida_mxn": 12058,
+    "urgent_count": 1,
+    "deals_below_threshold": 21,
+    "notes": "Urgent: MEX->CDG ida $5054 (-49% vs 7d avg). 9 combo_rt bajo 28k. 7 combo_ida bajo 13k."
   }
 ]
