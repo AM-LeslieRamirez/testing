@@ -870,5 +870,474 @@
     "fuente": "Expedia UK — BA LHR→BKK desde £402 (~470€); agosto likely £450-550",
     "verificado": false,
     "link": "https://www.expedia.co.uk/lp/flight-routes/british-airways-from-heathrow-to-suvarnabhumi-intl/ba/lhr/bkk"
+  },
+  {
+    "timestamp": "2026-07-08T02:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet",
+      "Etihad Airways"
+    ],
+    "escalas": [
+      "AUH"
+    ],
+    "precio_total_mxn": 12543,
+    "precio_desglose_mxn": {
+      "MX_EU": 6068,
+      "EU_BKK": 6475,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Opodo — Iberojet CUN→MAD desde 328€ (MXN 6,068) | est. 350€×18.5; Omio ES 'agosto special'",
+    "verificado": false,
+    "link": "https://www.opodo.es/"
+  },
+  {
+    "timestamp": "2026-07-08T02:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet"
+    ],
+    "escalas": [],
+    "precio_total_mxn": 12562,
+    "precio_desglose_mxn": {
+      "MX_EU": 6068,
+      "EU_BKK": 6494,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Opodo — Iberojet CUN→MAD desde 328€ (MXN 6,068) | Iberojet.com desde 351€ one-way (jue/dom); MXN 6,494",
+    "verificado": false,
+    "link": "https://www.opodo.es/"
+  },
+  {
+    "timestamp": "2026-07-08T02:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet",
+      "Qatar Airways"
+    ],
+    "escalas": [
+      "DOH"
+    ],
+    "precio_total_mxn": 12913,
+    "precio_desglose_mxn": {
+      "MX_EU": 6068,
+      "EU_BKK": 6845,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Opodo — Iberojet CUN→MAD desde 328€ (MXN 6,068) | est. 370€×18.5; Opodo ES desde 370€ ago",
+    "verificado": false,
+    "link": "https://www.opodo.es/"
+  },
+  {
+    "timestamp": "2026-07-08T02:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly",
+      "Etihad Airways"
+    ],
+    "escalas": [
+      "AUH"
+    ],
+    "precio_total_mxn": 13413,
+    "precio_desglose_mxn": {
+      "MX_EU": 6938,
+      "EU_BKK": 6475,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Kayak ES — World2Fly CUN→MAD desde 375€ (~MXN 6,938) | est. 350€×18.5; Omio ES 'agosto special'",
+    "verificado": false,
+    "link": "https://www.es.kayak.com/"
+  },
+  {
+    "timestamp": "2026-07-08T02:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-06",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet",
+      "Etihad Airways"
+    ],
+    "escalas": [
+      "AUH"
+    ],
+    "precio_total_mxn": 13600,
+    "precio_desglose_mxn": {
+      "MX_EU": 7125,
+      "EU_BKK": 6475,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Skyscanner — Iberojet QRO→MAD ~$375 USD (MXN 7,125) | est. 350€×18.5; Omio ES 'agosto special'",
+    "verificado": false,
+    "link": "https://www.skyscanner.es/"
+  },
+  {
+    "timestamp": "2026-07-08T02:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-06",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM",
+      "Qatar Airways"
+    ],
+    "escalas": [
+      "DOH"
+    ],
+    "precio_total_mxn": 14171,
+    "precio_desglose_mxn": {
+      "MX_EU": 8121,
+      "EU_BKK": 6050,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "eDreams MX — KLM MEX→AMS desde MXN 8,121 | Google Flights — Qatar AMS→BKK ~$319 (~327€×18.5) ago",
+    "verificado": false,
+    "link": "https://www.edreams.com.mx/"
+  },
+  {
+    "timestamp": "2026-07-08T02:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-06",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberia",
+      "Etihad Airways"
+    ],
+    "escalas": [
+      "AUH"
+    ],
+    "precio_total_mxn": 14892,
+    "precio_desglose_mxn": {
+      "MX_EU": 8417,
+      "EU_BKK": 6475,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Expedia — Iberia MEX→MAD desde $443 USD | est. 350€×18.5; Omio ES 'agosto special'",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/mex/mad/mexico-city-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-08T02:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico",
+      "ITA Airways",
+      "Etihad Airways"
+    ],
+    "escalas": [
+      "AUH"
+    ],
+    "precio_total_mxn": 15390,
+    "precio_desglose_mxn": {
+      "MX_EU": 8379,
+      "EU_BKK": 7011,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Aeromexico.com — one-way est. $441 USD (ITA codeshare) | Expedia — FCO→BKK Etihad desde $369 USD ($369×19)",
+    "verificado": false,
+    "link": "https://www.aeromexico.com/"
+  },
+  {
+    "timestamp": "2026-07-08T02:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "KLM",
+      "Qatar Airways"
+    ],
+    "escalas": [
+      "DOH"
+    ],
+    "precio_total_mxn": 14030,
+    "precio_desglose_mxn": {
+      "MX_EU": 7980,
+      "EU_BKK": 6050,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Kayak — KLM CUN→AMS desde $420 USD (~MXN 7,980) | Google Flights — Qatar AMS→BKK ~$319 (~327€×18.5) ago",
+    "verificado": false,
+    "link": "https://www.es.kayak.com/"
+  },
+  {
+    "timestamp": "2026-07-08T02:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "British Airways"
+    ],
+    "escalas": [
+      "LHR"
+    ],
+    "precio_total_mxn": 18475,
+    "precio_desglose_mxn": {
+      "MX_EU": 11141,
+      "EU_BKK": 7334,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Expedia MX — BA MEX→LHR desde MXN 11,141 | Expedia UK — LHR→BKK desde $386 USD ($386×19)",
+    "verificado": false,
+    "link": "https://www.expedia.com.mx/"
+  },
+  {
+    "timestamp": "2026-07-08T02:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet",
+      "Etihad Airways",
+      "World2Fly"
+    ],
+    "escalas": [
+      "AUH"
+    ],
+    "precio_total_mxn": 26321,
+    "precio_desglose_mxn": {
+      "MX_EU": 6068,
+      "EU_BKK": 6475,
+      "BKK_EU": 6840,
+      "EU_MX": 6938
+    },
+    "fuente": "Opodo — Iberojet CUN→MAD desde 328€ (MXN 6,068) | est. 350€×18.5; Omio ES 'agosto special' | est. $360 USD×19; Expedia BKK→MAD desde $392 | Kayak ES — World2Fly MAD→CUN 375€×18.5",
+    "verificado": false,
+    "link": "https://www.opodo.es/"
+  },
+  {
+    "timestamp": "2026-07-08T02:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet",
+      "Etihad Airways",
+      "Air Europa"
+    ],
+    "escalas": [
+      "AUH"
+    ],
+    "precio_total_mxn": 25803,
+    "precio_desglose_mxn": {
+      "MX_EU": 6068,
+      "EU_BKK": 6475,
+      "BKK_EU": 6840,
+      "EU_MX": 6420
+    },
+    "fuente": "Opodo — Iberojet CUN→MAD desde 328€ (MXN 6,068) | est. 350€×18.5; Omio ES 'agosto special' | est. $360 USD×19; Expedia BKK→MAD desde $392 | eDreams ES — Air Europa MAD→MEX 347€×18.5 [LOW CONF]",
+    "verificado": false,
+    "link": "https://www.opodo.es/"
+  },
+  {
+    "timestamp": "2026-07-08T02:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet",
+      "Etihad Airways",
+      "World2Fly"
+    ],
+    "escalas": [
+      "AUH"
+    ],
+    "precio_total_mxn": 26340,
+    "precio_desglose_mxn": {
+      "MX_EU": 6068,
+      "EU_BKK": 6494,
+      "BKK_EU": 6840,
+      "EU_MX": 6938
+    },
+    "fuente": "Opodo — Iberojet CUN→MAD desde 328€ (MXN 6,068) | Iberojet.com desde 351€ one-way (jue/dom); MXN 6,494 | est. $360 USD×19; Expedia BKK→MAD desde $392 | Kayak ES — World2Fly MAD→CUN 375€×18.5",
+    "verificado": false,
+    "link": "https://www.opodo.es/"
+  },
+  {
+    "timestamp": "2026-07-08T02:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": "2026-08-23",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet",
+      "Etihad Airways",
+      "World2Fly"
+    ],
+    "escalas": [
+      "AUH"
+    ],
+    "precio_total_mxn": 26881,
+    "precio_desglose_mxn": {
+      "MX_EU": 6068,
+      "EU_BKK": 6475,
+      "BKK_EU": 7400,
+      "EU_MX": 6938
+    },
+    "fuente": "Opodo — Iberojet CUN→MAD desde 328€ (MXN 6,068) | est. 350€×18.5; Omio ES 'agosto special' | Iberojet BKK→MAD est. ~400€×18.5 (nonstop jue/dom) | Kayak ES — World2Fly MAD→CUN 375€×18.5",
+    "verificado": false,
+    "link": "https://www.opodo.es/"
+  },
+  {
+    "timestamp": "2026-07-08T02:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-06",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet",
+      "Etihad Airways",
+      "World2Fly"
+    ],
+    "escalas": [
+      "AUH"
+    ],
+    "precio_total_mxn": 27378,
+    "precio_desglose_mxn": {
+      "MX_EU": 7125,
+      "EU_BKK": 6475,
+      "BKK_EU": 6840,
+      "EU_MX": 6938
+    },
+    "fuente": "Skyscanner — Iberojet QRO→MAD ~$375 USD (MXN 7,125) | est. 350€×18.5; Omio ES 'agosto special' | est. $360 USD×19; Expedia BKK→MAD desde $392 | Kayak ES — World2Fly MAD→CUN 375€×18.5",
+    "verificado": false,
+    "link": "https://www.skyscanner.es/"
+  },
+  {
+    "timestamp": "2026-07-08T02:12:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-06",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "KLM",
+      "Qatar Airways",
+      "Lufthansa",
+      "Aeromexico"
+    ],
+    "escalas": [
+      "DOH",
+      "FRA"
+    ],
+    "precio_total_mxn": 28988,
+    "precio_desglose_mxn": {
+      "MX_EU": 8121,
+      "EU_BKK": 6050,
+      "BKK_EU": 7657,
+      "EU_MX": 7160
+    },
+    "fuente": "eDreams MX — KLM MEX→AMS desde MXN 8,121 | Google Flights — Qatar AMS→BKK ~$319 (~327€×18.5) ago | est. $403 USD×19; Expedia FRA-BKK symétrico | Aeromexico France — CDG→MEX RT 774€ one-way est. 387€×18.5",
+    "verificado": false,
+    "link": "https://www.edreams.com.mx/"
   }
 ]
