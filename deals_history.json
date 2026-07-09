@@ -99,5 +99,13 @@
     "urgent_count": 1,
     "deals_below_threshold": 21,
     "notes": "Urgent: MEX->CDG ida $5054 (-49% vs 7d avg). 9 combo_rt bajo 28k. 7 combo_ida bajo 13k."
+  },
+  {
+    "date": "2026-07-09",
+    "total_entries": 104,
+    "min_combo_rt_mxn": 21433,
+    "min_combo_ida_mxn": 11047,
+    "urgent_count": 3,
+    "notes": "3 COMBO_RT urgente (<22400): CUN-MAD via Iberojet. IDA LHR $7430 (verificar). IDA MAD $5023 NLU (incertidumbre). VUELTA MAD $6420. RT CUN-MAD $11590."
   }
 ]
