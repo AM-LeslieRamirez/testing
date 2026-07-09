@@ -905,5 +905,196 @@
     "verificado": false,
     "link": "https://www.plusultra.com/es-es/",
     "nota": "madrugada_es | NO OPERA: Plus Ultra no tiene vuelos MEX-MAD confirmados en julio 2026; rutas activas: Buenos Aires, Lima, Caracas. Sin disponibilidad agosto 2026 desde México."
+  },
+  {
+    "timestamp": "2026-07-09T08:20:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo CUN-MAD",
+      "directo MAD-BKK"
+    ],
+    "precio_total_mxn": 11047,
+    "precio_desglose_mxn": {
+      "MX_EU": 5589,
+      "EU_BKK": 5458,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "eDreams Iberojet CUN-MAD ~€302 ago5; Iberojet MAD-BKK €295 ago9",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-09T08:20:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet",
+      "Iberojet",
+      "Air Europa"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 21900,
+    "precio_desglose_mxn": {
+      "MX_EU": 5589,
+      "EU_BKK": 5458,
+      "BKK_EU": 5058,
+      "EU_MX": 5795
+    },
+    "fuente": "Iberojet CUN-MAD ~€302 ago5; Iberojet MAD-BKK €295 ago9; Iberojet BKK-MAD €273 est ago21; Air Europa MAD-CUN $305 ago22",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-bangkok-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-09T08:20:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet",
+      "Iberojet",
+      "World2Fly"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 21433,
+    "precio_desglose_mxn": {
+      "MX_EU": 5589,
+      "EU_BKK": 5458,
+      "BKK_EU": 5058,
+      "EU_MX": 5328
+    },
+    "fuente": "Iberojet CUN-MAD ~€302 ago5; Iberojet MAD-BKK €295 ago9; Iberojet BKK-MAD €273 est ago21; World2Fly MAD-CUN €288 ago22",
+    "verificado": false,
+    "link": "https://www.kayak.es/vuelos/World2Fly-Madrid-Barajas-MAD/Cancun-CUN.b.2W.ksp"
+  },
+  {
+    "timestamp": "2026-07-09T08:20:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-23",
+    "dias_estancia": 18,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet",
+      "Iberojet",
+      "Air Europa"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 22392,
+    "precio_desglose_mxn": {
+      "MX_EU": 5589,
+      "EU_BKK": 5458,
+      "BKK_EU": 5550,
+      "EU_MX": 5795
+    },
+    "fuente": "Iberojet CUN-MAD ~€302 ago5; Iberojet MAD-BKK €295 ago9; Iberojet BKK-MAD ~€300 est ago23; Air Europa MAD-CUN $305 ago25",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-bangkok-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-09T08:20:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-01",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa",
+      "Iberojet"
+    ],
+    "escalas": [
+      "directo CUN-MAD",
+      "directo MAD-BKK"
+    ],
+    "precio_total_mxn": 11253,
+    "precio_desglose_mxn": {
+      "MX_EU": 5795,
+      "EU_BKK": 5458,
+      "BKK_EU": null,
+      "EU_MX": null
+    },
+    "fuente": "Air Europa CUN-MAD $305 ago1; Iberojet MAD-BKK €295 ago3",
+    "verificado": false,
+    "link": "https://www.aireuropa.com/en-us/flight-deals-from-cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-09T08:20:00Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-01",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa"
+    ],
+    "escalas": [
+      "directo"
+    ],
+    "precio_total_mxn": 5795,
+    "fuente": "Air Europa CUN-MAD $305 USD x19 agosto temporada alta",
+    "verificado": false,
+    "link": "https://www.aireuropa.com/en-us/flight-deals-from-cancun-to-madrid"
+  },
+  {
+    "timestamp": "2026-07-09T08:20:00Z",
+    "rutina": "A",
+    "escenario": "E1",
+    "tipo": "IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "MAD",
+    "fecha_ida": "2026-08-06",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air Europa"
+    ],
+    "escalas": [
+      "directo"
+    ],
+    "precio_total_mxn": 5795,
+    "fuente": "Air Europa CUN-MAD $305 USD x19 agosto; ventana",
+    "verificado": false,
+    "link": "https://www.skyscanner.com.mx/rutas/cun/mad/cancun-a-madrid-barajas.html"
   }
 ]
