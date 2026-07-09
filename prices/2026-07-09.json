@@ -1798,5 +1798,262 @@
     "fuente": "ita-airways.com – ITA AZ758 FCO→BKK nonstop £304≈€355 confirmado ago 26",
     "verificado": false,
     "link": "https://www.ita-airways.com/lhg/it/en/o-d/cy-cy/rome-bangkok"
+  },
+  {
+    "timestamp": "2026-07-09T14:16:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "ninguna",
+      "ninguna"
+    ],
+    "precio_total_mxn": 11800,
+    "precio_desglose_mxn": {
+      "MX_EU": 5917,
+      "EU_BKK": 5883
+    },
+    "fuente": "E1 Iberojet QRO-MAD €320 ago5 + E4 Iberojet MAD-BKK €318 ago6 jue directo",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/"
+  },
+  {
+    "timestamp": "2026-07-09T14:16:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 16,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet",
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "ninguna",
+      "ninguna",
+      "ninguna",
+      "ninguna"
+    ],
+    "precio_total_mxn": 23983,
+    "precio_desglose_mxn": {
+      "MX_EU": 5917,
+      "EU_BKK": 5883,
+      "BKK_EU": 5058,
+      "EU_MX": 7125
+    },
+    "fuente": "Iberojet QRO-MAD €320 ago5; Iberojet MAD-BKK €318 ago6; Iberojet BKK-MAD €273 est ago21 jue; Iberojet MAD-QRO ~$375 est ago23",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/"
+  },
+  {
+    "timestamp": "2026-07-09T14:16:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet"
+    ],
+    "escalas": [
+      "ninguna",
+      "ninguna"
+    ],
+    "precio_total_mxn": 13530,
+    "precio_desglose_mxn": {
+      "MX_EU": 7647,
+      "EU_BKK": 5883
+    },
+    "fuente": "E1 Iberojet MEX-MAD ~€413 ago5 + E4 Iberojet MAD-BKK €318 ago6 jue",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/"
+  },
+  {
+    "timestamp": "2026-07-09T14:16:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "World2Fly",
+      "Iberojet"
+    ],
+    "escalas": [
+      "ninguna",
+      "ninguna"
+    ],
+    "precio_total_mxn": 13202,
+    "precio_desglose_mxn": {
+      "MX_EU": 7319,
+      "EU_BKK": 5883
+    },
+    "fuente": "Trip.com MEX-MAD cheapest MXN 7319 est ago (World2Fly/mejor tarifa); Iberojet MAD-BKK €318 ago6",
+    "verificado": false,
+    "link": "https://mx.trip.com/flights/mexico-city-to-madrid/airfares-mex-mad/"
+  },
+  {
+    "timestamp": "2026-07-09T14:16:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet",
+      "Iberojet",
+      "Iberojet",
+      "Air Europa"
+    ],
+    "escalas": [
+      "ninguna",
+      "ninguna",
+      "ninguna",
+      "ninguna"
+    ],
+    "precio_total_mxn": 25008,
+    "precio_desglose_mxn": {
+      "MX_EU": 7647,
+      "EU_BKK": 5883,
+      "BKK_EU": 5058,
+      "EU_MX": 6420
+    },
+    "fuente": "Iberojet MEX-MAD €413 ago5; Iberojet MAD-BKK €318 ago9 dom; Iberojet BKK-MAD €273 est ago21 jue; Air Europa MAD-MEX $337 ago22",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/"
+  },
+  {
+    "timestamp": "2026-07-09T14:16:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "British Airways",
+      "Turkish Airlines"
+    ],
+    "escalas": [
+      "ninguna",
+      "IST"
+    ],
+    "precio_total_mxn": 13350,
+    "precio_desglose_mxn": {
+      "MX_EU": 7430,
+      "EU_BKK": 5920
+    },
+    "fuente": "E1 British Airways MEX-LHR $391 ago5 + E4 Turkish Airlines LHR-BKK vía IST ago5-6",
+    "verificado": false,
+    "link": "https://www.britishairways.com/"
+  },
+  {
+    "timestamp": "2026-07-09T14:16:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Condor",
+      "Condor"
+    ],
+    "escalas": [
+      "ninguna",
+      "ninguna"
+    ],
+    "precio_total_mxn": 15076,
+    "precio_desglose_mxn": {
+      "MX_EU": 9341,
+      "EU_BKK": 5735
+    },
+    "fuente": "eDreams Condor CUN-FRA MXN 9341 est ago; E4 Condor FRA-BKK $302 ago5 directo",
+    "verificado": false,
+    "link": "https://www.condor.com/"
+  },
+  {
+    "timestamp": "2026-07-09T14:16:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM",
+      "KLM"
+    ],
+    "escalas": [
+      "ninguna",
+      "ninguna"
+    ],
+    "precio_total_mxn": 14436,
+    "precio_desglose_mxn": {
+      "MX_EU": 8436,
+      "EU_BKK": 6000
+    },
+    "fuente": "KAYAK CUN-AMS KLM ~$444 est ago peak; KLM AMS-BKK directo ~$316 est ago",
+    "verificado": false,
+    "link": "https://www.klm.com/"
+  },
+  {
+    "timestamp": "2026-07-09T14:16:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Virgin Atlantic",
+      "Turkish Airlines"
+    ],
+    "escalas": [
+      "ninguna",
+      "IST"
+    ],
+    "precio_total_mxn": 15420,
+    "precio_desglose_mxn": {
+      "MX_EU": 9500,
+      "EU_BKK": 5920
+    },
+    "fuente": "Expedia Virgin Atlantic CUN-LHR ~£496 est ago peak; E4 Turkish LHR-BKK vía IST 5920",
+    "verificado": false,
+    "link": "https://flights.virginatlantic.com/"
   }
 ]
