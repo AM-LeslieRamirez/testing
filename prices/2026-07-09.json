@@ -2055,5 +2055,486 @@
     "fuente": "Expedia Virgin Atlantic CUN-LHR ~£496 est ago peak; E4 Turkish LHR-BKK vía IST 5920",
     "verificado": false,
     "link": "https://flights.virginatlantic.com/"
+  },
+  {
+    "timestamp": "2026-07-09T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "World2Fly",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 12950,
+    "precio_desglose_mxn": {
+      "MX_EU": 7030,
+      "EU_BKK": 5920
+    },
+    "fuente": "WebSearch: World2Fly NLU-MAD ~€380 Aug (Trip.com); Iberojet MAD-BKK €320 Aug (iberojet.com, desde €318 one-way)",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-09T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-07",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "World2Fly",
+      "Iberojet"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 12950,
+    "precio_desglose_mxn": {
+      "MX_EU": 7030,
+      "EU_BKK": 5920
+    },
+    "fuente": "WebSearch: World2Fly NLU-MAD ~€380 Aug; Iberojet MAD-BKK €320 (Sun flight)",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-09T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "destino_eu": "MAD",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly",
+      "Iberojet",
+      "Iberojet",
+      "World2Fly"
+    ],
+    "escalas": [
+      "MAD"
+    ],
+    "precio_total_mxn": 25900,
+    "precio_desglose_mxn": {
+      "MX_EU": 7030,
+      "EU_BKK": 5920,
+      "BKK_EU": 6290,
+      "EU_MX": 6660
+    },
+    "fuente": "WebSearch: World2Fly NLU-MAD €380; Iberojet MAD-BKK €320; Iberojet BKK-MAD €340; World2Fly MAD-NLU €360 Aug est",
+    "verificado": false,
+    "link": "https://www.iberojet.com/en/flights-from-madrid-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-09T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Lufthansa",
+      "Lufthansa"
+    ],
+    "escalas": [
+      "FRA"
+    ],
+    "precio_total_mxn": 19190,
+    "precio_desglose_mxn": {
+      "MX_EU": 10640,
+      "EU_BKK": 8550
+    },
+    "fuente": "WebSearch: Lufthansa MEX-FRA ~$560 Aug high season (Expedia base $453, LH page MXN 14,995 est RT/OW); LH FRA-BKK $450 (Expedia from $403 + Aug premium)",
+    "verificado": false,
+    "link": "https://www.lufthansa.com/lhg/mx/es/o-d/cy-cy/ciudad-de-mexico-francfort"
+  },
+  {
+    "timestamp": "2026-07-09T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Lufthansa",
+      "Lufthansa",
+      "Lufthansa",
+      "Lufthansa"
+    ],
+    "escalas": [
+      "FRA"
+    ],
+    "precio_total_mxn": 38760,
+    "precio_desglose_mxn": {
+      "MX_EU": 10640,
+      "EU_BKK": 8550,
+      "BKK_EU": 9120,
+      "EU_MX": 10450
+    },
+    "fuente": "WebSearch: LH MEX-FRA $560; LH FRA-BKK $450; LH BKK-FRA $480 est; LH FRA-MEX $550 Aug est",
+    "verificado": false,
+    "link": "https://www.lufthansa.com/lhg/mx/es/o-d/cy-cy/ciudad-de-mexico-francfort"
+  },
+  {
+    "timestamp": "2026-07-09T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Turkish Airlines"
+    ],
+    "escalas": [
+      "FCO",
+      "IST"
+    ],
+    "precio_total_mxn": 17100,
+    "precio_desglose_mxn": {
+      "MX_EU": 9880,
+      "EU_BKK": 7220
+    },
+    "fuente": "WebSearch: Aeromexico MEX-FCO ~$520 Aug (RT from MXN 17,587 → one-way ~$460-520); Turkish FCO-IST-BKK ~$380 Aug",
+    "verificado": false,
+    "link": "https://www.aeromexico.com/en_us/flights-from-mexico-city-to-rome"
+  },
+  {
+    "timestamp": "2026-07-09T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air France",
+      "Air France"
+    ],
+    "escalas": [
+      "CDG"
+    ],
+    "precio_total_mxn": 16720,
+    "precio_desglose_mxn": {
+      "MX_EU": 7220,
+      "EU_BKK": 9500
+    },
+    "fuente": "WebSearch: Air France CUN-CDG 3x/week nonstop ~$380 Aug (Expedia from $288 base); AF CDG-BKK nonstop ~$500 Aug (from $444 Expedia, 32% Aug premium)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/cun/cdg/cancun-to-paris"
+  },
+  {
+    "timestamp": "2026-07-09T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Neos",
+      "Turkish Airlines"
+    ],
+    "escalas": [
+      "FCO",
+      "IST"
+    ],
+    "precio_total_mxn": 15010,
+    "precio_desglose_mxn": {
+      "MX_EU": 7790,
+      "EU_BKK": 7220
+    },
+    "fuente": "WebSearch: Neos CUN-FCO direct 10.5h ~$410 Aug (KAYAK from $363-387 one-way); Turkish FCO-IST-BKK ~$380 Aug",
+    "verificado": false,
+    "link": "https://www.skyscanner.net/routes/cun/rome/cancun-to-rome.html"
+  },
+  {
+    "timestamp": "2026-07-09T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "KLM",
+      "KLM"
+    ],
+    "escalas": [
+      "MEX",
+      "AMS"
+    ],
+    "precio_total_mxn": 16910,
+    "precio_desglose_mxn": {
+      "MX_EU": 9310,
+      "EU_BKK": 7600
+    },
+    "fuente": "WebSearch: KLM QRO-AMS via MEX ~$490 Aug est; KLM AMS-BKK nonstop ~$400 Aug (from $326-343 Expedia, Aug premium)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/ams/bkk/amsterdam-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-09T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Lufthansa",
+      "Lufthansa"
+    ],
+    "escalas": [
+      "MEX",
+      "FRA"
+    ],
+    "precio_total_mxn": 18240,
+    "precio_desglose_mxn": {
+      "MX_EU": 9690,
+      "EU_BKK": 8550
+    },
+    "fuente": "WebSearch: Lufthansa QRO-FRA via MEX ~$510 Aug est; LH FRA-BKK $450 (Expedia from $403 + Aug premium)",
+    "verificado": false,
+    "link": "https://www.lufthansa.com/lhg/mx/es/o-d/cy-cy/ciudad-de-mexico-francfort"
+  },
+  {
+    "timestamp": "2026-07-09T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "LHR",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "British Airways",
+      "Turkish Airlines"
+    ],
+    "escalas": [
+      "MEX",
+      "LHR",
+      "IST"
+    ],
+    "precio_total_mxn": 17100,
+    "precio_desglose_mxn": {
+      "MX_EU": 9880,
+      "EU_BKK": 7220
+    },
+    "fuente": "WebSearch: BA QRO-LHR via MEX ~$520 Aug est; Turkish LHR-IST-BKK ~$380 Aug",
+    "verificado": false,
+    "link": "https://www.britishairways.com/en-us/flights/flights-and-holidays/flight-deals"
+  },
+  {
+    "timestamp": "2026-07-09T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Air France",
+      "Air France"
+    ],
+    "escalas": [
+      "MEX",
+      "CDG"
+    ],
+    "precio_total_mxn": 19190,
+    "precio_desglose_mxn": {
+      "MX_EU": 9690,
+      "EU_BKK": 9500
+    },
+    "fuente": "WebSearch: Air France QRO-CDG via MEX ~$510 Aug est; AF CDG-BKK ~$500 Aug nonstop",
+    "verificado": false,
+    "link": "https://www.airfrance.com.mx"
+  },
+  {
+    "timestamp": "2026-07-09T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_eu": "FCO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Turkish Airlines"
+    ],
+    "escalas": [
+      "MEX",
+      "FCO",
+      "IST"
+    ],
+    "precio_total_mxn": 17480,
+    "precio_desglose_mxn": {
+      "MX_EU": 10260,
+      "EU_BKK": 7220
+    },
+    "fuente": "WebSearch: Aeromexico QRO-FCO via MEX ~$540 Aug est; Turkish FCO-IST-BKK ~$380 Aug",
+    "verificado": false,
+    "link": "https://www.aeromexico.com/en_us/flights-from-mexico-to-rome"
+  },
+  {
+    "timestamp": "2026-07-09T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air France",
+      "Air France",
+      "Air France",
+      "Air France"
+    ],
+    "escalas": [
+      "CDG"
+    ],
+    "precio_total_mxn": 38950,
+    "precio_desglose_mxn": {
+      "MX_EU": 9500,
+      "EU_BKK": 9500,
+      "BKK_EU": 9500,
+      "EU_MX": 10450
+    },
+    "fuente": "WebSearch: AF MEX-CDG ~$500; AF CDG-BKK ~$500; AF BKK-CDG ~$500; AF CDG-MEX ~$550 Aug est",
+    "verificado": false,
+    "link": "https://www.airfrance.com.mx"
+  },
+  {
+    "timestamp": "2026-07-09T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "KLM",
+      "KLM",
+      "KLM",
+      "KLM"
+    ],
+    "escalas": [
+      "AMS"
+    ],
+    "precio_total_mxn": 35150,
+    "precio_desglose_mxn": {
+      "MX_EU": 9500,
+      "EU_BKK": 7600,
+      "BKK_EU": 7600,
+      "EU_MX": 10450
+    },
+    "fuente": "WebSearch: KLM MEX-AMS ~$500; KLM AMS-BKK ~$400; KLM BKK-AMS ~$400; KLM AMS-MEX ~$550 Aug est",
+    "verificado": false,
+    "link": "https://www.klm.com/en-us/flights-to-bangkok"
+  },
+  {
+    "timestamp": "2026-07-09T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "FRA",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-04",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 18,
+    "aerolineas": [
+      "Condor",
+      "Lufthansa",
+      "Lufthansa",
+      "Condor"
+    ],
+    "escalas": [
+      "FRA"
+    ],
+    "precio_total_mxn": 33230,
+    "precio_desglose_mxn": {
+      "MX_EU": 7600,
+      "EU_BKK": 8550,
+      "BKK_EU": 9120,
+      "EU_MX": 7960
+    },
+    "fuente": "WebSearch: Condor CUN-FRA ~$400 Aug; LH FRA-BKK ~$450; LH BKK-FRA ~$480; Condor FRA-CUN ~$419 Aug est",
+    "verificado": false,
+    "link": "https://www.condor.com"
+  },
+  {
+    "timestamp": "2026-07-09T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "destino_eu": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "KLM",
+      "KLM",
+      "KLM",
+      "KLM"
+    ],
+    "escalas": [
+      "AMS"
+    ],
+    "precio_total_mxn": 30554,
+    "precio_desglose_mxn": {
+      "MX_EU": 7600,
+      "EU_BKK": 7600,
+      "BKK_EU": 7600,
+      "EU_MX": 7754
+    },
+    "fuente": "WebSearch: KLM CUN-AMS ~$400; KLM AMS-BKK ~$400; KLM BKK-AMS ~$400; KLM AMS-CUN ~$408 Aug est",
+    "verificado": false,
+    "link": "https://www.klm.com/en-us/flights-to-bangkok"
   }
 ]
