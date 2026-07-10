@@ -1,42 +1,57 @@
 {
+  "version": "v5",
+  "actualizado": "2026-07-06",
+  "ventana": {
+    "ida_desde": "2026-08-01",
+    "ida_hasta": "2026-08-30",
+    "estancia_dias_min": 15,
+    "estancia_dias_max": 19,
+    "vuelta_desde": "2026-08-16",
+    "vuelta_hasta": "2026-09-18"
+  },
+  "ruta_requerida": "MX -> MAD (escala obligatoria) -> BKK (via directo MAD-BKK, o via otra ciudad EU, o via tren MAD->otra EU + vuelo)",
+  "aeropuertos_origen_mx": ["MEX", "NLU", "CUN", "QRO"],
+  "destinos_eu_intermedios": ["MAD", "BCN", "CDG", "AMS", "FRA", "LHR", "FCO", "BRU", "ZRH", "MUC"],
+  "regla_dura": "PROHIBIDO escalas en EE.UU. Solo directos o escalas LATAM/Europa/Asia/Mid-East.",
   "E1_ida_mx_a_europa": {
     "MAD": { "threshold_mxn": 6500, "urgent_mxn": 5200 },
-    "CDG": { "threshold_mxn": 7500, "urgent_mxn": 6000 },
-    "AMS": { "threshold_mxn": 7500, "urgent_mxn": 6000 },
-    "FRA": { "threshold_mxn": 7500, "urgent_mxn": 6000 },
-    "LHR": { "threshold_mxn": 7500, "urgent_mxn": 6000 },
-    "FCO": { "threshold_mxn": 7500, "urgent_mxn": 6000 }
+    "otros_EU": { "threshold_mxn": 7500, "urgent_mxn": 6000 }
   },
   "E2_vuelta_europa_a_mx": {
     "threshold_mxn": 7000,
     "urgent_mxn": 5600
   },
-  "E3_redondo_mx_europa": {
+  "E3_redondo_mx_europa_stopover_MAD": {
     "MAD": { "threshold_mxn": 13000, "urgent_mxn": 10400 },
-    "OTROS_EU": { "threshold_mxn": 15000, "urgent_mxn": 12000 }
+    "otros_EU": { "threshold_mxn": 15000, "urgent_mxn": 12000 }
   },
   "E4_tramo_europa_bkk": {
-    "threshold_eur": 250,
-    "urgent_eur": 200,
-    "threshold_mxn_aprox": 4625,
-    "urgent_mxn_aprox": 3700
+    "threshold_eur": 280,
+    "urgent_eur": 220,
+    "threshold_mxn_aprox": 5180,
+    "urgent_mxn_aprox": 4070
   },
-  "E5_combo_completo_mx_bkk": {
+  "E5_combo_completo_mx_mad_bkk": {
     "ida_threshold_mxn": 13000,
     "ida_urgent_mxn": 10400,
-    "rt_threshold_mxn": 28000,
-    "rt_urgent_mxn": 22400
+    "rt_threshold_mxn": 24000,
+    "rt_urgent_mxn": 20000,
+    "nota": "Todos los combos DEBEN pasar por MAD como escala. Estancia total en Europa+BKK entre 15-19 dias."
   },
-  "notas": {
-    "version": "v4",
-    "actualizado": "2026-06-29",
-    "fechas_objetivo": {
-      "ida": "2026-08-05 (±4 días, ventana 1-9 ago)",
-      "vuelta": "2026-08-22 (±4 días, ventana 18-26 ago)",
-      "estancia_ideal_dias": 17
-    },
-    "aeropuertos_origen_mx": ["MEX", "NLU", "CUN", "QRO"],
-    "destinos_europa_validos": ["MAD", "CDG", "AMS", "FRA", "LHR", "FCO"],
-    "regla_dura": "PROHIBIDO escalas en EE.UU. (visa/ESTA). Solo directos o escalas LATAM/Europa/Asia/Mid-East."
+  "E6_tren_madrid_a_europa": {
+    "threshold_eur": 150,
+    "urgent_eur": 100,
+    "nota": "Renfe AVE / Eurostar / TGV / Trenitalia. Usar para combos MX -> MAD -> tren -> otra_EU -> BKK.",
+    "rutas_tren_relevantes": {
+      "MAD-BCN": "Renfe AVE ~2h30",
+      "MAD-PAR": "TGV via Barcelona ~12h (o vuelo)",
+      "MAD-LIS": "vuelo mas barato que tren"
+    }
+  },
+  "reglas_email": {
+    "formato": "TL;DR con top 3 ofertones al inicio + tabla resumen debajo + seccion de fantasmas descartados",
+    "top_3": "Precio, ruta corta, fechas concretas, aerolineas, LINK PUNTUAL con fechas pre-cargadas",
+    "fantasmas": "Descartar/marcar precios <50% del baseline o <30% del min historico. Nombrar razon.",
+    "links_puntuales": "Usar formato Skyscanner /YYMMDD/ y Google Flights con fecha. NO paginas de ruta genericas."
   }
 }
