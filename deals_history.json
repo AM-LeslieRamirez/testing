@@ -107,5 +107,28 @@
     "min_combo_ida_mxn": 11047,
     "urgent_count": 3,
     "notes": "3 COMBO_RT urgente (<22400): CUN-MAD via Iberojet. IDA LHR $7430 (verificar). IDA MAD $5023 NLU (incertidumbre). VUELTA MAD $6420. RT CUN-MAD $11590."
+  },
+  {
+    "date": "2026-07-12",
+    "total_entries": 80,
+    "top3_prices_mxn": [20531, 22135, 4970],
+    "min_combo_rt_mxn": 20531,
+    "min_combo_ida_mxn": 11058,
+    "ghosts_discarded": 0,
+    "urgent_count": 5,
+    "deals_under_threshold": 46,
+    "details": {
+      "combo_rt_urgente": 0,
+      "combo_ida_urgente": 0,
+      "e1_urgente": 2,
+      "e2_urgente": 1,
+      "e6_tren_urgente": 2,
+      "min_e1_mad_mxn": 4970,
+      "min_e2_mxn": 5547,
+      "min_e3_mad_mxn": 11042,
+      "min_e4_eur": 291,
+      "min_global_mxn": 4970,
+      "nota": "Mejor COMBO_RT dia: CUN-BKK-CUN ago-12/ago-28 $20531 (World2Fly charter vuelta a verificar). Mejor E1 URGENT: NLU-MAD World2Fly $4970 ago-07."
+    }
   }
 ]
