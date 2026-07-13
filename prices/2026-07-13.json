@@ -13121,5 +13121,978 @@
     "fuente": "Renfe + SNCF Connect / Omio",
     "verificado": false,
     "link": "https://www.sncf-connect.com/en-en/train/route/barcelona/paris"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 18,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260803/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/mex/260803/260821/",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "aerolineas": [
+      "Aeromexico",
+      "Air France",
+      "Air France",
+      "Aeromexico"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 8778,
+      "MAD_BKK": 6198,
+      "BKK_MAD": 5402,
+      "MAD_MX": 4715
+    },
+    "precio_total_mxn": 25093,
+    "fuente": "Aeromexico MEX-MAD directo; Air France MAD-CDG-BKK; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 18,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260803/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/mex/260803/260821/",
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "aerolineas": [
+      "Aeromexico",
+      "Turkish Airlines",
+      "Turkish Airlines",
+      "Aeromexico"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 8778,
+      "MAD_IST": 2405,
+      "IST_BKK": 4163,
+      "BKK_IST": 4533,
+      "IST_MAD": 2405,
+      "MAD_MX": 4715
+    },
+    "precio_total_mxn": 26999,
+    "fuente": "Aeromexico MEX-MAD; Turkish IST legs; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 18,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260803/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/mex/260803/260821/",
+    "via": "MAD_via_FRA",
+    "segundos_EU": "FRA",
+    "aerolineas": [
+      "Aeromexico",
+      "Lufthansa",
+      "Lufthansa",
+      "Aeromexico"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 8778,
+      "MAD_FRA": 2035,
+      "FRA_BKK": 6198,
+      "BKK_FRA": 6198,
+      "FRA_MAD": 2035,
+      "MAD_MX": 4715
+    },
+    "precio_total_mxn": 29959,
+    "fuente": "Aeromexico MEX-MAD; Lufthansa FRA legs; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 18,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260803/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/mex/260803/260821/",
+    "via": "MAD_via_LHR",
+    "segundos_EU": "LHR",
+    "aerolineas": [
+      "Aeromexico",
+      "British Airways",
+      "British Airways",
+      "Aeromexico"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 8778,
+      "MAD_LHR": 1665,
+      "LHR_BKK": 8410,
+      "BKK_LHR": 8025,
+      "LHR_MAD": 1665,
+      "MAD_MX": 4715
+    },
+    "precio_total_mxn": 33258,
+    "fuente": "Aeromexico MEX-MAD; British Airways LHR legs; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260803/",
+    "link_vuelta": null,
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "aerolineas": [
+      "Aeromexico",
+      "Air France"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 8778,
+      "MAD_BKK": 6198
+    },
+    "precio_total_mxn": 14976,
+    "fuente": "Aeromexico MEX-MAD; Air France MAD-CDG-BKK; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260803/",
+    "link_vuelta": null,
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "aerolineas": [
+      "Aeromexico",
+      "Turkish Airlines"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 8778,
+      "MAD_IST": 2405,
+      "IST_BKK": 4163
+    },
+    "precio_total_mxn": 15346,
+    "fuente": "Aeromexico MEX-MAD; Turkish Airlines IST-BKK; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260803/",
+    "link_vuelta": null,
+    "via": "MAD_via_FRA",
+    "segundos_EU": "FRA",
+    "aerolineas": [
+      "Aeromexico",
+      "Lufthansa"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 8778,
+      "MAD_FRA": 2035,
+      "FRA_BKK": 6198
+    },
+    "precio_total_mxn": 17011,
+    "fuente": "Aeromexico MEX-MAD; Lufthansa FRA-BKK; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260803/",
+    "link_vuelta": null,
+    "via": "MAD_via_LHR",
+    "segundos_EU": "LHR",
+    "aerolineas": [
+      "Aeromexico",
+      "British Airways"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 8778,
+      "MAD_LHR": 1665,
+      "LHR_BKK": 8410
+    },
+    "precio_total_mxn": 18853,
+    "fuente": "Aeromexico MEX-MAD; British Airways LHR-BKK; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 18,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260803/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/nlu/260803/260821/",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "aerolineas": [
+      "World2Fly",
+      "Air France",
+      "Air France",
+      "World2Fly"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 7354,
+      "MAD_CDG": 2164,
+      "CDG_BKK": 4034,
+      "BKK_CDG": 3238,
+      "CDG_MAD": 2164,
+      "MAD_MX": 3108
+    },
+    "precio_total_mxn": 22062,
+    "fuente": "World2Fly NLU-MAD; Air France CDG legs; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 18,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260803/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/nlu/260803/260821/",
+    "via": "MAD_via_AMS",
+    "segundos_EU": "AMS",
+    "aerolineas": [
+      "World2Fly",
+      "KLM",
+      "KLM",
+      "World2Fly"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 7354,
+      "MAD_AMS": 1850,
+      "AMS_BKK": 4533,
+      "BKK_AMS": 4533,
+      "AMS_MAD": 1850,
+      "MAD_MX": 3108
+    },
+    "precio_total_mxn": 23228,
+    "fuente": "World2Fly NLU-MAD; KLM AMS legs; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 18,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260803/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/nlu/260803/260821/",
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "aerolineas": [
+      "World2Fly",
+      "Turkish Airlines",
+      "Turkish Airlines",
+      "World2Fly"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 7354,
+      "MAD_IST": 2405,
+      "IST_BKK": 4163,
+      "BKK_IST": 4533,
+      "IST_MAD": 2405,
+      "MAD_MX": 3108
+    },
+    "precio_total_mxn": 23968,
+    "fuente": "World2Fly NLU-MAD; Turkish IST legs; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 18,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260803/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/nlu/260803/260821/",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "aerolineas": [
+      "World2Fly",
+      "Iberojet",
+      "Iberojet",
+      "World2Fly"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 7354,
+      "MAD_BKK": 7123,
+      "BKK_MAD": 6753,
+      "MAD_MX": 3108
+    },
+    "precio_total_mxn": 24338,
+    "fuente": "World2Fly NLU-MAD; Iberojet directo jue/dom; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 18,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260803/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/nlu/260803/260821/",
+    "via": "MAD_via_FRA",
+    "segundos_EU": "FRA",
+    "aerolineas": [
+      "World2Fly",
+      "Lufthansa",
+      "Lufthansa",
+      "World2Fly"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 7354,
+      "MAD_FRA": 2035,
+      "FRA_BKK": 6198,
+      "BKK_FRA": 6198,
+      "FRA_MAD": 2035,
+      "MAD_MX": 3108
+    },
+    "precio_total_mxn": 26928,
+    "fuente": "World2Fly NLU-MAD; Lufthansa FRA legs; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 18,
+    "tren_segmento": "MAD-BCN Renfe AVE ~65 EUR 2h30",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260803/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/nlu/260803/260821/",
+    "via": "MAD_tren_BCN",
+    "segundos_EU": "BCN",
+    "aerolineas": [
+      "World2Fly",
+      "Renfe AVE",
+      "Thai Airways",
+      "Thai Airways",
+      "Renfe AVE",
+      "World2Fly"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 7354,
+      "MAD_BCN_tren": 1202,
+      "BCN_BKK": 7678,
+      "BKK_BCN": 7493,
+      "BCN_MAD_tren": 1202,
+      "MAD_MX": 3108
+    },
+    "precio_total_mxn": 28037,
+    "fuente": "World2Fly NLU-MAD; Renfe AVE MAD-BCN; Thai Airways BCN-BKK; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260803/",
+    "link_vuelta": null,
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "aerolineas": [
+      "World2Fly",
+      "Air France"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 7354,
+      "MAD_CDG": 2164,
+      "CDG_BKK": 4034
+    },
+    "precio_total_mxn": 13552,
+    "fuente": "World2Fly NLU-MAD; MAD_via_CDG interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260803/",
+    "link_vuelta": null,
+    "via": "MAD_via_AMS",
+    "segundos_EU": "AMS",
+    "aerolineas": [
+      "World2Fly",
+      "KLM"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 7354,
+      "MAD_AMS": 1850,
+      "AMS_BKK": 4533
+    },
+    "precio_total_mxn": 13737,
+    "fuente": "World2Fly NLU-MAD; MAD_via_AMS interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260803/",
+    "link_vuelta": null,
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "aerolineas": [
+      "World2Fly",
+      "Turkish Airlines"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 7354,
+      "MAD_IST": 2405,
+      "IST_BKK": 4163
+    },
+    "precio_total_mxn": 13922,
+    "fuente": "World2Fly NLU-MAD; MAD_via_IST interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260803/",
+    "link_vuelta": null,
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "aerolineas": [
+      "World2Fly",
+      "Iberojet"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 7354,
+      "MAD_BKK": 7123
+    },
+    "precio_total_mxn": 14477,
+    "fuente": "World2Fly NLU-MAD; MAD_DIRECT interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260803/",
+    "link_vuelta": null,
+    "via": "MAD_via_FRA",
+    "segundos_EU": "FRA",
+    "aerolineas": [
+      "World2Fly",
+      "Lufthansa"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 7354,
+      "MAD_FRA": 2035,
+      "FRA_BKK": 6198
+    },
+    "precio_total_mxn": 15587,
+    "fuente": "World2Fly NLU-MAD; MAD_via_FRA interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "tren_segmento": "MAD-BCN Renfe AVE ~65 EUR 2h30",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260803/",
+    "link_vuelta": null,
+    "via": "MAD_tren_BCN",
+    "segundos_EU": "BCN",
+    "aerolineas": [
+      "World2Fly",
+      "Renfe AVE",
+      "Thai Airways"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 7354,
+      "MAD_BCN_tren": 1202,
+      "BCN_BKK": 7678
+    },
+    "precio_total_mxn": 16234,
+    "fuente": "World2Fly NLU-MAD; MAD_tren_BCN interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 18,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260803/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/qro/260803/260821/",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "aerolineas": [
+      "Aeromexico",
+      "Air France",
+      "Air France",
+      "Aeromexico"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 9020,
+      "MAD_CDG": 2164,
+      "CDG_BKK": 4034,
+      "BKK_CDG": 3238,
+      "CDG_MAD": 2164,
+      "MAD_MX": 8268
+    },
+    "precio_total_mxn": 28888,
+    "fuente": "Aeromexico QRO-MAD; MAD_via_CDG; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 18,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260803/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/qro/260803/260821/",
+    "via": "MAD_via_AMS",
+    "segundos_EU": "AMS",
+    "aerolineas": [
+      "Aeromexico",
+      "KLM",
+      "KLM",
+      "Aeromexico"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 9020,
+      "MAD_AMS": 1850,
+      "AMS_BKK": 4533,
+      "BKK_AMS": 4533,
+      "AMS_MAD": 1850,
+      "MAD_MX": 8268
+    },
+    "precio_total_mxn": 30054,
+    "fuente": "Aeromexico QRO-MAD; MAD_via_AMS; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 18,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260803/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/qro/260803/260821/",
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "aerolineas": [
+      "Aeromexico",
+      "Turkish Airlines",
+      "Turkish Airlines",
+      "Aeromexico"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 9020,
+      "MAD_IST": 2405,
+      "IST_BKK": 4163,
+      "BKK_IST": 4533,
+      "IST_MAD": 2405,
+      "MAD_MX": 8268
+    },
+    "precio_total_mxn": 30794,
+    "fuente": "Aeromexico QRO-MAD; MAD_via_IST; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 18,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260803/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/qro/260803/260821/",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet",
+      "Iberojet",
+      "Aeromexico"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 9020,
+      "MAD_BKK": 7123,
+      "BKK_MAD": 6753,
+      "MAD_MX": 8268
+    },
+    "precio_total_mxn": 31164,
+    "fuente": "Aeromexico QRO-MAD; MAD_DIRECT; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 18,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260803/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/qro/260803/260821/",
+    "via": "MAD_via_FRA",
+    "segundos_EU": "FRA",
+    "aerolineas": [
+      "Aeromexico",
+      "Lufthansa",
+      "Lufthansa",
+      "Aeromexico"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 9020,
+      "MAD_FRA": 2035,
+      "FRA_BKK": 6198,
+      "BKK_FRA": 6198,
+      "FRA_MAD": 2035,
+      "MAD_MX": 8268
+    },
+    "precio_total_mxn": 33754,
+    "fuente": "Aeromexico QRO-MAD; MAD_via_FRA; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 18,
+    "tren_segmento": "MAD-BCN Renfe AVE ~65 EUR 2h30",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260803/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/qro/260803/260821/",
+    "via": "MAD_tren_BCN",
+    "segundos_EU": "BCN",
+    "aerolineas": [
+      "Aeromexico",
+      "Renfe AVE",
+      "Thai Airways",
+      "Thai Airways",
+      "Renfe AVE",
+      "Aeromexico"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 9020,
+      "MAD_BCN_tren": 1202,
+      "BCN_BKK": 7678,
+      "BKK_BCN": 7493,
+      "BCN_MAD_tren": 1202,
+      "MAD_MX": 8268
+    },
+    "precio_total_mxn": 34863,
+    "fuente": "Aeromexico QRO-MAD; MAD_tren_BCN; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260803/",
+    "link_vuelta": null,
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "aerolineas": [
+      "Aeromexico",
+      "Air France"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 9020,
+      "MAD_CDG": 2164,
+      "CDG_BKK": 4034
+    },
+    "precio_total_mxn": 15218,
+    "fuente": "Aeromexico QRO-MAD; MAD_via_CDG; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260803/",
+    "link_vuelta": null,
+    "via": "MAD_via_AMS",
+    "segundos_EU": "AMS",
+    "aerolineas": [
+      "Aeromexico",
+      "KLM"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 9020,
+      "MAD_AMS": 1850,
+      "AMS_BKK": 4533
+    },
+    "precio_total_mxn": 15403,
+    "fuente": "Aeromexico QRO-MAD; MAD_via_AMS; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260803/",
+    "link_vuelta": null,
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "aerolineas": [
+      "Aeromexico",
+      "Turkish Airlines"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 9020,
+      "MAD_IST": 2405,
+      "IST_BKK": 4163
+    },
+    "precio_total_mxn": 15588,
+    "fuente": "Aeromexico QRO-MAD; MAD_via_IST; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260803/",
+    "link_vuelta": null,
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 9020,
+      "MAD_BKK": 7123
+    },
+    "precio_total_mxn": 16143,
+    "fuente": "Aeromexico QRO-MAD; MAD_DIRECT; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "tren_segmento": null,
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260803/",
+    "link_vuelta": null,
+    "via": "MAD_via_FRA",
+    "segundos_EU": "FRA",
+    "aerolineas": [
+      "Aeromexico",
+      "Lufthansa"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 9020,
+      "MAD_FRA": 2035,
+      "FRA_BKK": 6198
+    },
+    "precio_total_mxn": 17253,
+    "fuente": "Aeromexico QRO-MAD; MAD_via_FRA; interpolado ago-03"
+  },
+  {
+    "timestamp": "2026-07-13T20:02:35Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-03",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "tren_segmento": "MAD-BCN Renfe AVE ~65 EUR 2h30",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260803/",
+    "link_vuelta": null,
+    "via": "MAD_tren_BCN",
+    "segundos_EU": "BCN",
+    "aerolineas": [
+      "Aeromexico",
+      "Renfe AVE",
+      "Thai Airways"
+    ],
+    "precio_desglose_mxn": {
+      "MX_MAD": 9020,
+      "MAD_BCN_tren": 1202,
+      "BCN_BKK": 7678
+    },
+    "precio_total_mxn": 17900,
+    "fuente": "Aeromexico QRO-MAD; MAD_tren_BCN; interpolado ago-03"
   }
 ]
