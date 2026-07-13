@@ -1,266 +1,265 @@
 {
-  "last_updated": "2026-07-06",
+  "last_updated": "2026-07-13",
   "days_included": [
-    "2026-06-30",
-    "2026-07-01",
-    "2026-07-02",
-    "2026-07-03",
-    "2026-07-04",
-    "2026-07-05",
-    "2026-07-06"
+    "2026-07-07",
+    "2026-07-08",
+    "2026-07-09",
+    "2026-07-10",
+    "2026-07-12",
+    "2026-07-13"
   ],
-  "note": "7 dias de datos: 2026-06-30 al 2026-07-06",
+  "note": "7 dias de datos: 2026-07-07 al 2026-07-13",
   "averages_7d": {
+    "E1_ida_dest_?": {
+      "avg": 7678.4,
+      "min": 4970,
+      "max": 14995,
+      "n": 97,
+      "unit": "mxn"
+    },
     "E1_ida_dest_AMS": {
-      "avg": 9617.9,
-      "min": 5054,
-      "max": 18598,
-      "n": 37,
+      "avg": 7299.5,
+      "min": 6424,
+      "max": 8260,
+      "n": 4,
+      "unit": "mxn"
+    },
+    "E1_ida_dest_BCN": {
+      "avg": 8342,
+      "min": 8342,
+      "max": 8342,
+      "n": 1,
       "unit": "mxn"
     },
     "E1_ida_dest_CDG": {
-      "avg": 9950.2,
-      "min": 5054,
-      "max": 20786,
-      "n": 36,
+      "avg": 7964,
+      "min": 6054,
+      "max": 10076,
+      "n": 3,
       "unit": "mxn"
     },
     "E1_ida_dest_FCO": {
-      "avg": 10759.3,
-      "min": 5890,
-      "max": 29868,
-      "n": 27,
-      "unit": "mxn"
-    },
-    "E1_ida_dest_FRA": {
-      "avg": 10791.1,
-      "min": 5975,
-      "max": 19283,
-      "n": 29,
+      "avg": 15380.5,
+      "min": 7638,
+      "max": 23123,
+      "n": 2,
       "unit": "mxn"
     },
     "E1_ida_dest_LHR": {
-      "avg": 9759.8,
-      "min": 6308,
-      "max": 16936,
-      "n": 36,
+      "avg": 8158.3,
+      "min": 7216,
+      "max": 9550,
+      "n": 3,
       "unit": "mxn"
     },
     "E1_ida_dest_MAD": {
-      "avg": 7170.9,
-      "min": 3781,
-      "max": 13540,
-      "n": 131,
+      "avg": 6553.9,
+      "min": 5337,
+      "max": 8100,
+      "n": 16,
       "unit": "mxn"
     },
-    "E2_vuelta_dest_AMS": {
-      "avg": 10525.4,
-      "min": 6612,
-      "max": 17594,
-      "n": 20,
-      "unit": "mxn"
-    },
-    "E2_vuelta_dest_CDG": {
-      "avg": 10183.3,
-      "min": 6802,
-      "max": 15200,
-      "n": 24,
-      "unit": "mxn"
-    },
-    "E2_vuelta_dest_FCO": {
-      "avg": 11139.6,
-      "min": 7391,
+    "E2_vuelta_dest_?": {
+      "avg": 9888.2,
+      "min": 4496,
       "max": 18907,
-      "n": 16,
+      "n": 43,
       "unit": "mxn"
     },
-    "E2_vuelta_dest_FRA": {
-      "avg": 11366.7,
-      "min": 5735,
-      "max": 22116,
-      "n": 18,
-      "unit": "mxn"
-    },
-    "E2_vuelta_dest_LHR": {
-      "avg": 10637.5,
-      "min": 7030,
-      "max": 14060,
-      "n": 20,
-      "unit": "mxn"
-    },
-    "E2_vuelta_dest_MAD": {
-      "avg": 7899.3,
+    "E2_vuelta_dest_CUN": {
+      "avg": 7027.7,
       "min": 5032,
-      "max": 17998,
-      "n": 46,
-      "unit": "mxn"
-    },
-    "E3_rt_dest_AMS": {
-      "avg": 17796.0,
-      "min": 14818,
-      "max": 22971,
-      "n": 21,
-      "unit": "mxn"
-    },
-    "E3_rt_dest_CDG": {
-      "avg": 16937.5,
-      "min": 12236,
-      "max": 23237,
-      "n": 15,
-      "unit": "mxn"
-    },
-    "E3_rt_dest_FCO": {
-      "avg": 18084.1,
-      "min": 12597,
-      "max": 39235,
-      "n": 9,
-      "unit": "mxn"
-    },
-    "E3_rt_dest_FRA": {
-      "avg": 16662.2,
-      "min": 11840,
-      "max": 22116,
-      "n": 10,
-      "unit": "mxn"
-    },
-    "E3_rt_dest_LHR": {
-      "avg": 19437.6,
-      "min": 13566,
-      "max": 27417,
-      "n": 12,
-      "unit": "mxn"
-    },
-    "E3_rt_dest_MAD": {
-      "avg": 14027.1,
-      "min": 7562,
-      "max": 22780,
-      "n": 66,
-      "unit": "mxn"
-    },
-    "E4_tramo_desde_AMS": {
-      "avg": 368.6,
-      "min": 280,
-      "max": 500,
-      "n": 16,
-      "unit": "eur"
-    },
-    "E4_tramo_desde_CDG": {
-      "avg": 437.4,
-      "min": 317,
-      "max": 915,
-      "n": 18,
-      "unit": "eur"
-    },
-    "E4_tramo_desde_FCO": {
-      "avg": 489.3,
-      "min": 228,
-      "max": 699,
-      "n": 10,
-      "unit": "eur"
-    },
-    "E4_tramo_desde_FRA": {
-      "avg": 462.4,
-      "min": 310,
-      "max": 645,
-      "n": 17,
-      "unit": "eur"
-    },
-    "E4_tramo_desde_LHR": {
-      "avg": 429.4,
-      "min": 348,
-      "max": 670,
-      "n": 17,
-      "unit": "eur"
-    },
-    "E4_tramo_desde_MAD": {
-      "avg": 406.2,
-      "min": 300,
-      "max": 668,
-      "n": 18,
-      "unit": "eur"
-    },
-    "E5_combo_ida_via_AMS": {
-      "avg": 15977.8,
-      "min": 12483,
-      "max": 21567,
-      "n": 22,
-      "unit": "mxn"
-    },
-    "E5_combo_ida_via_CDG": {
-      "avg": 16450.2,
-      "min": 11039,
-      "max": 22500,
-      "n": 21,
-      "unit": "mxn"
-    },
-    "E5_combo_ida_via_FCO": {
-      "avg": 16577.4,
-      "min": 11913,
-      "max": 26250,
-      "n": 14,
-      "unit": "mxn"
-    },
-    "E5_combo_ida_via_FRA": {
-      "avg": 16140.3,
-      "min": 13442,
-      "max": 21081,
-      "n": 18,
-      "unit": "mxn"
-    },
-    "E5_combo_ida_via_LHR": {
-      "avg": 17459.6,
-      "min": 13585,
-      "max": 24320,
-      "n": 19,
-      "unit": "mxn"
-    },
-    "E5_combo_ida_via_MAD": {
-      "avg": 12008.5,
-      "min": 8106,
-      "max": 19271,
-      "n": 98,
-      "unit": "mxn"
-    },
-    "E5_combo_rt_via_AMS": {
-      "avg": 29424.8,
-      "min": 25031,
-      "max": 33689,
-      "n": 10,
-      "unit": "mxn"
-    },
-    "E5_combo_rt_via_CDG": {
-      "avg": 29061.0,
-      "min": 26969,
-      "max": 32419,
-      "n": 8,
-      "unit": "mxn"
-    },
-    "E5_combo_rt_via_FCO": {
-      "avg": 30198.0,
-      "min": 25061,
-      "max": 36397,
-      "n": 8,
-      "unit": "mxn"
-    },
-    "E5_combo_rt_via_FRA": {
-      "avg": 30231.3,
-      "min": 23255,
-      "max": 34628,
-      "n": 7,
-      "unit": "mxn"
-    },
-    "E5_combo_rt_via_LHR": {
-      "avg": 30367.0,
-      "min": 26266,
-      "max": 35022,
+      "max": 10175,
       "n": 6,
       "unit": "mxn"
     },
+    "E2_vuelta_dest_MEX": {
+      "avg": 9193.7,
+      "min": 7920,
+      "max": 13505,
+      "n": 11,
+      "unit": "mxn"
+    },
+    "E3_rt_dest_?": {
+      "avg": 14640.9,
+      "min": 9164,
+      "max": 27189,
+      "n": 35,
+      "unit": "mxn"
+    },
+    "E3_rt_dest_BCN": {
+      "avg": 16500,
+      "min": 16500,
+      "max": 16500,
+      "n": 1,
+      "unit": "mxn"
+    },
+    "E3_rt_dest_MAD": {
+      "avg": 12726.3,
+      "min": 9064,
+      "max": 16450,
+      "n": 7,
+      "unit": "mxn"
+    },
+    "E4_tramo_desde_?": {
+      "avg": 407.7,
+      "min": 291,
+      "max": 699,
+      "n": 46,
+      "unit": "eur"
+    },
+    "E4_tramo_desde_?_mxn": {
+      "avg": 6384,
+      "min": 6384,
+      "max": 6384,
+      "n": 1,
+      "unit": "mxn"
+    },
+    "E4_tramo_desde_AMS": {
+      "avg": 274,
+      "min": 274,
+      "max": 274,
+      "n": 1,
+      "unit": "eur"
+    },
+    "E4_tramo_desde_BCN": {
+      "avg": 331,
+      "min": 330,
+      "max": 332,
+      "n": 2,
+      "unit": "eur"
+    },
+    "E4_tramo_desde_CDG": {
+      "avg": 294.5,
+      "min": 284,
+      "max": 305,
+      "n": 2,
+      "unit": "eur"
+    },
+    "E4_tramo_desde_FCO": {
+      "avg": 350,
+      "min": 350,
+      "max": 350,
+      "n": 1,
+      "unit": "eur"
+    },
+    "E4_tramo_desde_FRA": {
+      "avg": 370,
+      "min": 370,
+      "max": 370,
+      "n": 1,
+      "unit": "eur"
+    },
+    "E4_tramo_desde_LHR": {
+      "avg": 389,
+      "min": 389,
+      "max": 389,
+      "n": 1,
+      "unit": "eur"
+    },
+    "E4_tramo_desde_MAD": {
+      "avg": 284.2,
+      "min": 275,
+      "max": 297,
+      "n": 4,
+      "unit": "eur"
+    },
+    "E5_combo_ida_via_AMS": {
+      "avg": 13128.1,
+      "min": 10669,
+      "max": 17803,
+      "n": 29,
+      "unit": "mxn"
+    },
+    "E5_combo_ida_via_BCN": {
+      "avg": 16190.1,
+      "min": 11285,
+      "max": 18092,
+      "n": 19,
+      "unit": "mxn"
+    },
+    "E5_combo_ida_via_CDG": {
+      "avg": 13686.1,
+      "min": 10749,
+      "max": 15318,
+      "n": 28,
+      "unit": "mxn"
+    },
+    "E5_combo_ida_via_FRA": {
+      "avg": 15001.2,
+      "min": 11951,
+      "max": 17445,
+      "n": 39,
+      "unit": "mxn"
+    },
+    "E5_combo_ida_via_IST": {
+      "avg": 13221.7,
+      "min": 10471,
+      "max": 15780,
+      "n": 42,
+      "unit": "mxn"
+    },
+    "E5_combo_ida_via_LHR": {
+      "avg": 16539.6,
+      "min": 13766,
+      "max": 18953,
+      "n": 17,
+      "unit": "mxn"
+    },
+    "E5_combo_ida_via_MAD": {
+      "avg": 13599.6,
+      "min": 10724,
+      "max": 22652,
+      "n": 129,
+      "unit": "mxn"
+    },
+    "E5_combo_rt_via_AMS": {
+      "avg": 23695.2,
+      "min": 19362,
+      "max": 30430,
+      "n": 31,
+      "unit": "mxn"
+    },
+    "E5_combo_rt_via_BCN": {
+      "avg": 30066.5,
+      "min": 25529,
+      "max": 35239,
+      "n": 19,
+      "unit": "mxn"
+    },
+    "E5_combo_rt_via_CDG": {
+      "avg": 23918,
+      "min": 18889,
+      "max": 29080,
+      "n": 29,
+      "unit": "mxn"
+    },
+    "E5_combo_rt_via_FRA": {
+      "avg": 27686.1,
+      "min": 22089,
+      "max": 34130,
+      "n": 39,
+      "unit": "mxn"
+    },
+    "E5_combo_rt_via_IST": {
+      "avg": 24684.4,
+      "min": 19499,
+      "max": 31170,
+      "n": 40,
+      "unit": "mxn"
+    },
+    "E5_combo_rt_via_LHR": {
+      "avg": 30477.2,
+      "min": 27294,
+      "max": 33588,
+      "n": 17,
+      "unit": "mxn"
+    },
     "E5_combo_rt_via_MAD": {
-      "avg": 24288.2,
-      "min": 18017,
-      "max": 34909,
-      "n": 56,
+      "avg": 25020.6,
+      "min": 20531,
+      "max": 38950,
+      "n": 91,
       "unit": "mxn"
     }
   }

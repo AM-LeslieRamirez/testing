@@ -111,7 +111,11 @@
   {
     "date": "2026-07-12",
     "total_entries": 80,
-    "top3_prices_mxn": [20531, 22135, 4970],
+    "top3_prices_mxn": [
+      20531,
+      22135,
+      4970
+    ],
     "min_combo_rt_mxn": 20531,
     "min_combo_ida_mxn": 11058,
     "ghosts_discarded": 0,
@@ -130,5 +134,17 @@
       "min_global_mxn": 4970,
       "nota": "Mejor COMBO_RT dia: CUN-BKK-CUN ago-12/ago-28 $20531 (World2Fly charter vuelta a verificar). Mejor E1 URGENT: NLU-MAD World2Fly $4970 ago-07."
     }
+  },
+  {
+    "date": "2026-07-13",
+    "total_entries": 493,
+    "top3_prices_mxn": [
+      18889,
+      18963,
+      19037
+    ],
+    "ghosts_discarded": 2,
+    "urgent_count": 31,
+    "deals_under_threshold": 145
   }
 ]
