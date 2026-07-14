@@ -146,5 +146,40 @@
     "ghosts_discarded": 2,
     "urgent_count": 31,
     "deals_under_threshold": 145
+  },
+  {
+    "date": "2026-07-14",
+    "total_entries": 692,
+    "top3_prices_mxn": [
+      18940,
+      18940,
+      9064
+    ],
+    "min_combo_rt_mxn": 18940,
+    "min_combo_ida_mxn": 10730,
+    "ghosts_discarded": 4,
+    "urgent_count": 22,
+    "deals_under_threshold": 189,
+    "details": {
+      "combo_rt_urgente": 18,
+      "combo_ida_urgente": 0,
+      "e3_rt_urgente": 1,
+      "e2_urgente": 3,
+      "e1_urgente_validos": 0,
+      "min_e1_mad_mxn": 5254,
+      "min_e2_mxn": 5032,
+      "min_e3_mad_mxn": 9064,
+      "min_e4_eur": 268,
+      "min_global_mxn": 9064,
+      "nota": "18 COMBO_RT urgentes CUN-MAD-CDG-BKK RT desde $18,940 (World2Fly+Air France). E3 URGENTE MEX-MAD RT $9,064 Aeromexico ago-08/ago-27. 4 fantasmas descartados (sin fecha/aerolinea inválida).",
+      "top1_ruta": "CUN-MAD-CDG-BKK RT 22ago/8sep $18,940 World2Fly+AirFrance",
+      "top2_ruta": "CUN-MAD-CDG-BKK RT 26ago/12sep $18,940 World2Fly+AirFrance",
+      "top3_ruta": "MEX-MAD RT 8ago/27ago $9,064 Aeromexico URGENTE"
+    },
+    "rutinas": {
+      "A": 619,
+      "B": 65,
+      "C": 8
+    }
   }
 ]
