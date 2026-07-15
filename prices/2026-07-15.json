@@ -411,5 +411,557 @@
     "fuente": "rail.cc / Omio",
     "verificado": false,
     "link": "https://rail.cc/es/tren/madrid-a-paris"
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 16,
+    "aerolineas": [
+      "Iberia",
+      "Iberojet",
+      "Iberojet",
+      "Air Europa"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 34115,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7900,
+      "MAD_BKK": 10730,
+      "BKK_MAD": 9065,
+      "MAD_MX": 6420
+    },
+    "fuente": "iberia.com + iberojet.com (€580 OW, €490 OW vuelta) + aireuropa.com (€347)",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260805/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/mad/260820/"
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 16,
+    "aerolineas": [
+      "Iberia",
+      "Qatar Airways",
+      "Qatar Airways",
+      "Air Europa"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 28565,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7900,
+      "MAD_BKK": 6845,
+      "BKK_MAD": 7400,
+      "MAD_MX": 6420
+    },
+    "fuente": "iberia.com + opodo.es Qatar €370 MAD-DOH-BKK + travelocity $398 BKK-MAD + aireuropa.com €347",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260805/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/mex/260820/"
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-09",
+    "fecha_vuelta": "2026-08-24",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Iberia",
+      "Qatar Airways",
+      "Qatar Airways",
+      "Air Europa"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 28121,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7641,
+      "MAD_BKK": 6845,
+      "BKK_MAD": 7215,
+      "MAD_MX": 6420
+    },
+    "fuente": "opodo.es Iberia €413 MEX-MAD + kayak.es Qatar €370 MAD-BKK + €390 vuelta + aireuropa.com",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260809/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/mex/260824/"
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-09",
+    "fecha_vuelta": "2026-08-24",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "World2Fly",
+      "Qatar Airways",
+      "Qatar Airways",
+      "World2Fly"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 26635,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6840,
+      "MAD_BKK": 6845,
+      "BKK_MAD": 7215,
+      "MAD_MX": 5735
+    },
+    "fuente": "omio.com World2Fly CUN-MAD $368 + kayak.es Qatar €370 MAD-BKK + €390 vuelta + World2Fly MAD-CUN €310",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260809/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260824/"
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_AMS",
+    "segundos_EU": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-09",
+    "fecha_vuelta": "2026-08-24",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Aeromexico",
+      "KLM",
+      "KLM",
+      "Air Europa"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 36983,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7641,
+      "MAD_BKK": 11452,
+      "BKK_MAD": 11470,
+      "MAD_MX": 6420
+    },
+    "fuente": "Aeromexico MEX-MAD Aug + klm.com €619 MAD-AMS-BKK OW + €620 vuelta + aireuropa.com",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260809/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/mex/260824/"
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": "2026-08-27",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Aeromexico",
+      "Qatar Airways",
+      "Qatar Airways",
+      "Air Europa"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 27980,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7500,
+      "MAD_BKK": 6845,
+      "BKK_MAD": 7215,
+      "MAD_MX": 6420
+    },
+    "fuente": "Aeromexico MEX-MAD Aug12 ~$395 + kayak.es Qatar €370 + €390 vuelta + aireuropa.com",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260812/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/mex/260827/"
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": "2026-08-28",
+    "dias_estancia": 16,
+    "aerolineas": [
+      "Aeromexico",
+      "Iberojet",
+      "Iberojet",
+      "Air Europa"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 33715,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7500,
+      "MAD_BKK": 10730,
+      "BKK_MAD": 9065,
+      "MAD_MX": 6420
+    },
+    "fuente": "Aeromexico Aug12 + iberojet.com jue Aug13 €580 OW + Iberojet jue Aug27 €490 + aireuropa.com",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260812/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/mex/260827/"
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": "2026-09-03",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Iberia",
+      "Qatar Airways",
+      "Qatar Airways",
+      "Air Europa"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 27614,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7319,
+      "MAD_BKK": 6845,
+      "BKK_MAD": 7030,
+      "MAD_MX": 6420
+    },
+    "fuente": "trip.com MEX-MAD 7319 MXN + kayak.es Qatar €370 MAD-BKK + Qatar sep €380 + aireuropa.com",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260819/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/mex/260903/"
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_tren_BCN",
+    "segundos_EU": "BCN",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": "2026-09-03",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Iberia",
+      "Renfe AVE",
+      "Qatar Airways",
+      "Qatar Airways",
+      "Renfe AVE",
+      "Air Europa"
+    ],
+    "tren_segmento": "MAD-BCN Renfe AVE ~€65 2h45",
+    "precio_total_mxn": 30945,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7319,
+      "MAD_EU": 1203,
+      "EU_BKK": 7770,
+      "BKK_EU": 7030,
+      "EU_MAD": 1203,
+      "MAD_MX": 6420
+    },
+    "fuente": "trip.com MEX-MAD + atrapalo.com AVE MAD-BCN €65 + kayak.es BCN-BKK €420 Qatar/Finnair + aireuropa.com",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260819/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/mex/260903/"
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": "2026-09-03",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Iberia",
+      "Air France",
+      "Air France",
+      "Air Europa"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 34188,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7319,
+      "MAD_BKK": 13024,
+      "BKK_MAD": 7425,
+      "MAD_MX": 6420
+    },
+    "fuente": "trip.com MEX-MAD + airfrance.es MAD-CDG-BKK €704 OW + AF vuelta €401 + aireuropa.com",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260819/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/mex/260903/"
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": "2026-09-10",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "World2Fly",
+      "Qatar Airways",
+      "Qatar Airways",
+      "World2Fly"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 26010,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6400,
+      "MAD_BKK": 6845,
+      "BKK_MAD": 7030,
+      "MAD_MX": 5735
+    },
+    "fuente": "World2Fly CUN-MAD ~$337 USD late Aug + kayak.es Qatar €370 + Qatar sep €380 + World2Fly MAD-CUN €310",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260826/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260910/"
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": "2026-09-10",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Iberia",
+      "Qatar Airways",
+      "Qatar Airways",
+      "Air Europa"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 27429,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7319,
+      "MAD_BKK": 6660,
+      "BKK_MAD": 7030,
+      "MAD_MX": 6420
+    },
+    "fuente": "trip.com MEX-MAD 7319 MXN + Qatar MAD-BKK €360 late Aug + Qatar sep €380 + aireuropa.com",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260826/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/mex/260910/"
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberia",
+      "Iberojet"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 18630,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7900,
+      "MAD_BKK": 10730,
+      "BKK_MAD": 0,
+      "MAD_MX": 0
+    },
+    "fuente": "iberia.com + iberojet.com €580 OW directo jue 6-ago",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260805/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberia",
+      "Qatar Airways"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 14745,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7900,
+      "MAD_BKK": 6845,
+      "BKK_MAD": 0,
+      "MAD_MX": 0
+    },
+    "fuente": "iberia.com + opodo.es Qatar MAD-DOH-BKK €370",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260805/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberia",
+      "Qatar Airways"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 12999,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7319,
+      "MAD_BKK": 5680,
+      "BKK_MAD": 0,
+      "MAD_MX": 0
+    },
+    "fuente": "trip.com MEX-MAD 7319 MXN + kayak.es Qatar MAD-BKK min €307 (tarifa puntual no garantizada)",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260812/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly",
+      "Qatar Airways"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 13445,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7600,
+      "MAD_BKK": 5845,
+      "BKK_MAD": 0,
+      "MAD_MX": 0
+    },
+    "fuente": "World2Fly CUN-MAD ~$400 USD + kayak.es Qatar MAD-BKK ~€316",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260812/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberia",
+      "Qatar Airways"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 14164,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7319,
+      "MAD_BKK": 6845,
+      "BKK_MAD": 0,
+      "MAD_MX": 0
+    },
+    "fuente": "trip.com MEX-MAD 7319 MXN + opodo.es Qatar MAD-BKK €370",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260819/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-15T02:10:22Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "via": "MAD_tren_BCN",
+    "segundos_EU": "BCN",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberia",
+      "Renfe AVE",
+      "Qatar Airways"
+    ],
+    "tren_segmento": "MAD-BCN Renfe AVE ~€65 2h45",
+    "precio_total_mxn": 16292,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7319,
+      "MAD_EU": 1203,
+      "EU_BKK": 7770,
+      "BKK_MAD": 0,
+      "MAD_MX": 0
+    },
+    "fuente": "trip.com MEX-MAD + atrapalo.com AVE MAD-BCN €65 + kayak.es BCN-BKK €420 Qatar/Finnair",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260826/",
+    "link_vuelta": null
   }
 ]
