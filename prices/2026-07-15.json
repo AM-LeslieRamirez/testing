@@ -1362,5 +1362,369 @@
     "verificado": false,
     "link": "https://www.viajeselcorteingles.es/vuelos/baratos/aerolineas/plus_ultra-PU/",
     "nota": "madrugada_es — CONFIRMADO: Plus Ultra (PU) NO opera MEX-MAD en agosto 2026. Rutas activas PU: MAD-Buenos Aires (desde may 2026), MAD-Lima, MAD-Caracas, MAD-Bogota. Sin servicio a Mexico."
+  },
+  {
+    "timestamp": "2026-07-15T08:35:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-01",
+    "fecha_vuelta": "2026-08-19",
+    "dias_estancia": 18,
+    "aerolineas": [
+      "World2Fly",
+      "Qatar Airways",
+      "Qatar Airways",
+      "World2Fly"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 26923,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7220,
+      "MAD_BKK": 6845,
+      "BKK_MAD": 7123,
+      "MAD_MX": 5735
+    },
+    "fuente": "airpaz.com World2Fly CUN-MAD ~$380 peak Aug1 + kayak.es Qatar MAD-DOH-BKK €370 + €385 vuelta + World2Fly MAD-CUN €310",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260801/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260819/"
+  },
+  {
+    "timestamp": "2026-07-15T08:35:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-15",
+    "fecha_vuelta": "2026-09-01",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly",
+      "Qatar Airways",
+      "Qatar Airways",
+      "World2Fly"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 26640,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7030,
+      "MAD_BKK": 6845,
+      "BKK_MAD": 7030,
+      "MAD_MX": 5735
+    },
+    "fuente": "airpaz.com World2Fly CUN-MAD ~$370 mid-Aug + kayak.es Qatar MAD-DOH-BKK €370 + €380 vuelta + World2Fly MAD-CUN €310",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260815/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260901/"
+  },
+  {
+    "timestamp": "2026-07-15T08:35:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-22",
+    "fecha_vuelta": "2026-09-08",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly",
+      "Qatar Airways",
+      "Qatar Airways",
+      "World2Fly"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 26355,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6745,
+      "MAD_BKK": 6845,
+      "BKK_MAD": 7030,
+      "MAD_MX": 5735
+    },
+    "fuente": "airpaz.com World2Fly CUN-MAD ~$355 late Aug + kayak.es Qatar MAD-DOH-BKK €370 + €380 vuelta + World2Fly MAD-CUN €310",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260822/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260908/"
+  },
+  {
+    "timestamp": "2026-07-15T08:35:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-21",
+    "dias_estancia": 16,
+    "aerolineas": [
+      "Aeromexico",
+      "Turkish Airlines",
+      "Turkish Airlines",
+      "Air Europa"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 26625,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7847,
+      "MAD_BKK": 6179,
+      "BKK_MAD": 6179,
+      "MAD_MX": 6420
+    },
+    "fuente": "kayak.es Aeromexico MEX-MAD $413 + Turkish Airlines MAD-IST-BKK €334 OW (RT €668 ago) + aireuropa.com MAD-MEX €347",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260805/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/mex/260821/"
+  },
+  {
+    "timestamp": "2026-07-15T08:35:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": "2026-09-04",
+    "dias_estancia": 16,
+    "aerolineas": [
+      "Iberia",
+      "Turkish Airlines",
+      "Turkish Airlines",
+      "Air Europa"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 26097,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7319,
+      "MAD_BKK": 6179,
+      "BKK_MAD": 6179,
+      "MAD_MX": 6420
+    },
+    "fuente": "trip.com MEX-MAD Iberia 7319 MXN + Turkish Airlines MAD-IST-BKK €334 OW (skyscanner) + aireuropa.com MAD-MEX €347",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260819/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/mex/260904/"
+  },
+  {
+    "timestamp": "2026-07-15T08:35:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": "2026-08-29",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly",
+      "Turkish Airlines",
+      "Turkish Airlines",
+      "World2Fly"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 25218,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7125,
+      "MAD_BKK": 6179,
+      "BKK_MAD": 6179,
+      "MAD_MX": 5735
+    },
+    "fuente": "World2Fly CUN-MAD ~$375 Aug12 + Turkish Airlines MAD-IST-BKK €334 OW (RT €668 ago skyscanner) + World2Fly MAD-CUN €310",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260812/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260829/"
+  },
+  {
+    "timestamp": "2026-07-15T08:35:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": "2026-09-12",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly",
+      "Turkish Airlines",
+      "Turkish Airlines",
+      "World2Fly"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 24553,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6460,
+      "MAD_BKK": 6179,
+      "BKK_MAD": 6179,
+      "MAD_MX": 5735
+    },
+    "fuente": "World2Fly CUN-MAD ~$340 late Aug (omio/airpaz referencia) + Turkish MAD-IST-BKK €334 OW + World2Fly MAD-CUN €310",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260826/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260912/"
+  },
+  {
+    "timestamp": "2026-07-15T08:35:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-17",
+    "fecha_vuelta": "2026-09-04",
+    "dias_estancia": 18,
+    "aerolineas": [
+      "Aeromexico",
+      "Qatar Airways",
+      "Qatar Airways",
+      "World2Fly"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 29356,
+    "precio_desglose_mxn": {
+      "MX_MAD": 8265,
+      "MAD_BKK": 6845,
+      "BKK_MAD": 7123,
+      "MAD_MX": 7123
+    },
+    "fuente": "skyscanner NLU-MAD Aeromexico $435 Aug17 + kayak.es Qatar MAD-DOH-BKK €370 + €385 vuelta + World2Fly MAD-NLU €385 ago",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/bkk/260817/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/nlu/260904/"
+  },
+  {
+    "timestamp": "2026-07-15T08:35:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-22",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly",
+      "Qatar Airways"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 13590,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6745,
+      "MAD_BKK": 6845,
+      "BKK_MAD": 0,
+      "MAD_MX": 0
+    },
+    "fuente": "airpaz.com World2Fly CUN-MAD ~$355 late Aug + kayak.es Qatar MAD-DOH-BKK €370",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260822/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-15T08:35:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly",
+      "Turkish Airlines"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 12639,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6460,
+      "MAD_BKK": 6179,
+      "BKK_MAD": 0,
+      "MAD_MX": 0
+    },
+    "fuente": "World2Fly CUN-MAD ~$340 late Aug (omio/airpaz) + Turkish Airlines MAD-IST-BKK €334 OW (RT €668 ago skyscanner)",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260826/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-15T08:35:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico",
+      "Turkish Airlines"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 14026,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7847,
+      "MAD_BKK": 6179,
+      "BKK_MAD": 0,
+      "MAD_MX": 0
+    },
+    "fuente": "kayak.es Aeromexico MEX-MAD $413 + Turkish Airlines MAD-IST-BKK €334 OW",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260805/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-15T08:35:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly",
+      "Turkish Airlines"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 13304,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7125,
+      "MAD_BKK": 6179,
+      "BKK_MAD": 0,
+      "MAD_MX": 0
+    },
+    "fuente": "World2Fly CUN-MAD ~$375 Aug12 + Turkish Airlines MAD-IST-BKK €334 OW",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260812/",
+    "link_vuelta": null
   }
 ]
