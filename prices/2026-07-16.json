@@ -1192,5 +1192,725 @@
     "verificado": false,
     "link": "https://www.plusultra.com/es-es/informacion/condiciones-de-tarifas/",
     "nota": "madrugada_es - Plus Ultra NO parece operar ruta MEX↔MAD en ago 2026. Solo opera CCS, BOG, LIM, EZE. Confirmar."
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico (MEX-MAD)",
+      "Iberojet (MAD-BKK directo jue/dom)",
+      "Iberojet (BKK-MAD directo)",
+      "Aeromexico (MAD-MEX)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 18958,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7900,
+      "MAD_BKK": 2319,
+      "BKK_MAD": 2319,
+      "MAD_MX": 6420
+    },
+    "fuente": "WebSearch jul-2026: MEX→MAD ref KAYAK/Skyscanner; Iberojet MAD-BKK-MAD RT €250-290 ago2026 (ref rutina-C 2026-08/06 MXN4638); MAD→MEX Skyscanner/W2Fly",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260805/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/mex/260822/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": "2026-08-29",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico (MEX-MAD)",
+      "Iberojet (MAD-BKK directo jue/dom)",
+      "Iberojet (BKK-MAD directo)",
+      "Aeromexico (MAD-MEX)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 18915,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7500,
+      "MAD_BKK": 2497,
+      "BKK_MAD": 2498,
+      "MAD_MX": 6420
+    },
+    "fuente": "WebSearch jul-2026: MEX→MAD ref KAYAK/Skyscanner; Iberojet MAD-BKK-MAD RT €250-290 ago2026 (ref rutina-C 2026-08/06 MXN4638); MAD→MEX Skyscanner/W2Fly",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260812/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/mex/260829/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": "2026-09-05",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico (MEX-MAD)",
+      "Iberojet (MAD-BKK directo jue/dom)",
+      "Iberojet (BKK-MAD directo)",
+      "Aeromexico (MAD-MEX)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 18919,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7319,
+      "MAD_BKK": 2590,
+      "BKK_MAD": 2590,
+      "MAD_MX": 6420
+    },
+    "fuente": "WebSearch jul-2026: MEX→MAD ref KAYAK/Skyscanner; Iberojet MAD-BKK-MAD RT €250-290 ago2026 (ref rutina-C 2026-08/06 MXN4638); MAD→MEX Skyscanner/W2Fly",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260819/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/mex/260905/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": "2026-09-12",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico (MEX-MAD)",
+      "Iberojet (MAD-BKK directo jue/dom)",
+      "Iberojet (BKK-MAD directo)",
+      "Aeromexico (MAD-MEX)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 19104,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7319,
+      "MAD_BKK": 2682,
+      "BKK_MAD": 2683,
+      "MAD_MX": 6420
+    },
+    "fuente": "WebSearch jul-2026: MEX→MAD ref KAYAK/Skyscanner; Iberojet MAD-BKK-MAD RT €250-290 ago2026 (ref rutina-C 2026-08/06 MXN4638); MAD→MEX Skyscanner/W2Fly",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260826/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/mex/260912/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly (NLU-MAD)",
+      "Iberojet (MAD-BKK directo jue/dom)",
+      "Iberojet (BKK-MAD directo)",
+      "World2Fly (MAD-NLU)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 19265,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7505,
+      "MAD_BKK": 2319,
+      "BKK_MAD": 2319,
+      "MAD_MX": 7122
+    },
+    "fuente": "WebSearch jul-2026: NLU→MAD ref KAYAK/Skyscanner; Iberojet MAD-BKK-MAD RT €250-290 ago2026 (ref rutina-C 2026-08/06 MXN4638); MAD→NLU Skyscanner/W2Fly",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260805/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/nlu/260822/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": "2026-08-29",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly (NLU-MAD)",
+      "Iberojet (MAD-BKK directo jue/dom)",
+      "Iberojet (BKK-MAD directo)",
+      "World2Fly (MAD-NLU)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 19467,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7350,
+      "MAD_BKK": 2497,
+      "BKK_MAD": 2498,
+      "MAD_MX": 7122
+    },
+    "fuente": "WebSearch jul-2026: NLU→MAD ref KAYAK/Skyscanner; Iberojet MAD-BKK-MAD RT €250-290 ago2026 (ref rutina-C 2026-08/06 MXN4638); MAD→NLU Skyscanner/W2Fly",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260812/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/nlu/260829/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": "2026-09-05",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly (NLU-MAD)",
+      "Iberojet (MAD-BKK directo jue/dom)",
+      "Iberojet (BKK-MAD directo)",
+      "World2Fly (MAD-NLU)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 19502,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7200,
+      "MAD_BKK": 2590,
+      "BKK_MAD": 2590,
+      "MAD_MX": 7122
+    },
+    "fuente": "WebSearch jul-2026: NLU→MAD ref KAYAK/Skyscanner; Iberojet MAD-BKK-MAD RT €250-290 ago2026 (ref rutina-C 2026-08/06 MXN4638); MAD→NLU Skyscanner/W2Fly",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260819/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/nlu/260905/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": "2026-09-12",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly (NLU-MAD)",
+      "Iberojet (MAD-BKK directo jue/dom)",
+      "Iberojet (BKK-MAD directo)",
+      "World2Fly (MAD-NLU)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 19609,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7122,
+      "MAD_BKK": 2682,
+      "BKK_MAD": 2683,
+      "MAD_MX": 7122
+    },
+    "fuente": "WebSearch jul-2026: NLU→MAD ref KAYAK/Skyscanner; Iberojet MAD-BKK-MAD RT €250-290 ago2026 (ref rutina-C 2026-08/06 MXN4638); MAD→NLU Skyscanner/W2Fly",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260826/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/nlu/260912/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet (QRO-MAD charter mie/sab)",
+      "Iberojet (MAD-BKK directo jue/dom)",
+      "Iberojet (BKK-MAD directo)",
+      "Iberojet (MAD-QRO charter)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 17591,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6056,
+      "MAD_BKK": 2319,
+      "BKK_MAD": 2319,
+      "MAD_MX": 6897
+    },
+    "fuente": "WebSearch jul-2026: QRO→MAD ref KAYAK/Skyscanner; Iberojet MAD-BKK-MAD RT €250-290 ago2026 (ref rutina-C 2026-08/06 MXN4638); MAD→QRO Skyscanner/W2Fly",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260805/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/qro/260822/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": "2026-08-29",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet (QRO-MAD charter mie/sab)",
+      "Iberojet (MAD-BKK directo jue/dom)",
+      "Iberojet (BKK-MAD directo)",
+      "Iberojet (MAD-QRO charter)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 17992,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6100,
+      "MAD_BKK": 2497,
+      "BKK_MAD": 2498,
+      "MAD_MX": 6897
+    },
+    "fuente": "WebSearch jul-2026: QRO→MAD ref KAYAK/Skyscanner; Iberojet MAD-BKK-MAD RT €250-290 ago2026 (ref rutina-C 2026-08/06 MXN4638); MAD→QRO Skyscanner/W2Fly",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260812/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/qro/260829/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": "2026-09-05",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet (QRO-MAD charter mie/sab)",
+      "Iberojet (MAD-BKK directo jue/dom)",
+      "Iberojet (BKK-MAD directo)",
+      "Iberojet (MAD-QRO charter)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 18127,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6050,
+      "MAD_BKK": 2590,
+      "BKK_MAD": 2590,
+      "MAD_MX": 6897
+    },
+    "fuente": "WebSearch jul-2026: QRO→MAD ref KAYAK/Skyscanner; Iberojet MAD-BKK-MAD RT €250-290 ago2026 (ref rutina-C 2026-08/06 MXN4638); MAD→QRO Skyscanner/W2Fly",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260819/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/qro/260905/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": "2026-09-12",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet (QRO-MAD charter mie/sab)",
+      "Iberojet (MAD-BKK directo jue/dom)",
+      "Iberojet (BKK-MAD directo)",
+      "Iberojet (MAD-QRO charter)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 18212,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5950,
+      "MAD_BKK": 2682,
+      "BKK_MAD": 2683,
+      "MAD_MX": 6897
+    },
+    "fuente": "WebSearch jul-2026: QRO→MAD ref KAYAK/Skyscanner; Iberojet MAD-BKK-MAD RT €250-290 ago2026 (ref rutina-C 2026-08/06 MXN4638); MAD→QRO Skyscanner/W2Fly",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260826/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/qro/260912/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": "2026-08-29",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet/World2Fly (CUN-MAD)",
+      "Iberojet (MAD-BKK directo jue/dom)",
+      "Iberojet (BKK-MAD directo)",
+      "Iberojet/World2Fly (MAD-CUN)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 17787,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5589,
+      "MAD_BKK": 2497,
+      "BKK_MAD": 2498,
+      "MAD_MX": 7203
+    },
+    "fuente": "WebSearch jul-2026: CUN→MAD ref KAYAK/Skyscanner; Iberojet MAD-BKK-MAD RT €250-290 ago2026 (ref rutina-C 2026-08/06 MXN4638); MAD→CUN Skyscanner/W2Fly",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/mad/260812/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/cun/260829/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": "2026-09-05",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet/World2Fly (CUN-MAD)",
+      "Iberojet (MAD-BKK directo jue/dom)",
+      "Iberojet (BKK-MAD directo)",
+      "Iberojet/World2Fly (MAD-CUN)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 17783,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5400,
+      "MAD_BKK": 2590,
+      "BKK_MAD": 2590,
+      "MAD_MX": 7203
+    },
+    "fuente": "WebSearch jul-2026: CUN→MAD ref KAYAK/Skyscanner; Iberojet MAD-BKK-MAD RT €250-290 ago2026 (ref rutina-C 2026-08/06 MXN4638); MAD→CUN Skyscanner/W2Fly",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/mad/260819/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/cun/260905/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": "2026-09-12",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Iberojet/World2Fly (CUN-MAD)",
+      "Iberojet (MAD-BKK directo jue/dom)",
+      "Iberojet (BKK-MAD directo)",
+      "Iberojet/World2Fly (MAD-CUN)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 17868,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5300,
+      "MAD_BKK": 2682,
+      "BKK_MAD": 2683,
+      "MAD_MX": 7203
+    },
+    "fuente": "WebSearch jul-2026: CUN→MAD ref KAYAK/Skyscanner; Iberojet MAD-BKK-MAD RT €250-290 ago2026 (ref rutina-C 2026-08/06 MXN4638); MAD→CUN Skyscanner/W2Fly",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/mad/260826/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/cun/260912/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-08",
+    "fecha_vuelta": "2026-08-25",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico (MEX-MAD)",
+      "Qatar QR (MAD-DOH-BKK)",
+      "Qatar QR (BKK-DOH-MAD)",
+      "Aeromexico (MAD-MEX)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 28280,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7800,
+      "MAD_BKK": 6845,
+      "BKK_MAD": 7215,
+      "MAD_MX": 6420
+    },
+    "fuente": "WebSearch jul-2026: MEX→MAD ref Skyscanner/KAYAK; Qatar MAD-DOH-BKK ~MXN6845 ago (ref baseline jul15); MAD→MEX ref jul15",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260808/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/mex/260825/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-15",
+    "fecha_vuelta": "2026-09-01",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico (MEX-MAD)",
+      "Qatar QR (MAD-DOH-BKK)",
+      "Qatar QR (BKK-DOH-MAD)",
+      "Aeromexico (MAD-MEX)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 27510,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7400,
+      "MAD_BKK": 6660,
+      "BKK_MAD": 7030,
+      "MAD_MX": 6420
+    },
+    "fuente": "WebSearch jul-2026: MEX→MAD ref Skyscanner/KAYAK; Qatar MAD-DOH-BKK ~MXN6845 ago (ref baseline jul15); MAD→MEX ref jul15",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260815/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/mex/260901/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly (NLU-MAD)",
+      "Qatar QR (MAD-DOH-BKK)",
+      "Qatar QR (BKK-DOH-MAD)",
+      "World2Fly (MAD-NLU)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 28687,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7505,
+      "MAD_BKK": 6845,
+      "BKK_MAD": 7215,
+      "MAD_MX": 7122
+    },
+    "fuente": "WebSearch jul-2026: NLU→MAD ref Skyscanner/KAYAK; Qatar MAD-DOH-BKK ~MXN6845 ago (ref baseline jul15); MAD→NLU ref jul15",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260805/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/mad/nlu/260822/"
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly (NLU-MAD)",
+      "Qatar QR (MAD-DOH-BKK)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 14350,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7505,
+      "MAD_BKK": 6845
+    },
+    "fuente": "WebSearch jul-2026: NLU→MAD ref Skyscanner/KAYAK; Qatar MAD-DOH-BKK ~MXN6845 ago",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260805/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly (NLU-MAD)",
+      "Qatar QR (MAD-DOH-BKK)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 13860,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7200,
+      "MAD_BKK": 6660
+    },
+    "fuente": "WebSearch jul-2026: NLU→MAD ref Skyscanner/KAYAK; Qatar MAD-DOH-BKK ~MXN6845 ago",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260819/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico (MEX-MAD)",
+      "Qatar QR (MAD-DOH-BKK)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 13979,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7319,
+      "MAD_BKK": 6660
+    },
+    "fuente": "WebSearch jul-2026: MEX→MAD ref Skyscanner/KAYAK; Qatar MAD-DOH-BKK ~MXN6845 ago",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260819/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico (QRO-MEX-MAD)",
+      "Qatar QR (MAD-DOH-BKK)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 12945,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6100,
+      "MAD_BKK": 6845
+    },
+    "fuente": "WebSearch jul-2026: QRO→MAD ref Skyscanner/KAYAK; Qatar MAD-DOH-BKK ~MXN6845 ago",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260812/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet (QRO-MAD charter)",
+      "Iberojet (MAD-BKK directo)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 11527,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6056,
+      "MAD_BKK": 5471
+    },
+    "fuente": "WebSearch jul-2026: QRO→MAD ref KAYAK/Skyscanner; Iberojet MAD-BKK OW €295.72=MXN5471 (ref rutina-C)",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260805/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-16T08:03:03Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly (NLU-MAD)",
+      "Iberojet (MAD-BKK directo)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 12821,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7350,
+      "MAD_BKK": 5471
+    },
+    "fuente": "WebSearch jul-2026: NLU→MAD ref KAYAK/Skyscanner; Iberojet MAD-BKK OW €295.72=MXN5471 (ref rutina-C)",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260812/",
+    "link_vuelta": null
   }
 ]
