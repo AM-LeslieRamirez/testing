@@ -181,5 +181,63 @@
       "B": 65,
       "C": 8
     }
+  },
+  {
+    "date": "2026-07-15",
+    "total_entries": 120,
+    "top3_prices_mxn": [
+      22143,
+      22865,
+      5308
+    ],
+    "min_combo_rt_mxn": 22143,
+    "min_combo_ida_mxn": 12375,
+    "ghosts_discarded": 1,
+    "urgent_count": 2,
+    "deals_under_threshold": 26,
+    "details": {
+      "combo_rt_urgente": 0,
+      "combo_ida_urgente": 0,
+      "e2_urgente": 2,
+      "e1_urgente": 0,
+      "min_e1_mad_mxn": 5254,
+      "min_e2_mxn": 5308,
+      "min_e3_mad_mxn": 11054,
+      "min_e4_eur": 252,
+      "min_global_mxn": 5254,
+      "nota": "Deal Etihad RT: CUN-MAD-AUH-BKK RT 4 fechas desde $22,143 MXN (Air Europa+Etihad €555 RT ago2026). E2 urgente: AMS-CUN $5,308 + MAD-CUN $5,558. E3 RT MEX-MAD $11,054 (Iberia). 1 fantasma: Plus Ultra no opera MEX-MAD."
+    },
+    "rutinas": {
+      "A": 40,
+      "B": 59,
+      "C": 21
+    }
+  },
+  {
+    "date": "2026-07-16",
+    "total_entries": 28,
+    "top3_prices_mxn": [
+      5125,
+      5330,
+      5700
+    ],
+    "ghosts_discarded": 0,
+    "urgent_count": 0,
+    "deals_under_threshold": 9,
+    "details": {
+      "combo_rt_urgente": 0,
+      "combo_ida_urgente": 0,
+      "e2_urgente": 0,
+      "e1_urgente": 0,
+      "min_e1_mad_mxn": 7319,
+      "min_e2_mxn": 5700,
+      "min_e4_eur": 250,
+      "nota": "Datos parciales — solo Rutina B (00:09 UTC). Sin combos. E4: BCN-BKK EUR250 Qatar, MAD-BKK EUR260 Emirates, MAD-BKK EUR270 Qatar. E2 vuelta bajo umbral. Rutinas A y C pendientes."
+    },
+    "rutinas": {
+      "A": 0,
+      "B": 28,
+      "C": 0
+    }
   }
 ]
