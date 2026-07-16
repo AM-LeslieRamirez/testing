@@ -2851,5 +2851,290 @@
     "fuente": "Omio.com MAD-PAR Ouigo low-cost agosto 2026",
     "verificado": false,
     "link": "https://www.omio.com/trains/madrid/paris"
+  },
+  {
+    "timestamp": "2026-07-16T20:07:08Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet (CUN-MAD)",
+      "Iberojet (MAD-BKK)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 13839,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5589,
+      "MAD_BKK": 8250,
+      "MAD_EU": null,
+      "EU_BKK": null,
+      "BKK_EU": null,
+      "EU_MAD": null,
+      "MAD_MX": null
+    },
+    "fuente": "Iberojet Kayak.com.mx (CUN-MAD from MXN5589) + Iberojet MAD-BKK directo jueves Aug6 estimado peak EUR445",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/mad/260805/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-16T20:07:08Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-20",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Iberojet (CUN-MAD)",
+      "Iberojet (MAD-BKK)",
+      "Iberojet (BKK-MAD)",
+      "Iberojet (MAD-CUN)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 29542,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5589,
+      "MAD_BKK": 8250,
+      "BKK_EU": null,
+      "EU_MAD": null,
+      "BKK_MAD": 8500,
+      "MAD_MX": 7203
+    },
+    "fuente": "Iberojet Kayak.com.mx (CUN-MAD MXN5589, MAD-CUN MXN7203) + Iberojet MAD-BKK/BKK-MAD directo Thu Aug6/Aug20 estimado peak agosto",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/mad/260805/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260820/"
+  },
+  {
+    "timestamp": "2026-07-16T20:07:08Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet (CUN-MAD)",
+      "Iberojet (MAD-BKK)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 13839,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5589,
+      "MAD_BKK": 8250,
+      "MAD_EU": null,
+      "EU_BKK": null,
+      "BKK_EU": null,
+      "EU_MAD": null,
+      "MAD_MX": null
+    },
+    "fuente": "Iberojet Kayak.com.mx (CUN-MAD from MXN5589) + Iberojet MAD-BKK directo jueves Aug13 estimado peak EUR445",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/mad/260812/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-16T20:07:08Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": "2026-08-27",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Iberojet (CUN-MAD)",
+      "Iberojet (MAD-BKK)",
+      "Iberojet (BKK-MAD)",
+      "Iberojet (MAD-CUN)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 29542,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5589,
+      "MAD_BKK": 8250,
+      "BKK_MAD": 8500,
+      "MAD_MX": 7203
+    },
+    "fuente": "Iberojet Kayak.com.mx + Iberojet MAD-BKK directo Thu Aug13/Aug27 estimado peak agosto",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/mad/260812/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260827/"
+  },
+  {
+    "timestamp": "2026-07-16T20:07:08Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": "2026-09-03",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "World2Fly (CUN-MAD)",
+      "Iberojet (MAD-BKK)",
+      "Iberojet (BKK-MAD)",
+      "Iberojet (MAD-CUN)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 28086,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5985,
+      "MAD_BKK": 8250,
+      "BKK_MAD": 7448,
+      "MAD_MX": 7203
+    },
+    "fuente": "World2Fly Omio $315USD CUN-MAD + Iberojet MAD-BKK Thu Aug20 + Iberojet/mixed BKK-MAD Thu Sep3 (precio septiembre Expedia $392) + Iberojet MAD-CUN Kayak",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/mad/260819/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260903/"
+  },
+  {
+    "timestamp": "2026-07-16T20:07:08Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": "2026-09-07",
+    "dias_estancia": 19,
+    "aerolineas": [
+      "Iberojet (CUN-MAD)",
+      "Qatar Airways (MAD-DOH-BKK)",
+      "Qatar Airways (BKK-DOH-MAD)",
+      "Iberojet (MAD-CUN)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 27557,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5589,
+      "MAD_EU": null,
+      "EU_BKK": null,
+      "MAD_BKK": 7562,
+      "BKK_MAD": 7203,
+      "MAD_MX": 7203
+    },
+    "fuente": "Iberojet Kayak CUN-MAD MXN5589 + Qatar Airways Travelocity MAD-BKK $398USD + Qatar BKK-MAD $379USD estimado + Iberojet MAD-CUN MXN7203",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260819/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260907/"
+  },
+  {
+    "timestamp": "2026-07-16T20:07:08Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": "2026-08-27",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Aeromexico (MEX-MAD)",
+      "Iberojet (MAD-BKK)",
+      "Iberojet (BKK-MAD)",
+      "Iberia (MAD-MEX)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 33717,
+    "precio_desglose_mxn": {
+      "MX_MAD": 8094,
+      "MAD_BKK": 8250,
+      "BKK_MAD": 8500,
+      "MAD_MX": 8873
+    },
+    "fuente": "Aeromexico Expedia $426USD MEX-MAD Aug11 + Iberojet MAD-BKK Thu estimado + Iberia/AM Kayak MAD-MEX $467",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260812/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/mex/260827/"
+  },
+  {
+    "timestamp": "2026-07-16T20:07:08Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": "2026-09-10",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Iberojet (CUN-MAD)",
+      "Iberojet (MAD-BKK)",
+      "Iberojet (BKK-MAD)",
+      "Iberojet (MAD-CUN)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 27245,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5589,
+      "MAD_BKK": 8250,
+      "BKK_MAD": 6203,
+      "MAD_MX": 7203
+    },
+    "fuente": "Iberojet Kayak (CUN-MAD MXN5589, MAD-CUN MXN7203) + Iberojet MAD-BKK Thu Aug27 estimado + Iberojet BKK-MAD Thu Sep10 precio septiembre estimado EUR335",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/mad/260826/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260910/"
+  },
+  {
+    "timestamp": "2026-07-16T20:07:08Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_tren_BCN",
+    "segundos_EU": "BCN",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet (CUN-MAD)",
+      "Lufthansa/Eurowings (BCN-FRA-BKK)"
+    ],
+    "tren_segmento": "MAD-BCN Renfe AVE EUR65 2h30",
+    "precio_total_mxn": 15117,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5589,
+      "MAD_EU": 1203,
+      "EU_BKK": 8325,
+      "BKK_EU": null,
+      "EU_MAD": null,
+      "MAD_MX": null
+    },
+    "fuente": "Iberojet Kayak CUN-MAD MXN5589 + Renfe AVE EUR65 + Lufthansa BCN-FRA-BKK estimado EUR450",
+    "verificado": false,
+    "link_ida": "https://www.google.com/travel/flights?q=Flights+from+BCN+to+BKK+on+2026-08-20",
+    "link_vuelta": null
   }
 ]
