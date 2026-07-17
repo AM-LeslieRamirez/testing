@@ -2164,5 +2164,322 @@
     "fuente": "Renfe.com / trenes.com (AVE desde €25)",
     "verificado": false,
     "link": "https://www.trenes.com/en/train-madrid-to-barcelona/"
+  },
+  {
+    "timestamp": "2026-07-17T14:22:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_IST",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-20",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Iberia MEX-MAD",
+      "Turkish Airlines MAD-IST-BKK",
+      "Turkish Airlines BKK-IST-MAD",
+      "Air Europa MAD-MEX"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 28175,
+    "precio_desglose_mxn": {
+      "MX_MAD": 8100,
+      "MAD_BKK": 7215,
+      "BKK_EU": 6660,
+      "EU_MAD": 0,
+      "MAD_MX": 6200
+    },
+    "fuente": "WebSearch + estimación componentes (Skyscanner/Expedia rutas individuales julio 2026)",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260805/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkkt/mad/260818/"
+  },
+  {
+    "timestamp": "2026-07-17T14:22:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_IST",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-10",
+    "fecha_vuelta": "2026-08-25",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Iberia MEX-MAD",
+      "Turkish Airlines MAD-IST-BKK",
+      "Turkish Airlines BKK-IST-MAD",
+      "Air Europa MAD-MEX"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 27775,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7885,
+      "MAD_BKK": 7030,
+      "BKK_EU": 6660,
+      "EU_MAD": 0,
+      "MAD_MX": 6200
+    },
+    "fuente": "WebSearch + estimación componentes interpolados (rango E1+E5 agosto 2026)",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260810/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkkt/mad/260823/"
+  },
+  {
+    "timestamp": "2026-07-17T14:22:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_IST",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": "2026-08-27",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Iberia MEX-MAD",
+      "Turkish Airlines MAD-IST-BKK",
+      "Turkish Airlines BKK-IST-MAD",
+      "Air Europa MAD-MEX"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 27390,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7500,
+      "MAD_BKK": 7030,
+      "BKK_EU": 6660,
+      "EU_MAD": 0,
+      "MAD_MX": 6200
+    },
+    "fuente": "WebSearch + E1 Aug12 (Skyscanner $412 MEX-MAD) + Turkish IST route agosto",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260812/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkkt/mad/260825/"
+  },
+  {
+    "timestamp": "2026-07-17T14:22:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_IST",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-15",
+    "fecha_vuelta": "2026-08-30",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Iberia MEX-MAD",
+      "Turkish Airlines MAD-IST-BKK",
+      "Turkish Airlines BKK-IST-MAD",
+      "Air Europa MAD-MEX"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 27590,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7700,
+      "MAD_BKK": 7030,
+      "BKK_EU": 6660,
+      "EU_MAD": 0,
+      "MAD_MX": 6200
+    },
+    "fuente": "WebSearch + componentes interpolados IST agosto 2026",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260815/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkkt/mad/260828/"
+  },
+  {
+    "timestamp": "2026-07-17T14:22:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_IST",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-22",
+    "fecha_vuelta": "2026-09-06",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Iberia MEX-MAD",
+      "Turkish Airlines MAD-IST-BKK",
+      "Turkish Airlines BKK-IST-MAD",
+      "Air Europa MAD-MEX"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 28290,
+    "precio_desglose_mxn": {
+      "MX_MAD": 8200,
+      "MAD_BKK": 7030,
+      "BKK_EU": 6660,
+      "EU_MAD": 0,
+      "MAD_MX": 6400
+    },
+    "fuente": "WebSearch + E1 Aug22 (8,200 MXN) + Turkish IST agosto",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260822/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkkt/mad/260904/"
+  },
+  {
+    "timestamp": "2026-07-17T14:22:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "via": "MAD_via_IST",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-20",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "World2Fly NLU-MAD",
+      "Turkish Airlines MAD-IST-BKK",
+      "Turkish Airlines BKK-IST-MAD",
+      "World2Fly MAD-NLU"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 32175,
+    "precio_desglose_mxn": {
+      "MX_MAD": 9500,
+      "MAD_BKK": 7215,
+      "BKK_EU": 6660,
+      "EU_MAD": 0,
+      "MAD_MX": 8800
+    },
+    "fuente": "WebSearch + estimación NLU-MAD World2Fly (prima vs MEX ~+1400) + Turkish IST",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/nlu/mad/260805/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkkt/mad/260818/"
+  },
+  {
+    "timestamp": "2026-07-17T14:22:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_via_IST",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": "2026-08-27",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Air Europa CUN-MAD",
+      "Turkish Airlines MAD-IST-BKK",
+      "Turkish Airlines BKK-IST-MAD",
+      "Air Europa MAD-CUN"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 30570,
+    "precio_desglose_mxn": {
+      "MX_MAD": 8880,
+      "MAD_BKK": 7030,
+      "BKK_EU": 6660,
+      "EU_MAD": 0,
+      "MAD_MX": 8000
+    },
+    "fuente": "WebSearch + Air Europa CUN-MAD (ref E5 CUN Aug8=8880) + Turkish IST",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/mad/260812/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkkt/mad/260825/"
+  },
+  {
+    "timestamp": "2026-07-17T14:22:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "via": "MAD_via_AMS",
+    "segundos_EU": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberia MEX-MAD",
+      "Iberia MAD-AMS",
+      "KLM AMS-BKK"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 16650,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7500,
+      "MAD_EU": 1850,
+      "EU_BKK": 7300
+    },
+    "fuente": "WebSearch KLM AMS-BKK agosto 2026 (~$385, KAYAK/Skyscanner) + Iberia MEX-MAD E1 + shuttle MAD-AMS",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260812/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-17T14:22:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "via": "MAD_via_IST",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": "2026-09-03",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Aeromexico QRO-MEX-MAD",
+      "Turkish Airlines MAD-IST-BKK",
+      "Turkish Airlines BKK-IST-MAD",
+      "Aeromexico MAD-MEX-QRO"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 31460,
+    "precio_desglose_mxn": {
+      "MX_MAD": 9200,
+      "MAD_BKK": 7030,
+      "BKK_EU": 6660,
+      "EU_MAD": 0,
+      "MAD_MX": 8570
+    },
+    "fuente": "WebSearch QRO-MAD Aeromexico ($466 Skyscanner, +1500 sobre MEX directo) + Turkish IST agosto",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/qro/mad/260819/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkkt/mad/260901/"
+  },
+  {
+    "timestamp": "2026-07-17T14:22:00Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_IST",
+    "segundos_EU": null,
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-24",
+    "dias_estancia": 19,
+    "aerolineas": [
+      "Iberia MEX-MAD",
+      "Turkish Airlines MAD-IST-BKK",
+      "Turkish Airlines BKK-IST-MAD",
+      "Air Europa MAD-MEX"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 28175,
+    "precio_desglose_mxn": {
+      "MX_MAD": 8100,
+      "MAD_BKK": 7215,
+      "BKK_EU": 6660,
+      "EU_MAD": 0,
+      "MAD_MX": 6200
+    },
+    "fuente": "WebSearch + componentes agosto 2026 (mismo precio tickets independientes que 15d)",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/mad/260805/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkkt/mad/260822/"
   }
 ]
