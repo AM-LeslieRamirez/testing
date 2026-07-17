@@ -239,5 +239,14 @@
       "B": 28,
       "C": 0
     }
+  },
+  {
+    "date": "2026-07-17",
+    "total_entries": 0,
+    "top3_prices_mxn": [],
+    "ghosts_discarded": 0,
+    "urgent_count": 0,
+    "deals_under_threshold": 0,
+    "nota": "Sin datos — prices/2026-07-17.json no existe al momento de ejecucion (00:00 UTC). Rutinas A/B/C no han corrido aun."
   }
 ]
