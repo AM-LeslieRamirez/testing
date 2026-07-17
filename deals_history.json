@@ -248,5 +248,27 @@
     "urgent_count": 0,
     "deals_under_threshold": 0,
     "nota": "Sin datos — prices/2026-07-17.json no existe al momento de ejecucion (00:00 UTC). Rutinas A/B/C no han corrido aun."
+  },
+  {
+    "date": "2026-07-17",
+    "rutina": "D",
+    "total_entries": 188,
+    "top3_prices_mxn": [
+      10701,
+      10763,
+      11091
+    ],
+    "top3_types": [
+      "E3_RT_CUN-MAD",
+      "E5_COMBO_IDA_CUN-BKK",
+      "E5_COMBO_IDA_QRO-BKK"
+    ],
+    "ghosts_discarded": 0,
+    "urgent_count": 4,
+    "urgent_note": "Solo E6 tren (MAD-BCN x2, BCN-CDG x2). Sin urgentes en vuelos.",
+    "deals_under_threshold": 37,
+    "combo_rt_min_mxn": 27310,
+    "combo_rt_under_threshold": 0,
+    "ts": "2026-07-17T23:06:21Z"
   }
 ]
