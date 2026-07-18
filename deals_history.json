@@ -270,5 +270,25 @@
     "combo_rt_min_mxn": 27310,
     "combo_rt_under_threshold": 0,
     "ts": "2026-07-17T23:06:21Z"
+  },
+  {
+    "date": "2026-07-18",
+    "rutina": "D",
+    "total_entries": 151,
+    "top3_prices_mxn": [
+      9810,
+      10100,
+      10364
+    ],
+    "top3_types": [
+      "E3_RT_CUN_MAD",
+      "E5_COMBO_IDA_CUN_BKK",
+      "E5_COMBO_IDA_CUN_BKK_verified"
+    ],
+    "ghosts_discarded": 0,
+    "urgent_count": 5,
+    "deals_under_threshold": 56,
+    "best_combo_rt_mxn": 22110,
+    "timestamp": "2026-07-18T23:06:21Z"
   }
 ]
