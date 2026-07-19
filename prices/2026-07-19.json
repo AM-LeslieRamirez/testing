@@ -498,5 +498,658 @@
     "verificado": false,
     "link": "https://www.plusultra.com",
     "nota": "madrugada_es – RUTA NO CONFIRMADA ago 2026. PU centra expansión en BUE-MAD"
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": "null",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air Europa UX (CUN-MAD Mié 5-ago)",
+      "Iberojet E9 directo MAD-BKK Jue 7-ago"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 12500,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6950,
+      "MAD_BKK": 5550
+    },
+    "fuente": "WebSearch estimado jul-19",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/mad/260805/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": "null",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-08",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air Europa/Iberojet (CUN-MAD Sáb 8-ago)",
+      "Iberojet E9-845 directo MAD-BKK Jue 14-ago"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 12700,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7100,
+      "MAD_BKK": 5600
+    },
+    "fuente": "WebSearch estimado jul-19",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/mad/260808/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": "null",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air Europa/Iberojet (CUN-MAD Mié 12-ago)",
+      "Iberojet E9-845 directo MAD-BKK Jue 14-ago"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 12500,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6900,
+      "MAD_BKK": 5600
+    },
+    "fuente": "WebSearch estimado jul-19",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/mad/260812/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": "null",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-15",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air Europa/Iberojet (CUN-MAD Sáb 15-ago)",
+      "Iberojet E9-845 directo MAD-BKK Jue 20-ago"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 12000,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6700,
+      "MAD_BKK": 5300
+    },
+    "fuente": "WebSearch estimado jul-19",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/mad/260815/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": "null",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air Europa/Iberojet (CUN-MAD Mié 19-ago)",
+      "Iberojet E9-845 directo MAD-BKK Dom 23-ago"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 11300,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6300,
+      "MAD_BKK": 5000
+    },
+    "fuente": "WebSearch estimado jul-19",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/mad/260819/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": "null",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-22",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air Europa/Iberojet (CUN-MAD Sáb 22-ago)",
+      "Iberojet E9-845 directo MAD-BKK Jue 27-ago"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 10250,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5500,
+      "MAD_BKK": 4750
+    },
+    "fuente": "WebSearch estimado jul-19; ref jul-18 MXN 10100",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/mad/260822/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": "null",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air Europa/Iberojet (CUN-MAD Mié 26-ago)",
+      "Iberojet E9-845 directo MAD-BKK Dom 30-ago"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 10600,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5800,
+      "MAD_BKK": 4800
+    },
+    "fuente": "WebSearch estimado jul-19",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/mad/260826/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-22",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet (CUN-MAD Sáb 22-ago)",
+      "Turkish Airlines TK (MAD-IST-BKK Jue 27-ago)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 12100,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5500,
+      "MAD_EU": 1900,
+      "EU_BKK": 4700
+    },
+    "fuente": "WebSearch Turkish",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260822/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-08",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Iberojet (CUN-MAD Sáb 8-ago)",
+      "Turkish Airlines TK (MAD-IST-BKK)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 13600,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7000,
+      "MAD_EU": 2000,
+      "EU_BKK": 4600
+    },
+    "fuente": "WebSearch Turkish $364 Expedia",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260808/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_via_AMS",
+    "segundos_EU": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air Europa/Iberojet (CUN-MAD)",
+      "KLM KL (MAD-AMS)",
+      "KLM KL (AMS-BKK)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 13700,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6200,
+      "MAD_EU": 1350,
+      "EU_BKK": 6150
+    },
+    "fuente": "WebSearch KLM $353",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260819/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico/Iberia (MEX-MAD)",
+      "Turkish Airlines TK (MAD-IST-BKK)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 15100,
+    "precio_desglose_mxn": {
+      "MX_MAD": 8500,
+      "MAD_EU": 2000,
+      "EU_BKK": 4600
+    },
+    "fuente": "WebSearch",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260812/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_tren_BCN",
+    "segundos_EU": "BCN",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air Europa/Iberojet (CUN-MAD)",
+      "Renfe AVE (MAD-BCN)",
+      "Thai Airways TG (BCN-BKK)"
+    ],
+    "tren_segmento": "MAD-BCN Renfe AVE EUR 65 2h30",
+    "precio_total_mxn": 15553,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6950,
+      "MAD_EU": 1203,
+      "EU_BKK": 7400
+    },
+    "fuente": "WebSearch Renfe+Thai",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260805/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "CUN",
+    "via": "MAD_via_AMS",
+    "segundos_EU": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Air Europa/Iberojet (CUN-MAD)",
+      "KLM KL (MAD-AMS)",
+      "KLM KL (AMS-BKK)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 12950,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5800,
+      "MAD_EU": 1300,
+      "EU_BKK": 5850
+    },
+    "fuente": "WebSearch KLM late-Aug",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260826/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-08",
+    "fecha_vuelta": "2026-08-25",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air Europa/Iberojet (CUN-MAD)",
+      "Qatar QR (MAD-DOH-BKK)",
+      "Qatar QR (BKK-DOH-MAD)",
+      "Air Europa/Iberojet (MAD-CUN)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 23500,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7100,
+      "MAD_EU": 3200,
+      "EU_BKK": 4000,
+      "BKK_EU": 2300,
+      "EU_MAD": 2800,
+      "MAD_MX": 4100
+    },
+    "fuente": "WebSearch; ref jul-18 MXN 22110",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260808/260825/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260825/"
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": "2026-08-29",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air Europa/Iberojet (CUN-MAD)",
+      "Qatar QR (MAD-DOH-BKK)",
+      "Qatar QR (BKK-DOH-MAD)",
+      "Air Europa/Iberojet (MAD-CUN)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 22800,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6900,
+      "MAD_EU": 3100,
+      "EU_BKK": 4100,
+      "BKK_EU": 2300,
+      "EU_MAD": 2700,
+      "MAD_MX": 3700
+    },
+    "fuente": "WebSearch; ref jul-18 MXN 22452",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260812/260829/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260829/"
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": "2026-09-05",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air Europa/Iberojet (CUN-MAD)",
+      "Qatar QR (MAD-DOH-BKK)",
+      "Qatar QR (BKK-DOH-MAD)",
+      "Air Europa/Iberojet (MAD-CUN)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 22200,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6200,
+      "MAD_EU": 3200,
+      "EU_BKK": 4100,
+      "BKK_EU": 2200,
+      "EU_MAD": 2700,
+      "MAD_MX": 3800
+    },
+    "fuente": "WebSearch; ref jul-18 MXN 22262",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260819/260905/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260905/"
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": "null",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-22",
+    "fecha_vuelta": "2026-09-06",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Air Europa/Iberojet (CUN-MAD 22-ago)",
+      "Iberojet E9-845 (MAD-BKK 27-ago)",
+      "Iberojet E9-846 (BKK-MAD 3-sep)",
+      "Air Europa UX (MAD-CUN 6-sep)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 22900,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5500,
+      "MAD_BKK": 4750,
+      "BKK_MAD": 5350,
+      "MAD_MX": 7300
+    },
+    "fuente": "WebSearch; ref jul-18 MXN 22840",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260822/260906/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260906/"
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-22",
+    "fecha_vuelta": "2026-09-10",
+    "dias_estancia": 19,
+    "aerolineas": [
+      "Iberojet (CUN-MAD 22-ago)",
+      "Turkish TK (MAD-IST-BKK 27-ago)",
+      "Turkish TK (BKK-IST-MAD 10-sep)",
+      "Air Europa UX (MAD-CUN)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 22600,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5500,
+      "MAD_EU": 1900,
+      "EU_BKK": 4700,
+      "BKK_EU": 4200,
+      "EU_MAD": 2100,
+      "MAD_MX": 4200
+    },
+    "fuente": "WebSearch; ref jul-18 MXN 22618",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260822/260910/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260910/"
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_DIRECT",
+    "segundos_EU": "null",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": "2026-09-10",
+    "dias_estancia": 15,
+    "aerolineas": [
+      "Air Europa/Iberojet (CUN-MAD 26-ago)",
+      "Iberojet E9-845 (MAD-BKK 30-ago)",
+      "Iberojet E9-846 (BKK-MAD 6-sep)",
+      "Air Europa UX (MAD-CUN 10-sep)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 22900,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5800,
+      "MAD_BKK": 4800,
+      "BKK_MAD": 5200,
+      "MAD_MX": 7100
+    },
+    "fuente": "WebSearch; ref jul-18 MXN 23322",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260826/260910/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260910/"
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_via_DOH",
+    "segundos_EU": "DOH",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": "2026-09-12",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air Europa/Iberojet (CUN-MAD)",
+      "Qatar QR (MAD-DOH-BKK)",
+      "Qatar QR (BKK-DOH-MAD)",
+      "Air Europa/Iberojet (MAD-CUN)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 21850,
+    "precio_desglose_mxn": {
+      "MX_MAD": 5800,
+      "MAD_EU": 3200,
+      "EU_BKK": 4100,
+      "BKK_EU": 2000,
+      "EU_MAD": 2750,
+      "MAD_MX": 4000
+    },
+    "fuente": "WebSearch; ref jul-18 MXN 22585",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260826/260912/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260912/"
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_IST",
+    "segundos_EU": "IST",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": "2026-09-07",
+    "dias_estancia": 19,
+    "aerolineas": [
+      "Aeromexico/Iberia (MEX-MAD)",
+      "Turkish TK (MAD-IST-BKK)",
+      "Turkish TK (BKK-IST-MAD)",
+      "Iberia/Aeromexico (MAD-MEX)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 28200,
+    "precio_desglose_mxn": {
+      "MX_MAD": 8500,
+      "MAD_EU": 2000,
+      "EU_BKK": 4600,
+      "BKK_EU": 4200,
+      "EU_MAD": 2200,
+      "MAD_MX": 6700
+    },
+    "fuente": "WebSearch",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260819/260907/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/mex/260907/"
+  },
+  {
+    "timestamp": "2026-07-19T02:02:47Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "CUN",
+    "via": "MAD_via_AMS",
+    "segundos_EU": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": "2026-09-05",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Air Europa/Iberojet (CUN-MAD)",
+      "KLM KL (MAD-AMS-BKK)",
+      "KLM KL (BKK-AMS-MAD)",
+      "Air Europa/Iberojet (MAD-CUN)"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 26500,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6200,
+      "MAD_EU": 1350,
+      "EU_BKK": 6150,
+      "BKK_EU": 5800,
+      "EU_MAD": 1250,
+      "MAD_MX": 5750
+    },
+    "fuente": "WebSearch KLM $353 AMS-BKK",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/cun/bkk/260819/260905/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/cun/260905/"
   }
 ]
