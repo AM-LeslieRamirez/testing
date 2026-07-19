@@ -1550,5 +1550,961 @@
     "verificado": false,
     "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/mex/bkk/260819/260905/",
     "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/bkk/mex/260905/"
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico AM/Iberia IB",
+      "Air France AF"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 16045,
+    "precio_desglose_mxn": {
+      "MX_MAD": 9200,
+      "MAD_EU": 0,
+      "EU_BKK": 6845
+    },
+    "fuente": "WebSearch: MEX-MAD MXN 9,200 Aeromexico/Iberia + CDG->BKK €370 Air France AF",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/MEX/MAD/260805/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "via": "MAD_via_AMS",
+    "segundos_EU": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico AM/Iberia IB",
+      "KLM KL"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 15490,
+    "precio_desglose_mxn": {
+      "MX_MAD": 9200,
+      "MAD_EU": 0,
+      "EU_BKK": 6290
+    },
+    "fuente": "WebSearch: MEX-MAD MXN 9,200 Aeromexico/Iberia + AMS->BKK €340 KLM KL",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/MEX/MAD/260805/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico AM/Iberia IB",
+      "Air France AF",
+      "KLM/Thai BKK-MAD",
+      "Iberia IB/Air Europa UX MAD-MEX"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 27975,
+    "precio_desglose_mxn": {
+      "MX_MAD": 9200,
+      "MAD_EU": 0,
+      "EU_BKK": 6845,
+      "BKK_EU": 0,
+      "EU_MAD": 4900,
+      "MAD_MX": 7030
+    },
+    "fuente": "Compuesto: MEX-MAD 9,200 + CDG-BKK 6,845 + BKK-MAD 4,900 + MAD-MEX 7,030",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/MEX/MAD/260805/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/BKK/MAD/260822/"
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-08",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico AM/Iberia IB",
+      "Air France AF"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 15845,
+    "precio_desglose_mxn": {
+      "MX_MAD": 9000,
+      "MAD_EU": 0,
+      "EU_BKK": 6845
+    },
+    "fuente": "WebSearch: MEX-MAD MXN 9,000 Aeromexico/Iberia + CDG->BKK €370 Air France AF",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/MEX/MAD/260808/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "via": "MAD_via_AMS",
+    "segundos_EU": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-08",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico AM/Iberia IB",
+      "KLM KL"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 15290,
+    "precio_desglose_mxn": {
+      "MX_MAD": 9000,
+      "MAD_EU": 0,
+      "EU_BKK": 6290
+    },
+    "fuente": "WebSearch: MEX-MAD MXN 9,000 Aeromexico/Iberia + AMS->BKK €340 KLM KL",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/MEX/MAD/260808/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-08",
+    "fecha_vuelta": "2026-08-25",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico AM/Iberia IB",
+      "Air France AF",
+      "KLM/Thai BKK-MAD",
+      "Iberia IB/Air Europa UX MAD-MEX"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 27775,
+    "precio_desglose_mxn": {
+      "MX_MAD": 9000,
+      "MAD_EU": 0,
+      "EU_BKK": 6845,
+      "BKK_EU": 0,
+      "EU_MAD": 4900,
+      "MAD_MX": 7030
+    },
+    "fuente": "Compuesto: MEX-MAD 9,000 + CDG-BKK 6,845 + BKK-MAD 4,900 + MAD-MEX 7,030",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/MEX/MAD/260808/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/BKK/MAD/260825/"
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-15",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico AM/Iberia IB",
+      "Air France AF"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 15345,
+    "precio_desglose_mxn": {
+      "MX_MAD": 8500,
+      "MAD_EU": 0,
+      "EU_BKK": 6845
+    },
+    "fuente": "WebSearch: MEX-MAD MXN 8,500 Aeromexico/Iberia + CDG->BKK €370 Air France AF",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/MEX/MAD/260815/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "via": "MAD_via_AMS",
+    "segundos_EU": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-15",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico AM/Iberia IB",
+      "KLM KL"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 14790,
+    "precio_desglose_mxn": {
+      "MX_MAD": 8500,
+      "MAD_EU": 0,
+      "EU_BKK": 6290
+    },
+    "fuente": "WebSearch: MEX-MAD MXN 8,500 Aeromexico/Iberia + AMS->BKK €340 KLM KL",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/MEX/MAD/260815/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-15",
+    "fecha_vuelta": "2026-09-01",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico AM/Iberia IB",
+      "Air France AF",
+      "KLM/Thai BKK-MAD",
+      "Iberia IB/Air Europa UX MAD-MEX"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 27275,
+    "precio_desglose_mxn": {
+      "MX_MAD": 8500,
+      "MAD_EU": 0,
+      "EU_BKK": 6845,
+      "BKK_EU": 0,
+      "EU_MAD": 4900,
+      "MAD_MX": 7030
+    },
+    "fuente": "Compuesto: MEX-MAD 8,500 + CDG-BKK 6,845 + BKK-MAD 4,900 + MAD-MEX 7,030",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/MEX/MAD/260815/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/BKK/MAD/260901/"
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-22",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico AM/Iberia IB",
+      "Air France AF"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 14645,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7800,
+      "MAD_EU": 0,
+      "EU_BKK": 6845
+    },
+    "fuente": "WebSearch: MEX-MAD MXN 7,800 Aeromexico/Iberia + CDG->BKK €370 Air France AF",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/MEX/MAD/260822/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "MEX",
+    "via": "MAD_via_AMS",
+    "segundos_EU": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-22",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico AM/Iberia IB",
+      "KLM KL"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 14090,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7800,
+      "MAD_EU": 0,
+      "EU_BKK": 6290
+    },
+    "fuente": "WebSearch: MEX-MAD MXN 7,800 Aeromexico/Iberia + AMS->BKK €340 KLM KL",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/MEX/MAD/260822/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "MEX",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-22",
+    "fecha_vuelta": "2026-09-08",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico AM/Iberia IB",
+      "Air France AF",
+      "KLM/Thai BKK-MAD",
+      "Iberia IB/Air Europa UX MAD-MEX"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 26575,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7800,
+      "MAD_EU": 0,
+      "EU_BKK": 6845,
+      "BKK_EU": 0,
+      "EU_MAD": 4900,
+      "MAD_MX": 7030
+    },
+    "fuente": "Compuesto: MEX-MAD 7,800 + CDG-BKK 6,845 + BKK-MAD 4,900 + MAD-MEX 7,030",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/MEX/MAD/260822/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/BKK/MAD/260908/"
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly W2F/Aeromexico AM NLU-MAD",
+      "Air France AF"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 14060,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7215,
+      "MAD_EU": 0,
+      "EU_BKK": 6845
+    },
+    "fuente": "WebSearch: NLU-MAD €390 World2Fly + CDG->BKK €370",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/NLU/MAD/260805/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "via": "MAD_via_AMS",
+    "segundos_EU": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly W2F/Aeromexico AM NLU-MAD",
+      "KLM KL"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 13505,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7215,
+      "MAD_EU": 0,
+      "EU_BKK": 6290
+    },
+    "fuente": "WebSearch: NLU-MAD €390 World2Fly + AMS->BKK €340",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/NLU/MAD/260805/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly W2F NLU-MAD",
+      "Air France AF MAD-CDG-BKK",
+      "Multi BKK-MAD",
+      "Air Europa UX MAD-NLU"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 25990,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7215,
+      "MAD_EU": 0,
+      "EU_BKK": 6845,
+      "BKK_EU": 0,
+      "EU_MAD": 4900,
+      "MAD_MX": 7030
+    },
+    "fuente": "Compuesto NLU: 7,215 + CDG-BKK 6,845 + BKK-MAD 4,900 + MAD-NLU 7,030",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/NLU/MAD/260805/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/BKK/MAD/260822/"
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly W2F/Aeromexico AM NLU-MAD",
+      "Air France AF"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 13875,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7030,
+      "MAD_EU": 0,
+      "EU_BKK": 6845
+    },
+    "fuente": "WebSearch: NLU-MAD €380 World2Fly + CDG->BKK €370",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/NLU/MAD/260812/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "via": "MAD_via_AMS",
+    "segundos_EU": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly W2F/Aeromexico AM NLU-MAD",
+      "KLM KL"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 13320,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7030,
+      "MAD_EU": 0,
+      "EU_BKK": 6290
+    },
+    "fuente": "WebSearch: NLU-MAD €380 World2Fly + AMS->BKK €340",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/NLU/MAD/260812/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": "2026-08-29",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly W2F NLU-MAD",
+      "Air France AF MAD-CDG-BKK",
+      "Multi BKK-MAD",
+      "Air Europa UX MAD-NLU"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 25805,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7030,
+      "MAD_EU": 0,
+      "EU_BKK": 6845,
+      "BKK_EU": 0,
+      "EU_MAD": 4900,
+      "MAD_MX": 7030
+    },
+    "fuente": "Compuesto NLU: 7,030 + CDG-BKK 6,845 + BKK-MAD 4,900 + MAD-NLU 7,030",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/NLU/MAD/260812/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/BKK/MAD/260829/"
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly W2F/Aeromexico AM NLU-MAD",
+      "Air France AF"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 13783,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6938,
+      "MAD_EU": 0,
+      "EU_BKK": 6845
+    },
+    "fuente": "WebSearch: NLU-MAD €375 World2Fly + CDG->BKK €370",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/NLU/MAD/260819/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "via": "MAD_via_AMS",
+    "segundos_EU": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly W2F/Aeromexico AM NLU-MAD",
+      "KLM KL"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 13228,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6938,
+      "MAD_EU": 0,
+      "EU_BKK": 6290
+    },
+    "fuente": "WebSearch: NLU-MAD €375 World2Fly + AMS->BKK €340",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/NLU/MAD/260819/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-19",
+    "fecha_vuelta": "2026-09-05",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly W2F NLU-MAD",
+      "Air France AF MAD-CDG-BKK",
+      "Multi BKK-MAD",
+      "Air Europa UX MAD-NLU"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 25713,
+    "precio_desglose_mxn": {
+      "MX_MAD": 6938,
+      "MAD_EU": 0,
+      "EU_BKK": 6845,
+      "BKK_EU": 0,
+      "EU_MAD": 4900,
+      "MAD_MX": 7030
+    },
+    "fuente": "Compuesto NLU: 6,938 + CDG-BKK 6,845 + BKK-MAD 4,900 + MAD-NLU 7,030",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/NLU/MAD/260819/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/BKK/MAD/260905/"
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly W2F/Aeromexico AM NLU-MAD",
+      "Air France AF"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 13968,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7123,
+      "MAD_EU": 0,
+      "EU_BKK": 6845
+    },
+    "fuente": "WebSearch: NLU-MAD €385 World2Fly + CDG->BKK €370",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/NLU/MAD/260826/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "NLU",
+    "via": "MAD_via_AMS",
+    "segundos_EU": "AMS",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "World2Fly W2F/Aeromexico AM NLU-MAD",
+      "KLM KL"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 13413,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7123,
+      "MAD_EU": 0,
+      "EU_BKK": 6290
+    },
+    "fuente": "WebSearch: NLU-MAD €385 World2Fly + AMS->BKK €340",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/NLU/MAD/260826/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "NLU",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": "2026-09-12",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "World2Fly W2F NLU-MAD",
+      "Air France AF MAD-CDG-BKK",
+      "Multi BKK-MAD",
+      "Air Europa UX MAD-NLU"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 25898,
+    "precio_desglose_mxn": {
+      "MX_MAD": 7123,
+      "MAD_EU": 0,
+      "EU_BKK": 6845,
+      "BKK_EU": 0,
+      "EU_MAD": 4900,
+      "MAD_MX": 7030
+    },
+    "fuente": "Compuesto NLU: 7,123 + CDG-BKK 6,845 + BKK-MAD 4,900 + MAD-NLU 7,030",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/NLU/MAD/260826/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/BKK/MAD/260912/"
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico AM (QRO-MEX-MAD)",
+      "Air France AF"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 21045,
+    "precio_desglose_mxn": {
+      "MX_MAD": 14200,
+      "MAD_EU": 0,
+      "EU_BKK": 6845
+    },
+    "fuente": "WebSearch: QRO-MAD MXN 14,200 Skyscanner/Jetcost + CDG-BKK €370",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/QRO/MAD/260805/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-05",
+    "fecha_vuelta": "2026-08-22",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico AM (QRO-MEX-MAD)",
+      "Air France AF MAD-CDG-BKK",
+      "Multi BKK-MAD",
+      "Aeromexico AM MAD-MEX-QRO"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 35205,
+    "precio_desglose_mxn": {
+      "MX_MAD": 14200,
+      "MAD_EU": 0,
+      "EU_BKK": 6845,
+      "BKK_EU": 0,
+      "EU_MAD": 4900,
+      "MAD_MX": 9260
+    },
+    "fuente": "Compuesto QRO: 14,200 + CDG-BKK 6,845 + BKK-MAD 4,900 + MAD-QRO 9,260",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/QRO/MAD/260805/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/BKK/MAD/260822/"
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico AM (QRO-MEX-MAD)",
+      "Air France AF"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 20345,
+    "precio_desglose_mxn": {
+      "MX_MAD": 13500,
+      "MAD_EU": 0,
+      "EU_BKK": 6845
+    },
+    "fuente": "WebSearch: QRO-MAD MXN 13,500 Skyscanner/Jetcost + CDG-BKK €370",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/QRO/MAD/260812/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-12",
+    "fecha_vuelta": "2026-08-29",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico AM (QRO-MEX-MAD)",
+      "Air France AF MAD-CDG-BKK",
+      "Multi BKK-MAD",
+      "Aeromexico AM MAD-MEX-QRO"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 34505,
+    "precio_desglose_mxn": {
+      "MX_MAD": 13500,
+      "MAD_EU": 0,
+      "EU_BKK": 6845,
+      "BKK_EU": 0,
+      "EU_MAD": 4900,
+      "MAD_MX": 9260
+    },
+    "fuente": "Compuesto QRO: 13,500 + CDG-BKK 6,845 + BKK-MAD 4,900 + MAD-QRO 9,260",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/QRO/MAD/260812/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/BKK/MAD/260829/"
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-22",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico AM (QRO-MEX-MAD)",
+      "Air France AF"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 19383,
+    "precio_desglose_mxn": {
+      "MX_MAD": 12538,
+      "MAD_EU": 0,
+      "EU_BKK": 6845
+    },
+    "fuente": "WebSearch: QRO-MAD MXN 12,538 Skyscanner/Jetcost + CDG-BKK €370",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/QRO/MAD/260822/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-22",
+    "fecha_vuelta": "2026-09-08",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico AM (QRO-MEX-MAD)",
+      "Air France AF MAD-CDG-BKK",
+      "Multi BKK-MAD",
+      "Aeromexico AM MAD-MEX-QRO"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 33543,
+    "precio_desglose_mxn": {
+      "MX_MAD": 12538,
+      "MAD_EU": 0,
+      "EU_BKK": 6845,
+      "BKK_EU": 0,
+      "EU_MAD": 4900,
+      "MAD_MX": 9260
+    },
+    "fuente": "Compuesto QRO: 12,538 + CDG-BKK 6,845 + BKK-MAD 4,900 + MAD-QRO 9,260",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/QRO/MAD/260822/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/BKK/MAD/260908/"
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_IDA",
+    "origen_mx": "QRO",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolineas": [
+      "Aeromexico AM (QRO-MEX-MAD)",
+      "Air France AF"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 19845,
+    "precio_desglose_mxn": {
+      "MX_MAD": 13000,
+      "MAD_EU": 0,
+      "EU_BKK": 6845
+    },
+    "fuente": "WebSearch: QRO-MAD MXN 13,000 Skyscanner/Jetcost + CDG-BKK €370",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/QRO/MAD/260826/",
+    "link_vuelta": null
+  },
+  {
+    "timestamp": "2026-07-19T14:02:44Z",
+    "rutina": "A",
+    "escenario": "E5",
+    "tipo": "COMBO_RT",
+    "origen_mx": "QRO",
+    "via": "MAD_via_CDG",
+    "segundos_EU": "CDG",
+    "destino_final": "BKK",
+    "fecha_ida": "2026-08-26",
+    "fecha_vuelta": "2026-09-12",
+    "dias_estancia": 17,
+    "aerolineas": [
+      "Aeromexico AM (QRO-MEX-MAD)",
+      "Air France AF MAD-CDG-BKK",
+      "Multi BKK-MAD",
+      "Aeromexico AM MAD-MEX-QRO"
+    ],
+    "tren_segmento": null,
+    "precio_total_mxn": 34005,
+    "precio_desglose_mxn": {
+      "MX_MAD": 13000,
+      "MAD_EU": 0,
+      "EU_BKK": 6845,
+      "BKK_EU": 0,
+      "EU_MAD": 4900,
+      "MAD_MX": 9260
+    },
+    "fuente": "Compuesto QRO: 13,000 + CDG-BKK 6,845 + BKK-MAD 4,900 + MAD-QRO 9,260",
+    "verificado": false,
+    "link_ida": "https://www.skyscanner.com.mx/transporte/vuelos/QRO/MAD/260826/",
+    "link_vuelta": "https://www.skyscanner.com.mx/transporte/vuelos/BKK/MAD/260912/"
   }
 ]
