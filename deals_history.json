@@ -290,5 +290,32 @@
     "deals_under_threshold": 56,
     "best_combo_rt_mxn": 22110,
     "timestamp": "2026-07-18T23:06:21Z"
+  },
+  {
+    "date": "2026-07-19",
+    "rutina": "D",
+    "total_entries": 132,
+    "top3_prices_mxn": [
+      21720,
+      10250,
+      5495
+    ],
+    "top3_types": [
+      "E5_COMBO_RT_CUN-MAD-CDG-BKK (RT 15d) Iberojet+AirFrance",
+      "E5_COMBO_IDA_CUN-MAD-BKK_DIRECT_URGENTE",
+      "E4_TRAMO_MAD-BKK_Turkish_via_IST_270EUR"
+    ],
+    "ghosts_discarded": 33,
+    "urgent_count": 5,
+    "urgent_breakdown": {
+      "combo_rt_urgente": 0,
+      "combo_ida_urgente": 1,
+      "e6_tren_urgente": 4
+    },
+    "deals_under_threshold": 59,
+    "best_combo_rt_mxn": 21720,
+    "best_combo_ida_mxn": 10250,
+    "notes": "Sin COMBO_RT urgente (min 21,720 > 20,000). 1 COMBO_IDA urgente: CUN-BKK via MAD direct Aug22 Air Europa/Iberojet $10,250. 33 fantasmas descartados: 1 PlusUltra null + 32 E5 MEX/NLU/QRO con MAD_EU=0 (sin escala real en MAD). E4 TRAMO bajo threshold: Turkish MAD-BKK 270EUR Aug20.",
+    "timestamp": "2026-07-19T23:06:41Z"
   }
 ]
