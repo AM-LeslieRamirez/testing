@@ -1837,5 +1837,45 @@
     "fuente": "railcc €59 segmento + €36 BCN-MIL; Rail Europe €143",
     "verificado": false,
     "link": "https://www.thetrainline.com/en-us/train-times/madrid-to-milan"
+  },
+  {
+    "timestamp": "2026-07-20T08:02:16Z",
+    "rutina": "B",
+    "escenario": "E6",
+    "tipo": "TREN",
+    "origen": "BCN",
+    "destino": "CDG",
+    "fecha_ida": null,
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolinea": "tren TGV SNCF",
+    "escalas": [],
+    "precio_total_mxn": 793,
+    "precio_eur": 39,
+    "duracion": "6h15m",
+    "fuente": "SNCF Connect BCN→PAR TGV anticipado desde €39 agosto 2026 (URGENTE <€100)",
+    "verificado": false,
+    "link": "https://www.sncf-connect.com/en-en/train/route/barcelona/paris"
+  },
+  {
+    "timestamp": "2026-07-20T08:02:16Z",
+    "rutina": "B",
+    "escenario": "E4",
+    "tipo": "TRAMO",
+    "origen": "LHR",
+    "destino": "BKK",
+    "fecha_ida": "2026-08-10",
+    "fecha_vuelta": null,
+    "dias_estancia": null,
+    "aerolinea": "EVA Air",
+    "escalas": [
+      "ABU"
+    ],
+    "precio_total_mxn": 4919,
+    "precio_eur": 242,
+    "duracion": "14h30m",
+    "fuente": "Expedia LHR→BKK desde $251/€242 ago 2026 (bajo umbral €280 — verificar disponibilidad)",
+    "verificado": false,
+    "link": "https://www.expedia.com/lp/flights/lhr/bkk/london-to-bangkok"
   }
 ]
